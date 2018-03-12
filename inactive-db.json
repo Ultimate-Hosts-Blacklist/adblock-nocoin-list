@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1520770401": [
-            "1beb2a44.space",
+        "1520893616": [
             "300ca0d0.space",
             "310ca263.space",
             "320ca3f6.space",
@@ -12,10 +11,13 @@
             "3c0cb3b4.space",
             "3d0cb547.space",
             "api.inwemo.com",
-            "berserkpl.net.pl",
             "cdn.cloudcoins.co",
             "digger.cryptobara.com",
-            "dronml.ml"
+            "dronml.ml",
+            "smectapop12.pl"
+        ],
+        "to_test": [
+            "1beb2a44.space"
         ]
     }
 }
