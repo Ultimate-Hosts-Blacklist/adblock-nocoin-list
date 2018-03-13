@@ -1,8 +1,10 @@
-# About [adblock-nocoin-list]
+# About adblock-nocoin-list
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/adblock-nocoin-list.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/adblock-nocoin-list)
 
-[Description]
+```
+Block lists to prevent JavaScript miners
+```
 
 --------------------------------------------------------------------------------
 
