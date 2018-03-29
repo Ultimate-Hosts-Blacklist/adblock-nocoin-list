@@ -521,10 +521,22 @@ class AutoContinue(object):
                     'invalid',
                     'tested']
 
+                alternatives = {
+                    'up': 'number_of_up',
+                    'down': 'number_of_down',
+                    'invalid': 'number_of_invalid',
+                    'tested': 'number_of_tested'
+                }
+
                 for string in to_initiate:
-                    CONFIGURATION['counter']['number'].update({
-                        string: self.backup_content[file_to_restore][string]
-                    })
+                    try:
+                        CONFIGURATION['counter']['number'].update({
+                            string: self.backup_content[file_to_restore][string]
+                        })
+                    except KeyError:
+                        CONFIGURATION['counter']['number'].update({
+                            string: self.backup_content[file_to_restore][alternatives[string]]
+                        })
 
 
 class AutoSave(object):  # pylint: disable=too-few-public-methods
@@ -579,10 +591,11 @@ class AutoSave(object):  # pylint: disable=too-few-public-methods
             time_autorisation = current_time >= int(
                 CONFIGURATION['start']) + (int(CONFIGURATION['travis_autosave_minutes']) * 60)
         except KeyError:
-            if not self.last:
-                return
+            if self.last:
+                raise Exception(
+                    'Please review the way `ExecutionTime()` is called.')
             else:
-                pass
+                return
 
         if self.last or time_autorisation:
             Percentage().log()
@@ -3609,7 +3622,7 @@ if __name__ == '__main__':
         '-v',
         '--version',
         action='version',
-        version='%(prog)s 0.50.4-beta'
+        version='%(prog)s 0.50.6-beta'
     )
 
     ARGS = PARSER.parse_args()
