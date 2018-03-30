@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1522276854": [
-            "1beb2a44.space",
+        "1522418651": [
             "300ca0d0.space",
             "310ca263.space",
             "320ca3f6.space",
@@ -26,6 +25,7 @@
             "aeros12.tk",
             "api.inwemo.com",
             "axoncoho.tk",
+            "berserkpl.net.pl",
             "cdn.cloudcoins.co",
             "depttake.ga",
             "digger.cryptobara.com",
@@ -35,8 +35,11 @@
             "p1.interestingz.pw",
             "pasoherb.gq",
             "pool.hws.ru",
+            "smectapop12.pl",
             "www.mutuza.win"
         ],
-        "to_test": []
+        "to_test": [
+            "1beb2a44.space"
+        ]
     }
 }
