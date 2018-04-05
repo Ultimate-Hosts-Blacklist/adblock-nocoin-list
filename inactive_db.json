@@ -1,16 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1522688511": [
-            "300ca0d0.space",
-            "310ca263.space",
-            "320ca3f6.space",
-            "330ca589.space",
-            "340ca71c.space",
-            "360caa42.space",
-            "370cabd5.space",
-            "3c0cb3b4.space",
-            "3d0cb547.space",
-            "adzjzewsma.cf",
+        "1522931584": [
             "aeros01.tk",
             "aeros02.tk",
             "aeros03.tk",
@@ -38,7 +28,7 @@
             "www.mutuza.win"
         ],
         "to_test": [
-            "1beb2a44.space"
+            "adzjzewsma.cf"
         ]
     }
 }
