@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1531315098": [
+        "1531574335": [
             "aeros01.tk",
             "aeros02.tk",
             "aeros03.tk",
@@ -14,7 +14,9 @@
             "aeros11.tk",
             "aeros12.tk",
             "api.inwemo.com",
+            "berserkpl.net.pl",
             "cdn.cloudcoins.co",
+            "cdnjs.cloudflane.com",
             "coinpirate.cf",
             "depttake.ga",
             "digger.cryptobara.com",
@@ -27,7 +29,8 @@
             "p1.interestingz.pw",
             "pasoherb.gq",
             "play.vb.wearesaudis.net",
-            "pool.hws.ru"
+            "pool.hws.ru",
+            "www.cloudflane.com"
         ],
         "to_test": [
             "adzjzewsma.cf"
