@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1534945384": [
+        "1535290787": [
+            "aeros09.tk",
             "aeros10.tk",
             "aeros11.tk",
             "aeros12.tk",
@@ -14,7 +15,9 @@
             "ffinwwfpqi.gq",
             "gasolina.ml",
             "go2.mercy.ga",
+            "hallaert.online",
             "mhiobjnirs.gq",
+            "mm.zubovskaya-banya.ru",
             "okeyletsgo.ml",
             "p1.interestingz.pw",
             "pasoherb.gq",
@@ -26,8 +29,6 @@
             "www.etzbnfuigipwvs.ru",
             "www.terethat.ru"
         ],
-        "to_test": [
-            "aeros09.tk"
-        ]
+        "to_test": []
     }
 }
