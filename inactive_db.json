@@ -1,12 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1535809754": [
+        "1536241629": [
             "aeros09.tk",
             "aeros10.tk",
             "aeros11.tk",
             "aeros12.tk",
             "api.inwemo.com",
-            "berserkpl.net.pl",
             "cdn.cloudcoins.co",
             "cdnjs.cloudflane.com",
             "coinpirate.cf",
@@ -17,6 +16,8 @@
             "gasolina.ml",
             "go2.mercy.ga",
             "hallaert.online",
+            "host.d-ns.ga",
+            "kippbeak.cf",
             "mhiobjnirs.gq",
             "mm.zubovskaya-banya.ru",
             "okeyletsgo.ml",
@@ -28,6 +29,10 @@
             "www.aymcsx.ru",
             "www.cloudflane.com",
             "www.etzbnfuigipwvs.ru",
+            "www.freecontent.download",
+            "www.hostingcloud.review",
+            "www.jshosting.faith",
+            "www.jshosting.science",
             "www.terethat.ru"
         ],
         "to_test": []
