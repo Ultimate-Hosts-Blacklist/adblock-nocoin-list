@@ -18,7 +18,7 @@
         "ad-miner.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adminer.com": {
             "epoch": "1562976000",
@@ -33,6 +33,21 @@
         "afminer.com": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "alflying.bid": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "alflying.date": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "alflying.win": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
             "state": "future"
         },
         "altavista.ovh": {
@@ -236,9 +251,9 @@
             "state": "future"
         },
         "coinhiveproxy.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "coinlab.biz": {
             "epoch": "1570060800",
@@ -375,6 +390,36 @@
             "expiration_date": "18-jan-2019",
             "state": "future"
         },
+        "flightsy.bid": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "flightsy.date": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "flightsy.win": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "flightzy.bid": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "flightzy.date": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "flightzy.win": {
+            "epoch": "1560816000",
+            "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
         "formulawire.com": {
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
@@ -393,6 +438,21 @@
         "g1thub.com": {
             "epoch": "1566000000",
             "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "gettate.date": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "gettate.faith": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "gettate.racing": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
             "state": "future"
         },
         "gitgrub.pro": {
@@ -488,7 +548,7 @@
         "jsccnn.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jscdndel.com": {
             "epoch": "1570665600",
@@ -496,6 +556,11 @@
             "state": "future"
         },
         "jurty.ml": {
+            "epoch": "1546560000",
+            "expiration_date": "04-jan-2019",
+            "state": "future"
+        },
+        "jurtym.cf": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
             "state": "future"
@@ -938,7 +1003,7 @@
         "webmining.co": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "webxmr.com": {
             "epoch": "1564704000",
@@ -988,6 +1053,36 @@
         "zndaowjdnf.stream": {
             "epoch": "1562803200",
             "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "zymerget.bid": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "zymerget.date": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "zymerget.faith": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "zymerget.party": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "zymerget.stream": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "zymerget.win": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
             "state": "future"
         }
     }
