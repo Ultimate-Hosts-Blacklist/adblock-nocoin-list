@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
         "1q2w3.me": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "2giga.download": {
@@ -16,9 +16,9 @@
             "state": "future"
         },
         "ad-miner.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "adminer.com": {
             "epoch": "1562976000",
@@ -203,7 +203,7 @@
         "cloudcdn.gdn": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cnhv.co": {
             "epoch": "1566518400",
@@ -546,9 +546,9 @@
             "state": "future"
         },
         "jsccnn.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "jscdndel.com": {
             "epoch": "1570665600",
@@ -1001,9 +1001,9 @@
             "state": "future"
         },
         "webmining.co": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "webxmr.com": {
             "epoch": "1564704000",
