@@ -201,9 +201,9 @@
             "state": "future"
         },
         "cloudcdn.gdn": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "cnhv.co": {
             "epoch": "1566518400",
@@ -533,7 +533,7 @@
         "intactoffers.club": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jquery-uim.download": {
             "epoch": "1544572800",
@@ -818,7 +818,7 @@
         "reservedoffers.club": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "rintindown.com": {
             "epoch": "1547164800",
