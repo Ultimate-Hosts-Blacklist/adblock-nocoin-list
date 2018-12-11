@@ -188,7 +188,7 @@
         "chainblock.science": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "clgserv.pro": {
             "epoch": "1575590400",
@@ -476,13 +476,13 @@
             "state": "future"
         },
         "gridiogrid.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "hashing.win": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "hatcalter.com": {
@@ -508,12 +508,12 @@
         "hodlers.party": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hodling.faith": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "iaheyftbsn.review": {
             "epoch": "1562803200",
@@ -921,8 +921,8 @@
             "state": "future"
         },
         "thewise.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "toftofcal.com": {
@@ -981,8 +981,8 @@
             "state": "future"
         },
         "webassembly.stream": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "webmine.cz": {
