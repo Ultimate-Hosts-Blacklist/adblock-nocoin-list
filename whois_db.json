@@ -433,7 +433,7 @@
         "g-content.bid": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "g1thub.com": {
             "epoch": "1566000000",
@@ -456,8 +456,8 @@
             "state": "future"
         },
         "gitgrub.pro": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "gnrdomimplementation.com": {
@@ -538,7 +538,7 @@
         "jquery-uim.download": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "jroqvbvw.info": {
             "epoch": "1569024000",

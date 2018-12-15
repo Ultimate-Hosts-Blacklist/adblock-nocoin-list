@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1544539350": [
+        "1544885097": [
             "1beb2a44.space",
             "300ca0d0.space",
             "310ca263.space",
@@ -48,6 +48,7 @@
             "plexcoin.info",
             "pool.hws.ru",
             "test.minr.pw",
+            "worker.salon.com",
             "wss.nablabee.com",
             "www.aymcsx.ru",
             "www.cryptonoter.com",
@@ -56,8 +57,8 @@
             "www.hostingcloud.review",
             "www.jshosting.faith",
             "www.jshosting.science",
-            "www.monkeyminer.net",
-            "www.terethat.ru"
+            "www.terethat.ru",
+            "xmr.mining.best"
         ],
         "to_test": []
     }
