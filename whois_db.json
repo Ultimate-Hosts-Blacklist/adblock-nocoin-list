@@ -113,7 +113,7 @@
         "bestcoinsignals.com": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "besti.ga": {
             "epoch": "1556150400",
@@ -261,9 +261,9 @@
             "state": "future"
         },
         "coinminingonline.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
-            "state": "past"
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
         },
         "coinnebula.com": {
             "epoch": "1569715200",
