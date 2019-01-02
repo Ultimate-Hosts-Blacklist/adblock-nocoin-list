@@ -100,6 +100,11 @@
             "expiration_date": "11-jul-2019",
             "state": "future"
         },
+        "beatingbytes.com": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
         "becanium.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
@@ -111,9 +116,9 @@
             "state": "future"
         },
         "bestcoinsignals.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
-            "state": "past"
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
         },
         "besti.ga": {
             "epoch": "1556150400",
@@ -365,6 +370,11 @@
             "expiration_date": "20-nov-2019",
             "state": "future"
         },
+        "ethmedialab.info": {
+            "epoch": "1550966400",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
         "eucsoft.com": {
             "epoch": "1549756800",
             "expiration_date": "10-feb-2019",
@@ -555,6 +565,11 @@
             "expiration_date": "10-oct-2019",
             "state": "future"
         },
+        "jscoinminer.com": {
+            "epoch": "1653609600",
+            "expiration_date": "27-may-2022",
+            "state": "future"
+        },
         "jurty.ml": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
@@ -738,6 +753,16 @@
         "nimiq.com": {
             "epoch": "1577836800",
             "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
+        "nimiqpool.com": {
+            "epoch": "1564099200",
+            "expiration_date": "26-jul-2019",
+            "state": "future"
+        },
+        "ninaning.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
             "state": "future"
         },
         "noblock.pro": {
