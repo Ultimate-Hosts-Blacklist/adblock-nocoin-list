@@ -88,7 +88,7 @@
         "bablace.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "baiduccdn1.com": {
             "epoch": "1549929600",
@@ -573,12 +573,12 @@
         "jurty.ml": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "jurtym.cf": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "jyhfuqoh.info": {
             "epoch": "1569024000",
