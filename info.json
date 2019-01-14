@@ -1,11 +1,9 @@
 {
     "arguments": [],
-    "clean_list_file": "clean.list",
     "clean_original": "1",
-    "currently_under_test": "0",
+    "currently_under_test": "1",
     "days_until_next_test": "2",
-    "last_test": "1546960977",
-    "list_name": "domains.list",
+    "last_test": "1547498232",
     "name": "adblock-nocoin-list",
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
     "stable": "1"
