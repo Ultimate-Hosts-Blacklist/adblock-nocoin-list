@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1547498239": [
+        "1547737776": [
             "1beb2a44.space",
             "300ca0d0.space",
             "310ca263.space",
@@ -21,6 +21,7 @@
             "aeros12.tk",
             "afflow.18-plus.net",
             "api.inwemo.com",
+            "authedmine.eu",
             "berserkpl.net.pl",
             "bjorksta.men",
             "cdn.cloudcoins.co",
@@ -44,15 +45,17 @@
             "minr.pw",
             "new.minr.pw",
             "okeyletsgo.ml",
+            "open-hive-server-1.pp.ua",
             "p1.interestingz.pw",
             "pasoherb.gq",
             "play.vb.wearesaudis.net",
             "play.www.intellecthosting.net",
             "plexcoin.info",
-            "pool.hws.ru",
+            "pool.hws.ru"
+        ],
+        "to_test": [
             "test.minr.pw",
             "worker.salon.com",
-            "www2.adfreetv.ch",
             "www.aymcsx.ru",
             "www.cloudflane.com",
             "www.cryptonoter.com",
@@ -63,8 +66,8 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru",
+            "www2.adfreetv.ch",
             "xmr.mining.best"
-        ],
-        "to_test": []
+        ]
     }
 }
