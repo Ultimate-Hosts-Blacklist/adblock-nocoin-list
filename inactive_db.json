@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1547737776": [
+        "1548083442": [
             "1beb2a44.space",
             "300ca0d0.space",
             "310ca263.space",
@@ -21,17 +21,24 @@
             "aeros12.tk",
             "afflow.18-plus.net",
             "api.inwemo.com",
+            "as.cfcdist.loan",
+            "as.cfcnet.top",
             "authedmine.eu",
             "berserkpl.net.pl",
             "bjorksta.men",
             "cdn.cloudcoins.co",
             "cdn-jquery.host",
             "cdnjs.cloudflane.com",
+            "cdn.static-cnt.bid",
             "cdn.streambeam.io",
             "crypto.csgocpu.com",
+            "d.cfcnet.top",
+            "d.cpufan.club",
             "depttake.ga",
             "digger.cryptobara.com",
             "dronml.ml",
+            "eu.cfcdist.loan",
+            "eu.cfcnet.top",
             "ffinwwfpqi.gq",
             "flighty.win",
             "go2.mercy.ga",
@@ -42,8 +49,10 @@
             "kippbeak.cf",
             "m.anyfiles.ovh",
             "mhiobjnirs.gq",
+            "minercry.pt",
             "minr.pw",
             "new.minr.pw",
+            "node.cfcdist.gdn",
             "okeyletsgo.ml",
             "open-hive-server-1.pp.ua",
             "p1.interestingz.pw",
@@ -51,11 +60,12 @@
             "play.vb.wearesaudis.net",
             "play.www.intellecthosting.net",
             "plexcoin.info",
-            "pool.hws.ru",
+            "pool.hws.ru"
+        ],
+        "to_test": [
             "test.minr.pw",
             "vcfs6ip5h6.bid",
             "worker.salon.com",
-            "www2.adfreetv.ch",
             "www.aymcsx.ru",
             "www.cloudflane.com",
             "www.cryptonoter.com",
@@ -68,8 +78,8 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru",
+            "www2.adfreetv.ch",
             "xmr.mining.best"
-        ],
-        "to_test": []
+        ]
     }
 }
