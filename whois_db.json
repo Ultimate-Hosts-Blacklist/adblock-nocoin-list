@@ -188,7 +188,7 @@
         "cfcdist.gdn": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "chainblock.science": {
             "epoch": "1544400000",
@@ -436,9 +436,9 @@
             "state": "future"
         },
         "freshrefresher.com": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
-            "state": "past"
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
         },
         "g-content.bid": {
             "epoch": "1544572800",
@@ -506,9 +506,9 @@
             "state": "future"
         },
         "hemnes.win": {
-            "epoch": "1537574400",
-            "expiration_date": "22-sep-2018",
-            "state": "past"
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
         },
         "hide.ovh": {
             "epoch": "1554249600",
