@@ -64,17 +64,14 @@
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club"
-        ],
-        "to_test": [
-            "test.minr.pw",
+            "reservedoffers.club",
             "web.dle-news.pw",
             "worker.salon.com",
             "wsp.marketgid.com",
             "www.aymcsx.ru",
             "www.blockchained.party",
-            "www.cloudflane.com",
             "www.cryptonoter.com",
+            "www.datasecu.download",
             "www.etzbnfuigipwvs.ru",
             "www.freecontent.download",
             "www.hostingcloud.review",
@@ -83,6 +80,9 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru"
+        ],
+        "to_test": [
+            "test.minr.pw"
         ]
     }
 }
