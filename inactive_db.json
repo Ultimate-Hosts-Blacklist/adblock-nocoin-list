@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1550244080": [
+        "1550416630": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -65,7 +65,10 @@
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club",
+            "reservedoffers.club"
+        ],
+        "to_test": [
+            "test.minr.pw",
             "web.dle-news.pw",
             "worker.salon.com",
             "wsp.marketgid.com",
@@ -81,9 +84,6 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru"
-        ],
-        "to_test": [
-            "test.minr.pw"
         ]
     }
 }
