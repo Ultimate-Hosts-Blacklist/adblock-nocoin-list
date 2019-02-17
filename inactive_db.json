@@ -65,10 +65,9 @@
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club"
-        ],
-        "to_test": [
+            "reservedoffers.club",
             "test.minr.pw",
+            "vcfs6ip5h6.bid",
             "web.dle-news.pw",
             "worker.salon.com",
             "wsp.marketgid.com",
@@ -84,6 +83,7 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
