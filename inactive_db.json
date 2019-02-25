@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1550934858": [
+        "1551109145": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -37,7 +37,6 @@
             "cdn.streambeam.io",
             "cnt.statistic.date",
             "crypto.csgocpu.com",
-            "d.cpufan.club",
             "depttake.ga",
             "dev.cryptobara.com",
             "digger.cryptobara.com",
@@ -66,7 +65,12 @@
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club",
+            "reservedoffers.club"
+        ],
+        "to_test": [
+            "smectapop12.pl",
+            "sunnimiq2.cf",
+            "test.minr.pw",
             "wasm24.ru",
             "web.dle-news.pw",
             "worker.salon.com",
@@ -82,12 +86,7 @@
             "www.jshosting.faith",
             "www.jshosting.science",
             "www.monkeyminer.net",
-            "www.terethat.ru",
-            "cfcdist.gdn",
-            "smectapop12.pl",
-            "sunnimiq2.cf",
-            "test.minr.pw"
-        ],
-        "to_test": []
+            "www.terethat.ru"
+        ]
     }
 }
