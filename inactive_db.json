@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1551109145": [
+        "1551281764": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -26,15 +26,14 @@
             "aservices.party",
             "authedmine.eu",
             "bauersagtnein.myeffect.net",
-            "berserkpl.net.pl",
             "bjorksta.men",
             "cdn.adless.io",
-            "cdn-analytics.pl",
             "cdn.cloudcoins.co",
             "cdn-jquery.host",
             "cdn.jquery-uim.download",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
+            "chainblock.science",
             "cnt.statistic.date",
             "crypto.csgocpu.com",
             "depttake.ga",
@@ -46,6 +45,8 @@
             "go2.mercy.ga",
             "go.megabanners.cf",
             "hallaert.online",
+            "hodlers.party",
+            "hodling.faith",
             "host.d-ns.ga",
             "intactoffers.club",
             "kippbeak.cf",
@@ -60,12 +61,19 @@
             "open-hive-server-1.pp.ua",
             "p1.interestingz.pw",
             "pasoherb.gq",
+            "play.estream.nu",
+            "play.play.estream.nu",
             "play.s01.vidtodo.pro",
             "play.vb.wearesaudis.net",
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club",
+            "reservedoffers.club"
+        ],
+        "to_test": [
+            "smectapop12.pl",
+            "sunnimiq2.cf",
+            "test.minr.pw",
             "wasm24.ru",
             "web.dle-news.pw",
             "worker.salon.com",
@@ -82,11 +90,6 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru"
-        ],
-        "to_test": [
-            "smectapop12.pl",
-            "sunnimiq2.cf",
-            "test.minr.pw"
         ]
     }
 }

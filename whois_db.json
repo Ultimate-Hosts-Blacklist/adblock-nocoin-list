@@ -115,6 +115,11 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "berserkpl.net.pl": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
         "bestcoinsignals.com": {
             "epoch": "1577577600",
             "expiration_date": "29-dec-2019",
@@ -181,8 +186,8 @@
             "state": "future"
         },
         "cdn-analytics.pl": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
             "state": "future"
         },
         "cfcdist.gdn": {
