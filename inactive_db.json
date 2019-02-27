@@ -68,12 +68,7 @@
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club"
-        ],
-        "to_test": [
-            "smectapop12.pl",
-            "sunnimiq2.cf",
-            "test.minr.pw",
+            "reservedoffers.club",
             "wasm24.ru",
             "web.dle-news.pw",
             "worker.salon.com",
@@ -90,6 +85,11 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru"
+        ],
+        "to_test": [
+            "smectapop12.pl",
+            "sunnimiq2.cf",
+            "test.minr.pw"
         ]
     }
 }
