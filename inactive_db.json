@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1551281764": [
+        "1551454716": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -42,6 +42,7 @@
             "dronml.ml",
             "ffinwwfpqi.gq",
             "flighty.win",
+            "g-content.bid",
             "go2.mercy.ga",
             "go.megabanners.cf",
             "hallaert.online",
@@ -49,6 +50,7 @@
             "hodling.faith",
             "host.d-ns.ga",
             "intactoffers.club",
+            "jquery-uim.download",
             "kippbeak.cf",
             "m.anyfiles.ovh",
             "mhiobjnirs.gq",
@@ -68,7 +70,12 @@
             "play.www.intellecthosting.net",
             "plexcoin.info",
             "pool.hws.ru",
-            "reservedoffers.club",
+            "reservedoffers.club"
+        ],
+        "to_test": [
+            "smectapop12.pl",
+            "sunnimiq2.cf",
+            "test.minr.pw",
             "wasm24.ru",
             "web.dle-news.pw",
             "worker.salon.com",
@@ -85,11 +92,6 @@
             "www.jshosting.science",
             "www.monkeyminer.net",
             "www.terethat.ru"
-        ],
-        "to_test": [
-            "smectapop12.pl",
-            "sunnimiq2.cf",
-            "test.minr.pw"
         ]
     }
 }
