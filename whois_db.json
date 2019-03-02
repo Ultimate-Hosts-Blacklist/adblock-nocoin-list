@@ -80,6 +80,11 @@
             "expiration_date": "21-oct-2019",
             "state": "future"
         },
+        "aymcsx.ru": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
         "azvjudwr.info": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
@@ -215,6 +220,11 @@
             "expiration_date": "11-nov-2019",
             "state": "future"
         },
+        "cloudflane.com": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
         "cnhv.co": {
             "epoch": "1566518400",
             "expiration_date": "23-aug-2019",
@@ -265,6 +275,16 @@
             "expiration_date": "06-nov-2019",
             "state": "future"
         },
+        "coinimp.com": {
+            "epoch": "1605744000",
+            "expiration_date": "19-nov-2020",
+            "state": "future"
+        },
+        "coinimp.net": {
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
+        },
         "coinlab.biz": {
             "epoch": "1570060800",
             "expiration_date": "03-oct-2019",
@@ -310,6 +330,11 @@
             "expiration_date": "06-dec-2019",
             "state": "future"
         },
+        "cryptonoter.com": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
         "ctlrnwbv.ru": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
@@ -319,6 +344,11 @@
             "epoch": "1559174400",
             "expiration_date": "30-may-2019",
             "state": "future"
+        },
+        "datasecu.download": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "past"
         },
         "de-mi-nis-ner.info": {
             "epoch": "1554163200",
@@ -380,6 +410,11 @@
             "expiration_date": "24-feb-2020",
             "state": "future"
         },
+        "etzbnfuigipwvs.ru": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
         "eucsoft.com": {
             "epoch": "1581292800",
             "expiration_date": "10-feb-2020",
@@ -439,6 +474,61 @@
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
             "state": "future"
+        },
+        "freecontent.bid": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "freecontent.date": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "freecontent.faith": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.loan": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.party": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.racing": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.review": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.science": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.stream": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "freecontent.trade": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
+        "freecontent.win": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
         },
         "freshrefresher.com": {
             "epoch": "1579910400",
@@ -530,6 +620,61 @@
             "expiration_date": "10-dec-2018",
             "state": "past"
         },
+        "hostingcloud.bid": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.date": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.download": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.faith": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.loan": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.party": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.racing": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.science": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.stream": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.trade": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.win": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
         "iaheyftbsn.review": {
             "epoch": "1562803200",
             "expiration_date": "11-jul-2019",
@@ -550,10 +695,40 @@
             "expiration_date": "13-nov-2018",
             "state": "past"
         },
+        "jqassets.download": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "jqcdn.download": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "jqrcdn.download": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
+            "state": "future"
+        },
+        "jquerrycdn.download": {
+            "epoch": "1554768000",
+            "expiration_date": "09-apr-2019",
+            "state": "future"
+        },
+        "jquery-cdn.download": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "past"
+        },
         "jquery-uim.download": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
             "state": "past"
+        },
+        "jqwww.download": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
         },
         "jroqvbvw.info": {
             "epoch": "1569024000",
@@ -573,6 +748,56 @@
         "jscoinminer.com": {
             "epoch": "1653609600",
             "expiration_date": "27-may-2022",
+            "state": "future"
+        },
+        "jshosting.bid": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.date": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.download": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.loan": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.party": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.racing": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.review": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.stream": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.trade": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "jshosting.win": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
             "state": "future"
         },
         "jurty.ml": {
@@ -685,6 +910,11 @@
             "expiration_date": "18-oct-2028",
             "state": "future"
         },
+        "monero-miner.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
         "monerominer.rocks": {
             "epoch": "1569715200",
             "expiration_date": "29-sep-2019",
@@ -704,6 +934,11 @@
             "epoch": "1579305600",
             "expiration_date": "18-jan-2020",
             "state": "future"
+        },
+        "mutuza.win": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
         },
         "mwor.gq": {
             "epoch": "1572739200",
@@ -773,6 +1008,11 @@
         "noblock.pro": {
             "epoch": "1575590400",
             "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "notmining.org": {
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "oei1.gq": {
@@ -910,6 +1150,11 @@
             "expiration_date": "24-may-2019",
             "state": "future"
         },
+        "sparechange.io": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
         "sparnove.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
@@ -938,6 +1183,11 @@
         "synconnector.com": {
             "epoch": "1582502400",
             "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
+        "terethat.ru": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
             "state": "future"
         },
         "thersprens.com": {
@@ -993,6 +1243,11 @@
         "vcfs6ip5h6.bid": {
             "epoch": "1582070400",
             "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
+        "verifier.live": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
             "state": "future"
         },
         "verresof.com": {
