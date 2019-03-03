@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1551566735": [
+        "1551656038": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -37,6 +37,7 @@
             "chainblock.science",
             "cnt.statistic.date",
             "crypto.csgocpu.com",
+            "datasecu.download",
             "depttake.ga",
             "dev.cryptobara.com",
             "digger.cryptobara.com",
@@ -44,6 +45,10 @@
             "ffinwwfpqi.gq",
             "flighty.win",
             "freecontent.download",
+            "freecontent.loan",
+            "freecontent.racing",
+            "freecontent.review",
+            "freecontent.win",
             "g-content.bid",
             "go2.mercy.ga",
             "go.megabanners.cf",
@@ -63,6 +68,7 @@
             "miner.pr0gramm.com",
             "minr.pw",
             "monkeyminer.net",
+            "mutuza.win",
             "new.minr.pw",
             "node.cfcdist.gdn",
             "okeyletsgo.ml",
@@ -93,7 +99,9 @@
             "www.aeros09.tk",
             "www.aeros10.tk",
             "www.aeros11.tk",
-            "www.aeros12.tk",
+            "www.aeros12.tk"
+        ],
+        "to_test": [
             "www.andlache.com",
             "www.aservices.party",
             "www.aster18cdn.nl",
@@ -117,6 +125,10 @@
             "www.brominer.com",
             "www.bsyauqwerd.party",
             "www.butcalve.com",
+            "www.cryptonoter.com",
+            "www.datasecu.download",
+            "www.etzbnfuigipwvs.ru",
+            "www.freecontent.download",
             "www.hostingcloud.review",
             "www.hostingcloud.win",
             "www.iaheyftbsn.review",
@@ -186,12 +198,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.cryptonoter.com",
-            "www.datasecu.download",
-            "www.etzbnfuigipwvs.ru",
-            "www.freecontent.download"
         ]
     }
 }
