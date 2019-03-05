@@ -486,9 +486,9 @@
             "state": "future"
         },
         "freecontent.faith": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.loan": {
             "epoch": "1547856000",
@@ -496,9 +496,9 @@
             "state": "past"
         },
         "freecontent.party": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.racing": {
             "epoch": "1547856000",
@@ -511,9 +511,9 @@
             "state": "past"
         },
         "freecontent.science": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.stream": {
             "epoch": "1579392000",
@@ -521,9 +521,9 @@
             "state": "future"
         },
         "freecontent.trade": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.win": {
             "epoch": "1547856000",
