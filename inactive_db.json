@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1552578030": [
+        "1552749870": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -12,10 +12,10 @@
             "370cabd5.space",
             "3c0cb3b4.space",
             "3d0cb547.space",
-            "ad.g-content.bid",
             "aeros03.tk",
             "aeros04.tk",
             "aeros05.tk",
+            "aeros06.tk",
             "aeros07.tk",
             "aeros09.tk",
             "aeros10.tk",
@@ -53,7 +53,6 @@
             "ffinwwfpqi.gq",
             "flighty.win",
             "freecontent.download",
-            "g-content.bid",
             "gasolina.ml",
             "go.megabanners.cf",
             "go2.mercy.ga",
@@ -106,6 +105,7 @@
             "www.aeros03.tk",
             "www.aeros04.tk",
             "www.aeros05.tk",
+            "www.aeros06.tk",
             "www.aeros07.tk",
             "www.aeros09.tk",
             "www.aeros10.tk",
@@ -127,7 +127,6 @@
             "www.biberukalap.com",
             "www.bjorksta.men",
             "www.blockchained.party",
-            "www.bmcm.ml",
             "www.bmcm.pw",
             "www.bmnr.pw",
             "www.bmst.pw",
@@ -135,6 +134,13 @@
             "www.brominer.com",
             "www.bsyauqwerd.party",
             "www.butcalve.com",
+            "www.ccvwtdtwyu.trade",
+            "www.cdn-analytics.pl"
+        ],
+        "to_test": [
+            "www.cdn-jquery.host",
+            "www.chainblock.science",
+            "www.cloudcdn.gdn",
             "www.cnhv.co",
             "www.coinhiveproxy.com",
             "www.coinlab.biz",
@@ -256,13 +262,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.ccvwtdtwyu.trade",
-            "www.cdn-analytics.pl",
-            "www.cdn-jquery.host",
-            "www.chainblock.science",
-            "www.cloudcdn.gdn"
         ]
     }
 }
