@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1553268581": [
+        "1553441847": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -35,7 +35,6 @@
             "blockchained.party",
             "cdn-code.host",
             "cdn-jquery.host",
-            "cdn.adless.io",
             "cdn.cloudcoins.co",
             "cdn.jquery-uim.download",
             "cdn.minescripts.info",
@@ -55,6 +54,7 @@
             "ffinwwfpqi.gq",
             "flighty.win",
             "freecontent.download",
+            "fruitice.realnetwrk.com",
             "gasolina.ml",
             "go.megabanners.cf",
             "go2.mercy.ga",
@@ -148,12 +148,23 @@
             "www.coinhiveproxy.com",
             "www.coinlab.biz",
             "www.coinrail.io",
+            "www.cryptoloot.pro",
+            "www.cryptonoter.com",
+            "www.ctlrnwbv.ru",
+            "www.d8acddffe978b5dfcae6.date",
+            "www.datasecu.download",
+            "www.de-mi-nis-ner.info",
+            "www.de-mi-nis-ner2.info",
+            "www.de-ner-mi-nis4.info",
+            "www.de-nis-ner-mi-5.info",
             "www.depttake.ga",
             "www.didnkinrab.com",
             "www.djfhwosjck.bid",
             "www.dronml.ml",
             "www.dzizsih.ru",
-            "www.ermaseuc.ru",
+            "www.ermaseuc.ru"
+        ],
+        "to_test": [
             "www.etzbnfuigipwvs.ru",
             "www.evengparme.com",
             "www.exdynsrv.com",
@@ -258,17 +269,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.cryptoloot.pro",
-            "www.cryptonoter.com",
-            "www.ctlrnwbv.ru",
-            "www.d8acddffe978b5dfcae6.date",
-            "www.datasecu.download",
-            "www.de-mi-nis-ner.info",
-            "www.de-mi-nis-ner2.info",
-            "www.de-ner-mi-nis4.info",
-            "www.de-nis-ner-mi-5.info"
         ]
     }
 }
