@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1553719895": [
+        "1553875676": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -29,6 +29,7 @@
             "as.cfcnet.top",
             "aservices.party",
             "authedmine.eu",
+            "aymcsx.ru",
             "bauersagtnein.myeffect.net",
             "berateveng.ru",
             "bjorksta.men",
@@ -44,12 +45,16 @@
             "chainblock.science",
             "cnt.statistic.date",
             "crypto.csgocpu.com",
+            "ctlrnwbv.ru",
             "d.cfcnet.top",
             "datasecu.download",
             "depttake.ga",
             "dev.cryptobara.com",
             "digger.cryptobara.com",
             "dronml.ml",
+            "dzizsih.ru",
+            "ermaseuc.ru",
+            "etzbnfuigipwvs.ru",
             "eu.cfcnet.top",
             "ffinwwfpqi.gq",
             "flighty.win",
@@ -67,6 +72,7 @@
             "jquery-uim.download",
             "jshosting.faith",
             "jshosting.science",
+            "kdmkauchahynhrs.ru",
             "kippbeak.cf",
             "losital.ru",
             "m.anyfiles.ovh",
@@ -75,6 +81,7 @@
             "minercry.pt",
             "minr.pw",
             "monkeyminer.net",
+            "nddmcconmqsy.ru",
             "new.minr.pw",
             "node.cfcdist.gdn",
             "okeyletsgo.ml",
@@ -128,6 +135,13 @@
             "www.biberukalap.com",
             "www.bjorksta.men",
             "www.blockchained.party",
+            "www.bmcm.pw",
+            "www.bmnr.pw",
+            "www.bmst.pw",
+            "www.bowithow.com",
+            "www.brominer.com",
+            "www.bsyauqwerd.party",
+            "www.butcalve.com",
             "www.ccvwtdtwyu.trade",
             "www.cdn-analytics.pl",
             "www.cdn-code.host",
@@ -136,7 +150,9 @@
             "www.chainblock.science",
             "www.clickwith.bid",
             "www.cloudcdn.gdn",
-            "www.cnhv.co",
+            "www.cnhv.co"
+        ],
+        "to_test": [
             "www.coinhiveproxy.com",
             "www.coinlab.biz",
             "www.coinrail.io",
@@ -258,15 +274,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.bmcm.pw",
-            "www.bmnr.pw",
-            "www.bmst.pw",
-            "www.bowithow.com",
-            "www.brominer.com",
-            "www.bsyauqwerd.party",
-            "www.butcalve.com"
         ]
     }
 }

@@ -698,7 +698,7 @@
         "jqassets.download": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "jqcdn.download": {
             "epoch": "1552867200",
@@ -728,7 +728,7 @@
         "jqwww.download": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "jroqvbvw.info": {
             "epoch": "1569024000",
