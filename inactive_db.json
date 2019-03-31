@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1553875676": [
+        "1554047801": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -150,7 +150,12 @@
             "www.chainblock.science",
             "www.clickwith.bid",
             "www.cloudcdn.gdn",
-            "www.cnhv.co",
+            "www.cnhv.co"
+        ],
+        "to_test": [
+            "www.coinhiveproxy.com",
+            "www.coinlab.biz",
+            "www.coinrail.io",
             "www.cryptoloot.pro",
             "www.cryptonoter.com",
             "www.ctlrnwbv.ru",
@@ -269,11 +274,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.coinhiveproxy.com",
-            "www.coinlab.biz",
-            "www.coinrail.io"
         ]
     }
 }
