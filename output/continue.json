@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "down": 250,
+        "down": 0,
         "invalid": 0,
-        "tested": 983,
-        "up": 733
+        "tested": 0,
+        "up": 0
     }
 }
