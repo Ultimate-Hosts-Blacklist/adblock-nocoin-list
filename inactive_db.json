@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1554047801": [
+        "1554220945": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -34,14 +34,12 @@
             "berateveng.ru",
             "bjorksta.men",
             "blockchained.party",
-            "cdn-code.host",
             "cdn-jquery.host",
             "cdn.cloudcoins.co",
             "cdn.jquery-uim.download",
             "cdn.minescripts.info",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
-            "cfcdist.gdn",
             "chainblock.science",
             "cnt.statistic.date",
             "crypto.csgocpu.com",
@@ -83,7 +81,6 @@
             "monkeyminer.net",
             "nddmcconmqsy.ru",
             "new.minr.pw",
-            "node.cfcdist.gdn",
             "okeyletsgo.ml",
             "open-hive-server-1.pp.ua",
             "pasoherb.gq",
@@ -96,7 +93,6 @@
             "pon.ewtuyytdf45.com",
             "reservedoffers.club",
             "s2.appelamule.com",
-            "staticsfs.host",
             "sunnimiq2.cf",
             "terethat.ru",
             "test.minr.pw",
@@ -146,11 +142,12 @@
             "www.cdn-analytics.pl",
             "www.cdn-code.host",
             "www.cdn-jquery.host",
-            "www.cfcdist.gdn",
             "www.chainblock.science",
             "www.clickwith.bid",
             "www.cloudcdn.gdn",
             "www.cnhv.co",
+            "www.coinhiveproxy.com",
+            "www.coinlab.biz",
             "www.coinrail.io",
             "www.cryptoloot.pro",
             "www.cryptonoter.com",
@@ -253,7 +250,9 @@
             "www.stonecalcom.com",
             "www.sunnimiq2.cf",
             "www.terethat.ru",
-            "www.thersprens.com",
+            "www.thersprens.com"
+        ],
+        "to_test": [
             "www.toftofcal.com",
             "www.tulip18.com",
             "www.ugmfvqsu.ru",
@@ -269,10 +268,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.coinhiveproxy.com",
-            "www.coinlab.biz"
         ]
     }
 }
