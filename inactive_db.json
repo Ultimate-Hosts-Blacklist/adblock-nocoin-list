@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1554565187": [
+        "1554738658": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -61,6 +61,10 @@
             "flighty.win",
             "foxton.nimiqpool.com",
             "freecontent.download",
+            "freecontent.loan",
+            "freecontent.racing",
+            "freecontent.review",
+            "freecontent.win",
             "fruitice.realnetwrk.com",
             "gasolina.ml",
             "go.megabanners.cf",
@@ -86,6 +90,7 @@
             "minercry.pt",
             "minr.pw",
             "monkeyminer.net",
+            "mutuza.win",
             "nddmcconmqsy.ru",
             "new.minr.pw",
             "okeyletsgo.ml",
@@ -173,6 +178,7 @@
             "www.dronml.ml",
             "www.dzizsih.ru",
             "www.ermaseuc.ru",
+            "www.ethmedialab.info",
             "www.etzbnfuigipwvs.ru",
             "www.evengparme.com",
             "www.exdynsrv.com",
@@ -242,16 +248,21 @@
             "www.plexcoin.info",
             "www.premiumstats.xyz",
             "www.reservedoffers.club",
+            "www.rintindown.com",
+            "www.rintinwa.com",
+            "www.salamaleyum.com",
+            "www.silimbompom.com",
             "www.skencituer.com",
             "www.smartoffer.site",
             "www.smectapop12.pl",
-            "www.sparnove.com",
             "www.staticsfs.host",
             "www.stonecalcom.com",
             "www.sunnimiq2.cf",
             "www.synconnector.com",
             "www.terethat.ru",
-            "www.thersprens.com",
+            "www.thersprens.com"
+        ],
+        "to_test": [
             "www.toftofcal.com",
             "www.tulip18.com",
             "www.ugmfvqsu.ru",
@@ -267,13 +278,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.rintindown.com",
-            "www.rintinwa.com",
-            "www.salamaleyum.com",
-            "www.service4refresh.info",
-            "www.silimbompom.com"
         ]
     }
 }
