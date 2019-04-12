@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1554910733": [
+        "1555084020": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -98,7 +98,9 @@
             "pasoherb.gq",
             "play.estream.nu",
             "play.play.estream.nu",
+            "play.power.tainiesonline.pw",
             "play.s01.vidtodo.pro",
+            "play.tainiesonline.pw",
             "play.vb.wearesaudis.net",
             "play.www.intellecthosting.net",
             "plexcoin.info",
@@ -191,7 +193,6 @@
             "www.freecontent.racing",
             "www.freecontent.review",
             "www.freecontent.win",
-            "www.freshrefresher.com",
             "www.gasolina.ml",
             "www.gitgrub.pro",
             "www.gobba.myeffect.net",
@@ -258,7 +259,11 @@
             "www.staticsfs.host",
             "www.stonecalcom.com",
             "www.sunnimiq2.cf",
-            "www.thersprens.com",
+            "www.synconnector.com",
+            "www.terethat.ru",
+            "www.thersprens.com"
+        ],
+        "to_test": [
             "www.toftofcal.com",
             "www.ugmfvqsu.ru",
             "www.unrummaged.com",
@@ -274,10 +279,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.synconnector.com",
-            "www.terethat.ru"
         ]
     }
 }
