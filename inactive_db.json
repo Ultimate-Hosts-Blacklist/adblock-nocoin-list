@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1555256715": [
+        "1555430203": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -36,10 +36,10 @@
             "bjorksta.men",
             "blockchained.party",
             "bulls.nimiqpool.com",
+            "cdn-code.host",
             "cdn-jquery.host",
             "cdn.cloudcoins.co",
             "cdn.jquery-uim.download",
-            "cdn.minescripts.info",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
             "chainblock.science",
@@ -118,6 +118,7 @@
             "wasm24.ru",
             "web.dle-news.pw",
             "whanganui.nimiqpool.com",
+            "whysoserius.club",
             "worker.salon.com",
             "ws.bhzejltg.info",
             "ws.pzoifaum.info",
@@ -225,7 +226,6 @@
             "www.mhiobjnirs.gq",
             "www.mi-de-ner-nis3.info",
             "www.minercry.pt",
-            "www.minescripts.info",
             "www.minr.pw",
             "www.moneone.ga",
             "www.money-maker-default.info",
@@ -265,19 +265,19 @@
             "www.toftofcal.com",
             "www.ugmfvqsu.ru",
             "www.unrummaged.com",
-            "www.uoldid.ru",
-            "www.vuryua.ru",
-            "www.wasm24.ru",
-            "www.yrdrtzmsmt.com",
-            "www.zndaowjdnf.stream"
+            "www.uoldid.ru"
         ],
         "to_test": [
+            "www.vuryua.ru",
+            "www.wasm24.ru",
             "www.willacrit.com",
             "www.witthethim.com",
             "www.wp-monero-miner.de",
             "www.xmr.cool",
             "www.xvideosharing.site",
-            "www.yqaywudifu.date"
+            "www.yqaywudifu.date",
+            "www.yrdrtzmsmt.com",
+            "www.zndaowjdnf.stream"
         ]
     }
 }
