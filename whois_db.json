@@ -665,6 +665,11 @@
             "expiration_date": "08-dec-2019",
             "state": "future"
         },
+        "hallaert.online": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
         "hashing.win": {
             "epoch": "1575936000",
             "expiration_date": "10-dec-2019",
@@ -931,9 +936,9 @@
             "state": "future"
         },
         "losital.ru": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1589846400",
+            "expiration_date": "19-may-2020",
+            "state": "future"
         },
         "machieved.com": {
             "epoch": "1574294400",
@@ -1003,6 +1008,11 @@
         "minexmr.stream": {
             "epoch": "1557878400",
             "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "minr.pw": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "moneone.ga": {
