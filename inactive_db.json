@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1555602768": [
+        "1555776919": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -42,7 +42,6 @@
             "cdn.jquery-uim.download",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
-            "cdn1.pebx.pl",
             "chainblock.science",
             "clickwith.bid",
             "cnt.statistic.date",
@@ -132,6 +131,7 @@
             "www.aeros10.tk",
             "www.aeros11.tk",
             "www.aeros12.tk",
+            "www.andlache.com",
             "www.aservices.party",
             "www.aster18cdn.nl",
             "www.authedmine.eu",
@@ -209,9 +209,11 @@
             "www.jshosting.science",
             "www.jurty.ml",
             "www.kdmkauchahynhrs.ru",
+            "www.kedtise.com",
             "www.kippbeak.cf",
             "www.laserveradedomaina.com",
             "www.ledhenone.com",
+            "www.ledinund.com",
             "www.machieved.com",
             "www.malictuiar.com",
             "www.mebablo.com",
@@ -258,8 +260,12 @@
             "www.ugmfvqsu.ru",
             "www.unrummaged.com",
             "www.uoldid.ru",
+            "www.verresof.com",
             "www.vuryua.ru",
             "www.wasm24.ru",
+            "www.whysoserius.club",
+            "www.willacrit.com",
+            "www.witthethim.com",
             "www.wp-monero-miner.de",
             "www.xmr.cool",
             "www.xvideosharing.site",
@@ -267,10 +273,6 @@
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
         ],
-        "to_test": [
-            "www.whysoserius.club",
-            "www.willacrit.com",
-            "www.witthethim.com"
-        ]
+        "to_test": []
     }
 }
