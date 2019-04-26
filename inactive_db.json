@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1556120927": [
+        "1556294309": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -76,6 +76,7 @@
             "host.d-ns.ga",
             "hostingcloud.review",
             "intactoffers.club",
+            "jquery-cdn.download",
             "jquery-uim.download",
             "jshosting.faith",
             "jshosting.science",
@@ -94,6 +95,7 @@
             "open-hive-server-1.pp.ua",
             "pasoherb.gq",
             "play.estream.nu",
+            "play.istlandoll.com",
             "play.play.estream.nu",
             "play.power.tainiesonline.pw",
             "play.s01.vidtodo.pro",
@@ -107,7 +109,6 @@
             "s10.hostcontent.live",
             "s2.appelamule.com",
             "shannon.nimiqpool.com",
-            "staticsfs.host",
             "sunnimiq2.cf",
             "terethat.ru",
             "tokomaru.nimiqpool.com",
@@ -161,7 +162,6 @@
             "www.chainblock.science",
             "www.clickwith.bid",
             "www.cnhv.co",
-            "www.coin-services.info",
             "www.coinhiveproxy.com",
             "www.coinlab.biz",
             "www.coinrail.io",
@@ -170,7 +170,6 @@
             "www.ctlrnwbv.ru",
             "www.d8acddffe978b5dfcae6.date",
             "www.datasecu.download",
-            "www.de-mi-nis-ner2.info",
             "www.de-ner-mi-nis4.info",
             "www.de-nis-ner-mi-5.info",
             "www.depttake.ga",
@@ -225,7 +224,6 @@
             "www.mi-de-ner-nis3.info",
             "www.minercry.pt",
             "www.moneone.ga",
-            "www.money-maker-default.info",
             "www.money-maker-script.info",
             "www.monkeyminer.net",
             "www.mutuza.win",
@@ -259,7 +257,9 @@
             "www.synconnector.com",
             "www.terethat.ru",
             "www.thersprens.com",
-            "www.toftofcal.com",
+            "www.toftofcal.com"
+        ],
+        "to_test": [
             "www.ugmfvqsu.ru",
             "www.unrummaged.com",
             "www.uoldid.ru",
@@ -275,7 +275,6 @@
             "www.yqaywudifu.date",
             "www.yrdrtzmsmt.com",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": []
+        ]
     }
 }
