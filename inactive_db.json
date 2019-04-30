@@ -107,9 +107,7 @@
             "pool.hws.ru",
             "reservedoffers.club",
             "s10.hostcontent.live",
-            "s2.appelamule.com"
-        ],
-        "to_test": [
+            "s2.appelamule.com",
             "shannon.nimiqpool.com",
             "sunnimiq2.cf",
             "terethat.ru",
@@ -139,6 +137,7 @@
             "www.andlache.com",
             "www.aservices.party",
             "www.aster18cdn.nl",
+            "www.authedmine.com",
             "www.authedmine.eu",
             "www.aymcsx.ru",
             "www.bablace.com",
@@ -164,6 +163,7 @@
             "www.chainblock.science",
             "www.clickwith.bid",
             "www.cnhv.co",
+            "www.coinhive.com",
             "www.coinhiveproxy.com",
             "www.coinlab.biz",
             "www.coinrail.io",
@@ -194,19 +194,19 @@
             "www.freecontent.review",
             "www.freecontent.win",
             "www.gasolina.ml",
-            "www.gitgrub.pro",
             "www.gnrdomimplementation.com",
             "www.gobba.myeffect.net",
             "www.goldoffer.online",
             "www.gramombird.com",
+            "www.gridiogrid.com",
             "www.gustaver.ddns.net",
             "www.hatcalter.com",
             "www.hegrinhar.com",
             "www.hodlers.party",
             "www.hodling.faith",
             "www.hostingcloud.review",
-            "www.iaheyftbsn.review",
             "www.intactoffers.club",
+            "www.jqcdn.download",
             "www.jquery-cdn.download",
             "www.jquery-uim.download",
             "www.jshosting.faith",
@@ -274,6 +274,7 @@
             "www.xvideosharing.site",
             "www.yqaywudifu.date",
             "www.zndaowjdnf.stream"
-        ]
+        ],
+        "to_test": []
     }
 }
