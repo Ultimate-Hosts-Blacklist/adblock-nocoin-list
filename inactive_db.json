@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1556467024": [
+        "1556640274": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -90,6 +90,7 @@
             "minercry.pt",
             "monkeyminer.net",
             "mutuza.win",
+            "mysite.irkdsu.ru",
             "nddmcconmqsy.ru",
             "okeyletsgo.ml",
             "open-hive-server-1.pp.ua",
@@ -106,7 +107,9 @@
             "pool.hws.ru",
             "reservedoffers.club",
             "s10.hostcontent.live",
-            "s2.appelamule.com",
+            "s2.appelamule.com"
+        ],
+        "to_test": [
             "shannon.nimiqpool.com",
             "sunnimiq2.cf",
             "terethat.ru",
@@ -255,6 +258,10 @@
             "www.synconnector.com",
             "www.terethat.ru",
             "www.thersprens.com",
+            "www.toftofcal.com",
+            "www.ugmfvqsu.ru",
+            "www.unrummaged.com",
+            "www.uoldid.ru",
             "www.verresof.com",
             "www.vuryua.ru",
             "www.wasm24.ru",
@@ -267,12 +274,6 @@
             "www.xvideosharing.site",
             "www.yqaywudifu.date",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "www.toftofcal.com",
-            "www.ugmfvqsu.ru",
-            "www.unrummaged.com",
-            "www.uoldid.ru"
         ]
     }
 }

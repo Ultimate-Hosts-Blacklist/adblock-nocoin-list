@@ -793,7 +793,7 @@
         "jqrcdn.download": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jquerrycdn.download": {
             "epoch": "1554768000",
