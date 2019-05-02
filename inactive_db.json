@@ -108,10 +108,7 @@
             "pool.hws.ru",
             "reservedoffers.club",
             "s10.hostcontent.live",
-            "s2.appelamule.com"
-        ],
-        "to_test": [
-            "shannon.nimiqpool.com",
+            "s2.appelamule.com",
             "sunnimiq2.cf",
             "terethat.ru",
             "tokomaru.nimiqpool.com",
@@ -170,6 +167,7 @@
             "www.coinhiveproxy.com",
             "www.coinlab.biz",
             "www.coinrail.io",
+            "www.crypto-loot.com",
             "www.cryptoloot.pro",
             "www.cryptonoter.com",
             "www.ctlrnwbv.ru",
@@ -201,7 +199,6 @@
             "www.gobba.myeffect.net",
             "www.goldoffer.online",
             "www.gramombird.com",
-            "www.gridiogrid.com",
             "www.gustaver.ddns.net",
             "www.hatcalter.com",
             "www.hegrinhar.com",
@@ -255,7 +252,6 @@
             "www.skencituer.com",
             "www.smartoffer.site",
             "www.smectapop12.pl",
-            "www.staticsfs.host",
             "www.stonecalcom.com",
             "www.sunnimiq2.cf",
             "www.synconnector.com",
@@ -277,6 +273,9 @@
             "www.xvideosharing.site",
             "www.yqaywudifu.date",
             "www.zndaowjdnf.stream"
+        ],
+        "to_test": [
+            "shannon.nimiqpool.com"
         ]
     }
 }
