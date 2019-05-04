@@ -781,9 +781,9 @@
             "state": "past"
         },
         "jqassets.download": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
-            "state": "past"
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
         },
         "jqcdn.download": {
             "epoch": "1552867200",
@@ -811,9 +811,9 @@
             "state": "past"
         },
         "jqwww.download": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
-            "state": "past"
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
         },
         "jroqvbvw.info": {
             "epoch": "1569024000",
@@ -966,8 +966,8 @@
             "state": "future"
         },
         "mi-de-ner-nis3.info": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "mighbest.host": {
@@ -1036,8 +1036,8 @@
             "state": "future"
         },
         "money-maker-script.info": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "moonsade.com": {

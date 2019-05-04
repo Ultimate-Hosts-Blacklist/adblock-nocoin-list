@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1556812246": [
+        "1556985508": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -71,6 +71,7 @@
             "gasolina.ml",
             "go.megabanners.cf",
             "himatangi.nimiqpool.com",
+            "hive.tubetitties.com",
             "hodlers.party",
             "hodling.faith",
             "host.d-ns.ga",
@@ -96,9 +97,7 @@
             "open-hive-server-1.pp.ua",
             "p1.interestingz.pw",
             "pasoherb.gq",
-            "play.estream.nu",
             "play.istlandoll.com",
-            "play.play.estream.nu",
             "play.power.tainiesonline.pw",
             "play.s01.vidtodo.pro",
             "play.tainiesonline.pw",
@@ -108,7 +107,10 @@
             "pool.hws.ru",
             "reservedoffers.club",
             "s10.hostcontent.live",
-            "s2.appelamule.com",
+            "s2.appelamule.com"
+        ],
+        "to_test": [
+            "shannon.nimiqpool.com",
             "sunnimiq2.cf",
             "terethat.ru",
             "tokomaru.nimiqpool.com",
@@ -273,9 +275,6 @@
             "www.xvideosharing.site",
             "www.yqaywudifu.date",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": [
-            "shannon.nimiqpool.com"
         ]
     }
 }
