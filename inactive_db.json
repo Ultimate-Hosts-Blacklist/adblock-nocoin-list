@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock-nocoin-list/domains.list": {
-        "1556985508": [
+        "1557158557": [
             "1beb2a44.space",
             "1q2w3.fun",
             "300ca0d0.space",
@@ -107,7 +107,9 @@
             "pool.hws.ru",
             "reservedoffers.club",
             "s10.hostcontent.live",
-            "s2.appelamule.com",
+            "s2.appelamule.com"
+        ],
+        "to_test": [
             "shannon.nimiqpool.com",
             "sunnimiq2.cf",
             "terethat.ru",
@@ -272,7 +274,6 @@
             "www.xvideosharing.site",
             "www.yqaywudifu.date",
             "www.zndaowjdnf.stream"
-        ],
-        "to_test": []
+        ]
     }
 }
