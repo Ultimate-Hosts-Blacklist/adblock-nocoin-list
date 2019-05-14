@@ -790,7 +790,7 @@
         "state": "past"
     },
     "jqrcdn.download": {
-        "epoch": "1556582400",
+        "epoch": 1556582400,
         "expiration_date": "30-apr-2019",
         "state": "past"
     },
@@ -850,7 +850,7 @@
         "state": "past"
     },
     "jshosting.loan": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -860,7 +860,7 @@
         "state": "past"
     },
     "jshosting.racing": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
