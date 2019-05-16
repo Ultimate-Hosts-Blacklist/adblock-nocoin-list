@@ -705,7 +705,7 @@
         "state": "past"
     },
     "hostingcloud.bid": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1305,7 +1305,7 @@
         "state": "future"
     },
     "swiftmining.win": {
-        "epoch": "1556582400",
+        "epoch": 1556582400,
         "expiration_date": "30-apr-2019",
         "state": "past"
     },
