@@ -1005,9 +1005,9 @@
         "state": "future"
     },
     "minexmr.stream": {
-        "epoch": "1557878400",
+        "epoch": 1557878400,
         "expiration_date": "15-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "minr.pw": {
         "epoch": "1586995200",
