@@ -725,7 +725,7 @@
         "state": "past"
     },
     "hostingcloud.loan": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -750,7 +750,7 @@
         "state": "past"
     },
     "hostingcloud.trade": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1400,9 +1400,9 @@
         "state": "future"
     },
     "vuryua.ru": {
-        "epoch": "1558224000",
+        "epoch": 1558224000,
         "expiration_date": "19-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "wasm24.ru": {
         "epoch": "1550793600",
