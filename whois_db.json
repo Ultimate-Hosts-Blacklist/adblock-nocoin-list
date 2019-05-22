@@ -1370,8 +1370,8 @@
         "state": "future"
     },
     "uoldid.ru": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "vcfs6ip5h6.bid": {
@@ -1400,9 +1400,9 @@
         "state": "future"
     },
     "vuryua.ru": {
-        "epoch": 1558224000,
-        "expiration_date": "19-may-2019",
-        "state": "past"
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
     },
     "wasm24.ru": {
         "epoch": "1550793600",
