@@ -145,9 +145,9 @@
         "state": "past"
     },
     "berserkpl.net.pl": {
-        "epoch": "1558656000",
+        "epoch": 1558656000,
         "expiration_date": "24-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "besocial.online": {
         "epoch": "1574467200",
@@ -703,6 +703,11 @@
         "epoch": "1544400000",
         "expiration_date": "10-dec-2018",
         "state": "past"
+    },
+    "hostcontent.live": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
     },
     "hostingcloud.bid": {
         "epoch": 1554336000,
