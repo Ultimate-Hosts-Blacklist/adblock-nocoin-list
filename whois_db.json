@@ -390,9 +390,9 @@
         "state": "future"
     },
     "d8acddffe978b5dfcae6.date": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "datasecu.download": {
         "epoch": "1546041600",
@@ -845,7 +845,7 @@
         "state": "future"
     },
     "jshosting.bid": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -1280,8 +1280,8 @@
         "state": "future"
     },
     "smectapop12.pl": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1559865600,
+        "expiration_date": "07-jun-2019",
         "state": "future"
     },
     "sparechange.io": {
