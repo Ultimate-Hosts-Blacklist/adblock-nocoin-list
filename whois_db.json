@@ -709,6 +709,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "hostingcloud.accountant": {
+        "epoch": 1554336000,
+        "expiration_date": "04-apr-2019",
+        "state": "past"
+    },
     "hostingcloud.bid": {
         "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
@@ -870,7 +875,7 @@
         "state": "past"
     },
     "jshosting.review": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -885,7 +890,7 @@
         "state": "past"
     },
     "jshosting.win": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
