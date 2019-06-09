@@ -1,266 +1,34 @@
 {
-    "1559930409.5608735": {
-        "domain": "freecontent.download",
-        "extension": "download"
-    },
-    "1559930409.6188548": {
-        "domain": "gasolina.ml",
-        "extension": "ml"
-    },
-    "1559930409.6854944": {
-        "domain": "goldoffer.online",
-        "extension": "online"
-    },
-    "1559930409.8136458": {
-        "domain": "hodlers.party",
-        "extension": "party"
-    },
-    "1559930415.836023": {
-        "domain": "hostingcloud.download",
-        "extension": "download"
-    },
-    "1559930415.9639144": {
-        "domain": "intactoffers.club",
-        "extension": "club"
-    },
-    "1559930415.9942083": {
-        "domain": "jqcdn.download",
-        "extension": "download"
-    },
-    "1559930416.024328": {
-        "domain": "jqassets.download",
-        "extension": "download"
-    },
-    "1559930416.0283072": {
-        "domain": "jquerrycdn.download",
-        "extension": "download"
-    },
-    "1559930416.0535119": {
-        "domain": "jquery-cdn.download",
-        "extension": "download"
-    },
-    "1559930416.104856": {
-        "domain": "jqwww.download",
-        "extension": "download"
-    },
-    "1559930416.166601": {
-        "domain": "jquery-uim.download",
-        "extension": "download"
-    },
-    "1559930416.3367918": {
-        "domain": "jurty.ml",
-        "extension": "ml"
-    },
-    "1559930418.0297778": {
-        "domain": "okeyletsgo.ml",
-        "extension": "ml"
-    },
-    "1559930424.1661108": {
-        "domain": "reservedoffers.club",
-        "extension": "club"
-    },
-    "1559930424.5408635": {
-        "domain": "whysoserius.club",
-        "extension": "club"
-    },
-    "1559930430.5129719": {
-        "domain": "xmr.cool",
-        "extension": "cool"
-    },
-    "1559930430.5831158": {
-        "domain": "www.xmr.cool",
-        "extension": "cool"
-    },
-    "1559930431.0401838": {
-        "domain": "www.aservices.party",
-        "extension": "party"
-    },
-    "1559930431.2268884": {
-        "domain": "www.baywttgdhe.download",
-        "extension": "download"
-    },
-    "1559930431.3140273": {
-        "domain": "www.bjorksta.men",
-        "extension": "men"
-    },
-    "1559930431.3400788": {
-        "domain": "www.blockchained.party",
-        "extension": "party"
-    },
-    "1559930431.3805113": {
-        "domain": "www.bsyauqwerd.party",
-        "extension": "party"
-    },
-    "1559930431.4282162": {
-        "domain": "www.cdn-code.host",
-        "extension": "host"
-    },
-    "1559930433.3331678": {
-        "domain": "www.cdn-jquery.host",
-        "extension": "host"
-    },
-    "1559930433.5423453": {
-        "domain": "www.datasecu.download",
-        "extension": "download"
-    },
-    "1559930433.616134": {
-        "domain": "www.dronml.ml",
-        "extension": "ml"
-    },
-    "1559930433.8275363": {
-        "domain": "www.freecontent.download",
-        "extension": "download"
-    },
-    "1559930433.8942063": {
-        "domain": "www.freecontent.racing",
-        "extension": "racing"
-    },
-    "1559930434.047488": {
-        "domain": "www.gasolina.ml",
-        "extension": "ml"
-    },
-    "1559930434.1188905": {
-        "domain": "www.hodlers.party",
-        "extension": "party"
-    },
-    "1559930434.2340941": {
-        "domain": "www.hostingcloud.download",
-        "extension": "download"
-    },
-    "1559930435.0593948": {
-        "domain": "www.intactoffers.club",
-        "extension": "club"
-    },
-    "1559930435.095999": {
-        "domain": "www.jqcdn.download",
-        "extension": "download"
-    },
-    "1559930435.1221433": {
-        "domain": "www.jquerrycdn.download",
-        "extension": "download"
-    },
-    "1559930435.1470926": {
-        "domain": "www.jquery-cdn.download",
-        "extension": "download"
-    },
-    "1559930435.1719499": {
-        "domain": "www.jquery-uim.download",
-        "extension": "download"
-    },
-    "1559930435.2840865": {
-        "domain": "www.jurty.ml",
-        "extension": "ml"
-    },
-    "1559930435.9145305": {
-        "domain": "www.okeyletsgo.ml",
-        "extension": "ml"
-    },
-    "1559930436.1427763": {
-        "domain": "www.reservedoffers.club",
-        "extension": "club"
-    },
-    "1559930436.3877165": {
-        "domain": "www.whysoserius.club",
-        "extension": "club"
-    },
-    "1559930442.8132613": {
-        "domain": "aservices.party",
-        "extension": "party"
-    },
-    "1559930442.919756": {
-        "domain": "baywttgdhe.download",
-        "extension": "download"
-    },
-    "1559930443.0568056": {
-        "domain": "bjorksta.men",
-        "extension": "men"
-    },
-    "1559930444.2782362": {
-        "domain": "blockchained.party",
-        "extension": "party"
-    },
-    "1559930444.3890522": {
-        "domain": "bsyauqwerd.party",
-        "extension": "party"
-    },
-    "1559930444.429067": {
-        "domain": "cdn-code.host",
-        "extension": "host"
-    },
-    "1559930444.4530427": {
-        "domain": "cdn-jquery.host",
-        "extension": "host"
-    },
-    "1559930444.7851064": {
-        "domain": "datasecu.download",
-        "extension": "download"
-    },
-    "1559930445.84505": {
-        "domain": "dronml.ml",
-        "extension": "ml"
-    },
-    "1559930446.0548806": {
-        "domain": "freecontent.download",
-        "extension": "download"
-    },
-    "1559930446.0954442": {
-        "domain": "freecontent.racing",
-        "extension": "racing"
-    },
-    "1559930446.1478114": {
-        "domain": "goldoffer.online",
-        "extension": "online"
-    },
-    "1559930446.1715953": {
-        "domain": "gasolina.ml",
-        "extension": "ml"
-    },
-    "1559930452.370689": {
-        "domain": "hodlers.party",
-        "extension": "party"
-    },
-    "1559930452.4312308": {
-        "domain": "hostingcloud.download",
-        "extension": "download"
-    },
-    "1559930452.616199": {
-        "domain": "intactoffers.club",
-        "extension": "club"
-    },
-    "1559930452.6526477": {
-        "domain": "jqassets.download",
-        "extension": "download"
-    },
-    "1559930452.6807914": {
-        "domain": "jquerrycdn.download",
-        "extension": "download"
-    },
-    "1559930452.7250967": {
-        "domain": "jquery-cdn.download",
-        "extension": "download"
-    },
-    "1559930453.825349": {
-        "domain": "jurty.ml",
-        "extension": "ml"
-    },
-    "1559930454.2488358": {
-        "domain": "okeyletsgo.ml",
-        "extension": "ml"
-    },
-    "1559930460.3331769": {
-        "domain": "reservedoffers.club",
-        "extension": "club"
-    },
-    "1559930466.6372092": {
-        "domain": "whysoserius.club",
-        "extension": "club"
-    },
-    "1559930466.692656": {
-        "domain": "xmr.cool",
-        "extension": "cool"
-    },
-    "1559930466.8147883": {
-        "domain": "www.xmr.cool",
-        "extension": "cool"
+    "1560096897.4437468": {
+        "domain": "www.jshosting.science",
+        "extension": "science"
+    },
+    "1560096897.449909": {
+        "domain": "jshosting.science",
+        "extension": "science"
+    },
+    "1560097147.6276836": {
+        "domain": "www.freecontent.science",
+        "extension": "science"
+    },
+    "1560097147.6388845": {
+        "domain": "freecontent.science",
+        "extension": "science"
+    },
+    "1560097260.26369": {
+        "domain": "chainblock.science",
+        "extension": "science"
+    },
+    "1560097260.2651312": {
+        "domain": "www.chainblock.science",
+        "extension": "science"
+    },
+    "1560097285.4891303": {
+        "domain": "hostingcloud.science",
+        "extension": "science"
+    },
+    "1560097285.5068717": {
+        "domain": "www.hostingcloud.science",
+        "extension": "science"
     }
 }

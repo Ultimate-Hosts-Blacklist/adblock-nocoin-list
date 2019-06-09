@@ -1,7 +1,11 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
+    "last_autosave_datetime": "Sun Jun  9 16:21:54 2019",
+    "last_autosave_epoch": 1560097314.086453,
     "last_test": 1557505842,
     "name": "adblock-nocoin-list",
-    "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
+    "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+    "start_datetime": "Sun Jun  9 16:14:30 2019",
+    "start_epoch": 1560096870.30775
 }
