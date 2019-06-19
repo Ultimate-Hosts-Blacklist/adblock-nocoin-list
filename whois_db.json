@@ -40,9 +40,9 @@
         "state": "future"
     },
     "alflying.bid": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "alflying.date": {
         "epoch": "1560816000",
@@ -510,24 +510,24 @@
         "state": "future"
     },
     "flightsy.bid": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flightsy.date": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flightsy.win": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flightzy.bid": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flightzy.date": {
         "epoch": "1560816000",
@@ -535,9 +535,9 @@
         "state": "future"
     },
     "flightzy.win": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "flowplayer.space": {
         "epoch": "1561593600",
@@ -960,8 +960,8 @@
         "state": "future"
     },
     "malictuiar.com": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "mebablo.com": {
