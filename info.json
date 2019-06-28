@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Jun 26 16:37:12 2019",
-    "end_epoch": 1561567032.290012,
+    "end_datetime": "Fri Jun 28 16:42:09 2019",
+    "end_epoch": 1561740129.429584,
     "last_autosave_datetime": "Sun Jun  9 16:21:54 2019",
     "last_autosave_epoch": 1560097314.086453,
     "name": "adblock-nocoin-list",
@@ -20,6 +20,6 @@
         "whitelisted.list": 746
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-    "start_datetime": "Wed Jun 26 16:29:21 2019",
-    "start_epoch": 1561566561.637185
+    "start_datetime": "Fri Jun 28 16:34:02 2019",
+    "start_epoch": 1561739642.517491
 }
