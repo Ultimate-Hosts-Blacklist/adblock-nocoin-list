@@ -640,9 +640,9 @@
         "state": "past"
     },
     "gettate.racing": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "gitgrub.pro": {
         "epoch": "1576195200",
@@ -1535,18 +1535,18 @@
         "state": "past"
     },
     "zymerget.party": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.stream": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.win": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     }
 }
