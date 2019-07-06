@@ -415,8 +415,8 @@
         "state": "future"
     },
     "de-ner-mi-nis4.info": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "de-nis-ner-mi-5.info": {
@@ -665,9 +665,9 @@
         "state": "future"
     },
     "gramombird.com": {
-        "epoch": "1562371200",
+        "epoch": 1562371200,
         "expiration_date": "06-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "gridiogrid.com": {
         "epoch": "1575763200",
@@ -1230,9 +1230,9 @@
         "state": "future"
     },
     "reservedoffers.club": {
-        "epoch": "1542067200",
-        "expiration_date": "13-nov-2018",
-        "state": "past"
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
     },
     "rintindown.com": {
         "epoch": "1578700800",
@@ -1520,9 +1520,9 @@
         "state": "future"
     },
     "zymerget.bid": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.date": {
         "epoch": 1562025600,
