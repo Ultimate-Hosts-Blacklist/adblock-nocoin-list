@@ -35,8 +35,8 @@
         "state": "future"
     },
     "adplusplus.fr": {
-        "epoch": "1562803200",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "afminer.com": {
@@ -1515,9 +1515,9 @@
         "state": "future"
     },
     "zndaowjdnf.stream": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.bid": {
         "epoch": 1562025600,
