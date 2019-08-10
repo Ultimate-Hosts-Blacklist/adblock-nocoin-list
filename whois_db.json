@@ -245,9 +245,9 @@
         "state": "future"
     },
     "cdn-code.host": {
-        "epoch": "1549238400",
-        "expiration_date": "04-feb-2019",
-        "state": "past"
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
+        "state": "future"
     },
     "cfcdist.gdn": {
         "epoch": "1585699200",
@@ -655,8 +655,8 @@
         "state": "future"
     },
     "goldoffer.online": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "graftpool.ovh": {
