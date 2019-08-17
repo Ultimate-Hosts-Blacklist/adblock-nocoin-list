@@ -505,9 +505,9 @@
         "state": "future"
     },
     "f1tbit.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "flare-analytics.com": {
         "epoch": "1579305600",
