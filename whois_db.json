@@ -230,8 +230,8 @@
         "state": "future"
     },
     "cashbeet.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "ccvwtdtwyu.trade": {
@@ -505,9 +505,9 @@
         "state": "future"
     },
     "f1tbit.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "flare-analytics.com": {
         "epoch": "1579305600",
@@ -1270,8 +1270,8 @@
         "state": "future"
     },
     "serv1swork.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "service4refresh.info": {
@@ -1325,8 +1325,8 @@
         "state": "future"
     },
     "str1kee.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "swiftmining.win": {
