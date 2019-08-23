@@ -280,9 +280,9 @@
         "state": "future"
     },
     "cnhv.co": {
-        "epoch": "1566518400",
+        "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "coin-cube.com": {
         "epoch": "1572480000",
@@ -1435,7 +1435,7 @@
         "state": "future"
     },
     "webassembly.stream": {
-        "epoch": "1575936000",
+        "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
