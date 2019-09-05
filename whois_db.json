@@ -515,9 +515,9 @@
         "state": "future"
     },
     "flightsy.bid": {
-        "epoch": 1560816000,
-        "expiration_date": "18-jun-2019",
-        "state": "past"
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
     },
     "flightsy.date": {
         "epoch": 1560816000,
@@ -525,9 +525,9 @@
         "state": "past"
     },
     "flightsy.win": {
-        "epoch": 1560816000,
-        "expiration_date": "18-jun-2019",
-        "state": "past"
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
     },
     "flightzy.bid": {
         "epoch": 1560816000,
@@ -740,9 +740,9 @@
         "state": "past"
     },
     "hostingcloud.faith": {
-        "epoch": 1554336000,
-        "expiration_date": "04-apr-2019",
-        "state": "past"
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
     },
     "hostingcloud.loan": {
         "epoch": 1554336000,
