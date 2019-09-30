@@ -75,13 +75,13 @@
         "state": "future"
     },
     "anybest.host": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "anybest.pw": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "anybest.site": {
@@ -350,8 +350,8 @@
         "state": "future"
     },
     "coinnebula.com": {
-        "epoch": "1569715200",
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "coinpot.co": {
@@ -440,8 +440,8 @@
         "state": "past"
     },
     "dubester.pw": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "dubester.site": {
@@ -990,8 +990,8 @@
         "state": "future"
     },
     "mighbest.host": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "mighbest.pw": {
@@ -1000,8 +1000,8 @@
         "state": "future"
     },
     "mighbest.site": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "minemytraffic.com": {
@@ -1045,9 +1045,9 @@
         "state": "future"
     },
     "monerominer.rocks": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "money-maker-default.info": {
         "epoch": "1587772800",
