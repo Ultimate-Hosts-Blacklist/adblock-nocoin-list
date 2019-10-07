@@ -1,4 +1,9 @@
 {
+    "butcalve.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "clgserv.pro": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
@@ -12,6 +17,11 @@
     "jqwww.download": {
         "epoch": 1585440000,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "mfio.cf": {
+        "epoch": 1867190400,
+        "expiration_date": "03-mar-2029",
         "state": "future"
     },
     "vuryua.ru": {
