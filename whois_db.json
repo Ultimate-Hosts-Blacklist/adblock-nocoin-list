@@ -4,6 +4,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "besocial.online": {
+        "epoch": 1574467200,
+        "expiration_date": "23-nov-2019",
+        "state": "future"
+    },
     "bewaslac.com": {
         "epoch": 1601683200,
         "expiration_date": "03-oct-2020",
@@ -32,6 +37,11 @@
     "coin-cube.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "coinhive.com": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "coinminingonline.com": {
@@ -94,6 +104,11 @@
         "expiration_date": "03-mar-2029",
         "state": "future"
     },
+    "minerad.com": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
     "papoto.com": {
         "epoch": 1601856000,
         "expiration_date": "05-oct-2020",
@@ -112,6 +127,11 @@
     "swiftmining.win": {
         "epoch": 1588204800,
         "expiration_date": "30-apr-2020",
+        "state": "future"
+    },
+    "vcfs6ip5h6.bid": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "vuryua.ru": {
