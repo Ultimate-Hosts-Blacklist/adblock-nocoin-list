@@ -9,6 +9,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "berateveng.ru": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "besocial.online": {
         "epoch": 1574467200,
         "expiration_date": "23-nov-2019",
@@ -132,6 +137,11 @@
     "minerad.com": {
         "epoch": 1579219200,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "nexttime.ovh": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "papoto.com": {
