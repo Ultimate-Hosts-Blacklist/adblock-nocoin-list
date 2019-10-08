@@ -144,6 +144,11 @@
         "expiration_date": "27-may-2022",
         "state": "future"
     },
+    "jurtym.cf": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
     "ledhenone.com": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
@@ -177,6 +182,11 @@
     "monkeyminer.net": {
         "epoch": 1595462400,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "nathetsof.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "never.ovh": {
