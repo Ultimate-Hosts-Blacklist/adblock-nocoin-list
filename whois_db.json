@@ -4,6 +4,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "adplusplus.fr": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "altavista.ovh": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -47,6 +52,11 @@
     "coin-cube.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
+    "coinblind.com": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "coinerra.com": {
@@ -134,9 +144,24 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "hashing.win": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "hide.ovh": {
         "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "hostingcloud.faith": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "hostingcloud.party": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "jqassets.download": {
@@ -172,6 +197,11 @@
     "monkeyminer.net": {
         "epoch": 1595462400,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "moonsade.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "nddmcconmqsy.ru": {
