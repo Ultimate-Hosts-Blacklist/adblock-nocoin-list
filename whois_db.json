@@ -4,6 +4,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "ad-miner.com": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
     "adplusplus.fr": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
@@ -42,6 +47,11 @@
     "berateveng.ru": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "besti.ga": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "bewaslac.com": {
@@ -274,6 +284,11 @@
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "goldoffer.online": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "graftpool.ovh": {
         "epoch": 1580774400,
         "expiration_date": "04-feb-2020",
@@ -382,6 +397,11 @@
     "mfio.cf": {
         "epoch": 1867190400,
         "expiration_date": "03-mar-2029",
+        "state": "future"
+    },
+    "mi-de-ner-nis3.info": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "minerad.com": {
@@ -592,6 +612,11 @@
     "webminerpool.com": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "webmining.co": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
         "state": "future"
     },
     "webxmr.com": {
