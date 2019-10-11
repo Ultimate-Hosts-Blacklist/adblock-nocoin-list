@@ -44,6 +44,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "bewaslac.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "biberukalap.com": {
         "epoch": 1599091200,
         "expiration_date": "03-sep-2020",
@@ -123,6 +128,11 @@
         "epoch": 1575849600,
         "expiration_date": "09-dec-2019",
         "state": "future"
+    },
+    "coinlab.biz": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
+        "state": "past"
     },
     "coinminingonline.com": {
         "epoch": 1577232000,
@@ -284,6 +294,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "hostingcloud.racing": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "ininmacerad.pro": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
@@ -434,6 +449,11 @@
         "expiration_date": "24-nov-2019",
         "state": "future"
     },
+    "reauthenticator.com": {
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "renhertfo.com": {
         "epoch": 1585526400,
         "expiration_date": "30-mar-2020",
@@ -499,6 +519,11 @@
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "verifier.live": {
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "verresof.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
@@ -517,6 +542,11 @@
     "webassembly.stream": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "webmine.cz": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "webminerpool.com": {
