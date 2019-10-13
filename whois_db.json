@@ -29,6 +29,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "authedmine.com": {
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "authedwebmine.cz": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
@@ -42,6 +47,11 @@
     "baiduccdn1.com": {
         "epoch": 1581465600,
         "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "beatingbytes.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "becanium.com": {
@@ -427,6 +437,11 @@
     "ledinund.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "lightminer.co": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "losital.ru": {
