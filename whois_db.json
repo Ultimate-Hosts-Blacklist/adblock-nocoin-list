@@ -659,6 +659,11 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "smartoffer.site": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "sparechange.io": {
         "epoch": 1602028800,
         "expiration_date": "07-oct-2020",
