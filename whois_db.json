@@ -34,6 +34,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "andlache.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "authedmine.com": {
         "epoch": 1602374400,
         "expiration_date": "11-oct-2020",
