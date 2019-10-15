@@ -109,6 +109,11 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
+    "cashbeet.com": {
+        "epoch": 1566000000,
+        "expiration_date": "17-aug-2019",
+        "state": "past"
+    },
     "cfcdist.gdn": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
