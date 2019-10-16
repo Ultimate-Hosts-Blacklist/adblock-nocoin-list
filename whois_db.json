@@ -554,6 +554,11 @@
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
+    "minero.pw": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
     "minescripts.info": {
         "epoch": 1586908800,
         "expiration_date": "15-apr-2020",
