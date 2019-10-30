@@ -135,9 +135,9 @@
         "state": "future"
     },
     "cashbeet.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "cfcdist.gdn": {
         "epoch": 1585699200,
@@ -325,9 +325,9 @@
         "state": "future"
     },
     "f1tbit.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "flare-analytics.com": {
         "epoch": 1599350400,
@@ -395,9 +395,9 @@
         "state": "future"
     },
     "g1thub.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "gasolina.ml": {
         "epoch": 1590710400,
@@ -567,6 +567,11 @@
     "mi-de-ner-nis3.info": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "mighbest.pw": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "mighbest.site": {
