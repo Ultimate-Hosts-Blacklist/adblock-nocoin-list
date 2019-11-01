@@ -165,9 +165,9 @@
         "state": "future"
     },
     "coin-cube.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "coin-have.com": {
         "epoch": 1600819200,
@@ -740,9 +740,9 @@
         "state": "future"
     },
     "serv1swork.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "service4refresh.info": {
         "epoch": 1594080000,
@@ -785,9 +785,9 @@
         "state": "future"
     },
     "str1kee.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "swiftmining.win": {
         "epoch": 1588204800,
@@ -880,8 +880,8 @@
         "state": "future"
     },
     "webminepool.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "webminerpool.com": {
