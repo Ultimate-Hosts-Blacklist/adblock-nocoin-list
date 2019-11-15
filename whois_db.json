@@ -84,6 +84,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "bmcm.pw": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "brominer.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
