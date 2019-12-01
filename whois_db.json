@@ -844,6 +844,11 @@
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
+    "tidafors.xyz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
     "traviilo.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
