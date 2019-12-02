@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 38,
+        "builds": 39,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -12,8 +12,8 @@
     "days_until_next_test": 2,
     "end_datetime": "Fri Nov 29 10:37:13 2019",
     "end_epoch": 1575023833.138028,
-    "last_autosave_datetime": "Mon Dec  2 13:49:50 2019",
-    "last_autosave_epoch": 1575294590.985146,
+    "last_autosave_datetime": "Mon Dec  2 15:16:33 2019",
+    "last_autosave_epoch": 1575299793.004462,
     "name": "adblock-nocoin-list",
     "previous_stats": {
         "builds": 23,
