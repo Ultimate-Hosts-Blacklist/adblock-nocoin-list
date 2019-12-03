@@ -202,7 +202,7 @@
     "coinblind.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinerra.com": {
         "epoch": 1600992000.0,
