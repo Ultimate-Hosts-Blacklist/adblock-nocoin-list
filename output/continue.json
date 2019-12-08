@@ -608,7 +608,11 @@
         "proxy-pol-1.inf.nimiq.network",
         "seed-deu-4.inf.nimiq.network",
         "seed-6.nimiq-network.com",
-        "seed-17.nimiq-network.com"
+        "seed-17.nimiq-network.com",
+        "nodeone.nimiqpool.com",
+        "nimiq.terorie.com",
+        "seed-17.nimiq.com",
+        "seed-fra-2.inf.nimiq.network"
     ],
     "INACTIVE": [
         "www.goldoffer.online",
@@ -1048,6 +1052,7 @@
         "d.cfcnet.top",
         "eu.cfcnet.top",
         "play.flowplayer.space",
-        "seed1.sushipool.com"
+        "seed1.sushipool.com",
+        "levin.nimiqpool.com"
     ]
 }
