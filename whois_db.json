@@ -152,7 +152,7 @@
     "candid.zone": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cashbeet.com": {
         "epoch": 1604016000.0,
@@ -947,7 +947,7 @@
     "webminerpool.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "webmining.co": {
         "epoch": 1604793600.0,
