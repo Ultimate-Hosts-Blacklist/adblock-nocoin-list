@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 2,
+        "builds": 3,
         "counter": {
-            "down": 294,
+            "down": 422,
             "invalid": 0,
-            "tested": 916,
-            "up": 622
+            "tested": 1046,
+            "up": 624
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Dec 29 15:02:50 2019",
     "end_epoch": 1577631770.881237,
-    "last_autosave_datetime": "Mon Dec 30 19:21:48 2019",
-    "last_autosave_epoch": 1577733708.474336,
+    "last_autosave_datetime": "Mon Dec 30 20:12:07 2019",
+    "last_autosave_epoch": 1577736727.104882,
     "name": "adblock-nocoin-list",
     "previous_stats": {
         "builds": 5,
