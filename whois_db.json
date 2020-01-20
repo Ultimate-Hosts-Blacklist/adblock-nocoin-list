@@ -377,7 +377,7 @@
     "freecontent.faith": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freecontent.party": {
         "epoch": 1579392000.0,
@@ -397,7 +397,7 @@
     "freecontent.trade": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freshrefresher.com": {
         "epoch": 1586563200.0,
