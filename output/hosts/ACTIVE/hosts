@@ -55,10 +55,12 @@
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn-code.host
+0.0.0.0 cdnjs.cloudflane.com
 0.0.0.0 cdn.minescripts.info
 0.0.0.0 cfcdist.gdn
 0.0.0.0 clgserv.pro
 0.0.0.0 cloudcdn.gdn
+0.0.0.0 cloudflane.com
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cnhv.co
@@ -71,6 +73,7 @@
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinimp.com
 0.0.0.0 coinimp.net
+0.0.0.0 coinlab.biz
 0.0.0.0 coinminingonline.com
 0.0.0.0 coinnebula.com
 0.0.0.0 coinpirate.cf
@@ -112,6 +115,7 @@
 0.0.0.0 freecontent.date
 0.0.0.0 freecontent.faith
 0.0.0.0 freecontent.party
+0.0.0.0 freecontent.science
 0.0.0.0 freecontent.stream
 0.0.0.0 freecontent.trade
 0.0.0.0 freshrefresher.com
@@ -137,6 +141,7 @@
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hostingcloud.party
 0.0.0.0 hostingcloud.racing
+0.0.0.0 hostingcloud.science
 0.0.0.0 igrid.org
 0.0.0.0 ininmacerad.pro
 0.0.0.0 jqassets.download
@@ -465,6 +470,7 @@
 0.0.0.0 www.cdn-code.host
 0.0.0.0 www.cfcdist.gdn
 0.0.0.0 www.cloudcdn.gdn
+0.0.0.0 www.cloudflane.com
 0.0.0.0 www.cloud-miner.de
 0.0.0.0 www.cloud-miner.eu
 0.0.0.0 www.coin-cube.com
@@ -472,6 +478,7 @@
 0.0.0.0 www.coin-hive.com
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinimp.net
+0.0.0.0 www.coinlab.biz
 0.0.0.0 www.coinminingonline.com
 0.0.0.0 www.coinnebula.com
 0.0.0.0 www.coinpirate.cf
