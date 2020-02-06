@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 2,
-        "counter": {
-            "down": 417,
-            "invalid": 0,
-            "tested": 1057,
-            "up": 640
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Feb  5 11:43:23 2020",
-    "end_epoch": 1580903003.068335,
+    "end_datetime": "Thu Feb  6 19:53:19 2020",
+    "end_epoch": 1581018799.19506,
     "last_autosave_datetime": "Thu Feb  6 19:20:32 2020",
     "last_autosave_epoch": 1581016832.294077,
     "name": "adblock-nocoin-list",
