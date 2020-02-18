@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 2,
-        "counter": {
-            "down": 327,
-            "invalid": 0,
-            "tested": 960,
-            "up": 633
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Feb 16 20:57:23 2020",
-    "end_epoch": 1581886643.209088,
+    "end_datetime": "Tue Feb 18 20:38:04 2020",
+    "end_epoch": 1582058284.212017,
     "last_autosave_datetime": "Tue Feb 18 19:54:01 2020",
     "last_autosave_epoch": 1582055641.17197,
     "name": "adblock-nocoin-list",
     "previous_stats": {
         "builds": 3,
-        "clean.list": 638,
+        "clean.list": 639,
         "counter": {
-            "down": 422,
+            "down": 421,
             "invalid": 0,
             "tested": 1060,
-            "up": 638
+            "up": 639
         },
         "domains.list": 1060,
-        "volatile.list": 638,
-        "whitelisted.list": 638
+        "volatile.list": 639,
+        "whitelisted.list": 639
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
     "start_datetime": "Tue Feb 18 18:52:22 2020",
