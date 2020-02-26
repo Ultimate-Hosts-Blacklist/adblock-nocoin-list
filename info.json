@@ -1,32 +1,21 @@
 {
-    "current_stats": {
-        "builds": 3,
-        "counter": {
-            "down": 418,
-            "invalid": 0,
-            "tested": 1058,
-            "up": 640
-        },
-        "volatile.list": 640,
-        "whitelisted.list": 640
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Feb 24 21:13:00 2020",
-    "end_epoch": 1582578780.380188,
+    "end_datetime": "Wed Feb 26 19:56:31 2020",
+    "end_epoch": 1582746991.710715,
     "last_autosave_datetime": "Wed Feb 26 19:27:16 2020",
     "last_autosave_epoch": 1582745236.273071,
     "name": "adblock-nocoin-list",
     "previous_stats": {
-        "builds": 3,
+        "builds": 4,
         "clean.list": 640,
         "counter": {
-            "down": 420,
+            "down": 421,
             "invalid": 0,
-            "tested": 1060,
+            "tested": 1061,
             "up": 640
         },
-        "domains.list": 1060,
+        "domains.list": 1061,
         "ip.list": 0,
         "volatile.list": 640,
         "whitelisted.list": 640
