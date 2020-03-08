@@ -80,9 +80,9 @@
         "state": "future"
     },
     "becanium.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "berateveng.ru": {
         "epoch": 1594339200.0,
@@ -777,7 +777,7 @@
     "smartoffer.site": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "sparechange.io": {
         "epoch": 1602028800.0,
@@ -800,9 +800,9 @@
         "state": "future"
     },
     "stonecalcom.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "str1kee.com": {
         "epoch": 1604188800.0,
@@ -932,6 +932,11 @@
     "wordc.ga": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "xmr.cool": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "yrdrtzmsmt.com": {
