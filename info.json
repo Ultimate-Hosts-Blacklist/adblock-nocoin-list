@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 293,
+        "builds": 294,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "Block lists to prevent JavaScript miners",
     "end_datetime": "2020-03-03T19:15:41.040771",
     "end_epoch": 1583156314.335979,
+    "issue_link": "https://github.com/hoshsadiq/adblock-nocoin-list/issues/new/choose",
     "last_autosave_datetime": "2020-03-03T19:15:41.040787",
     "last_autosave_epoch": 1583152384.377663,
+    "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
     "name": "adblock-nocoin-list",
     "previous_stats": {
         "builds": 3,
@@ -35,9 +38,6 @@
         "whitelisted.list": 632
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-    "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
-    "issue_link": "https://github.com/hoshsadiq/adblock-nocoin-list/issues/new/choose",
-    "description": "Block lists to prevent JavaScript miners",
     "start_datetime": "2020-03-03T19:15:43.641485",
     "start_epoch": 1583262943.641485
 }
