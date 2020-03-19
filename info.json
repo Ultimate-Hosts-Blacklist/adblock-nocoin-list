@@ -35,6 +35,9 @@
         "whitelisted.list": 632
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+    "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
+    "issue_link": "https://github.com/hoshsadiq/adblock-nocoin-list/issues/new/choose",
+    "description": "Block lists to prevent JavaScript miners",
     "start_datetime": "2020-03-03T19:15:43.641485",
     "start_epoch": 1583262943.641485
 }
