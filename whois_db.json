@@ -142,7 +142,7 @@
     "butcalve.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "candid.zone": {
         "epoch": 1608940800.0,
@@ -552,7 +552,7 @@
     "kedtise.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "laserveradedomaina.com": {
         "epoch": 1596499200.0,
@@ -567,7 +567,7 @@
     "ledinund.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "lightminer.co": {
         "epoch": 1603929600.0,
@@ -897,7 +897,7 @@
     "verresof.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "videoplayer2.xyz": {
         "epoch": 1592611200.0,
