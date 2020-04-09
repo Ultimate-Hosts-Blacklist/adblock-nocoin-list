@@ -169,6 +169,11 @@
         "expiration_date": "01-apr-2020",
         "state": "past"
     },
+    "chainblock.science": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "clgserv.pro": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
