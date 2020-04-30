@@ -105,8 +105,8 @@
         "state": "future"
     },
     "besti.ga": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "bewaslac.com": {
@@ -435,8 +435,8 @@
         "state": "future"
     },
     "gitgrub.pro": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "goldoffer.online": {
@@ -857,7 +857,7 @@
     "swiftmining.win": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "terethat.ru": {
         "epoch": 1594252800.0,
