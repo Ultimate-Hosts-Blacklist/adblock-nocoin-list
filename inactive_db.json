@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1588508964.0,
-            "last_retested_at_iso": "2020-05-03T12:29:24",
+            "last_retested_at_epoch": 1588595737.819068,
+            "last_retested_at_iso": "2020-05-04T12:35:37.819068",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -2117,8 +2117,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1588508964.0,
-            "last_retested_at_iso": "2020-05-03T12:29:24",
+            "last_retested_at_epoch": 1588595737.659558,
+            "last_retested_at_iso": "2020-05-04T12:35:37.659558",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
