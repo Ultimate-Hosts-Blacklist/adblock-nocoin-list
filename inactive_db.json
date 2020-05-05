@@ -220,8 +220,8 @@
         "autologica.ga": {
             "included_at_epoch": 1588486219.0,
             "included_at_iso": "2020-05-03T06:10:19",
-            "last_retested_at_epoch": 1588573558.538745,
-            "last_retested_at_iso": "2020-05-04T06:25:58.538745",
+            "last_retested_at_epoch": 1588663334.588706,
+            "last_retested_at_iso": "2020-05-05T07:22:14.588706",
             "status": "INACTIVE"
         },
         "aymcsx.ru": {
@@ -1158,8 +1158,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1588573524.124528,
-            "last_retested_at_iso": "2020-05-04T06:25:24.124528",
+            "last_retested_at_epoch": 1588663134.840654,
+            "last_retested_at_iso": "2020-05-05T07:18:54.840654",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -2033,8 +2033,8 @@
         "www.autologica.ga": {
             "included_at_epoch": 1588486219.0,
             "included_at_iso": "2020-05-03T06:10:19",
-            "last_retested_at_epoch": 1588573558.611899,
-            "last_retested_at_iso": "2020-05-04T06:25:58.611899",
+            "last_retested_at_epoch": 1588663334.383567,
+            "last_retested_at_iso": "2020-05-05T07:22:14.383567",
             "status": "INACTIVE"
         },
         "www.aymcsx.ru": {
