@@ -451,8 +451,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1588741770.007202,
-            "last_retested_at_iso": "2020-05-06T05:09:30.007202",
+            "last_retested_at_epoch": 1588837718.148975,
+            "last_retested_at_iso": "2020-05-07T07:48:38.148975",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -1004,8 +1004,8 @@
         "m.anyfiles.ovh": {
             "included_at_epoch": 1588473576.0,
             "included_at_iso": "2020-05-03T02:39:36",
-            "last_retested_at_epoch": 1588741740.698766,
-            "last_retested_at_iso": "2020-05-06T05:09:00.698766",
+            "last_retested_at_epoch": 1588837775.5692,
+            "last_retested_at_iso": "2020-05-07T07:49:35.569200",
             "status": "INACTIVE"
         },
         "malictuiar.com": {
@@ -1102,8 +1102,8 @@
         "miner-17.team.nimiq.agency": {
             "included_at_epoch": 1588473266.0,
             "included_at_iso": "2020-05-03T02:34:26",
-            "last_retested_at_epoch": 1588746294.273631,
-            "last_retested_at_iso": "2020-05-06T06:24:54.273631",
+            "last_retested_at_epoch": 1588837906.353277,
+            "last_retested_at_iso": "2020-05-07T07:51:46.353277",
             "status": "INACTIVE"
         },
         "miner-18.team.nimiq.agency": {
@@ -1158,8 +1158,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1588750743.809011,
-            "last_retested_at_iso": "2020-05-06T07:39:03.809011",
+            "last_retested_at_epoch": 1588837662.688346,
+            "last_retested_at_iso": "2020-05-07T07:47:42.688346",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -1305,8 +1305,8 @@
         "ogrid.org": {
             "included_at_epoch": 1588463471.0,
             "included_at_iso": "2020-05-02T23:51:11",
-            "last_retested_at_epoch": 1588737570.548695,
-            "last_retested_at_iso": "2020-05-06T03:59:30.548695",
+            "last_retested_at_epoch": 1588837958.786436,
+            "last_retested_at_iso": "2020-05-07T07:52:38.786436",
             "status": "INACTIVE"
         },
         "okeyletsgo.ml": {
@@ -2005,8 +2005,8 @@
         "www.anybest.site": {
             "included_at_epoch": 1588468008.0,
             "included_at_iso": "2020-05-03T01:06:48",
-            "last_retested_at_epoch": 1588737608.379666,
-            "last_retested_at_iso": "2020-05-06T04:00:08.379666",
+            "last_retested_at_epoch": 1588837450.043854,
+            "last_retested_at_iso": "2020-05-07T07:44:10.043854",
             "status": "INACTIVE"
         },
         "www.anybest.space": {
@@ -2138,8 +2138,8 @@
         "www.bmcm.pw": {
             "included_at_epoch": 1588458811.0,
             "included_at_iso": "2020-05-02T22:33:31",
-            "last_retested_at_epoch": 1588750670.11252,
-            "last_retested_at_iso": "2020-05-06T07:37:50.112520",
+            "last_retested_at_epoch": 1588837724.748504,
+            "last_retested_at_iso": "2020-05-07T07:48:44.748504",
             "status": "INACTIVE"
         },
         "www.bmnr.pw": {
@@ -2369,8 +2369,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1588741765.086738,
-            "last_retested_at_iso": "2020-05-06T05:09:25.086738",
+            "last_retested_at_epoch": 1588837713.246473,
+            "last_retested_at_iso": "2020-05-07T07:48:33.246473",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
@@ -3174,8 +3174,8 @@
         "www.ogrid.org": {
             "included_at_epoch": 1588463471.0,
             "included_at_iso": "2020-05-02T23:51:11",
-            "last_retested_at_epoch": 1588737570.545629,
-            "last_retested_at_iso": "2020-05-06T03:59:30.545629",
+            "last_retested_at_epoch": 1588837958.763059,
+            "last_retested_at_iso": "2020-05-07T07:52:38.763059",
             "status": "INACTIVE"
         },
         "www.okeyletsgo.ml": {
