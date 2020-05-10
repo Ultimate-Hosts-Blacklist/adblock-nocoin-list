@@ -1711,8 +1711,8 @@
         "toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1589026530.905043,
-            "last_retested_at_iso": "2020-05-09T12:15:30.905043",
+            "last_retested_at_epoch": 1589118930.095664,
+            "last_retested_at_iso": "2020-05-10T13:55:30.095664",
             "status": "INACTIVE"
         },
         "tokomaru.nimiqpool.com": {
@@ -3384,8 +3384,8 @@
         "www.toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1589026530.862098,
-            "last_retested_at_iso": "2020-05-09T12:15:30.862098",
+            "last_retested_at_epoch": 1589118930.036776,
+            "last_retested_at_iso": "2020-05-10T13:55:30.036776",
             "status": "INACTIVE"
         },
         "www.tokyodrift.ga": {
