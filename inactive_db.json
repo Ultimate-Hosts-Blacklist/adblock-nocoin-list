@@ -136,8 +136,8 @@
         "anybest.pw": {
             "included_at_epoch": 1588527009.0,
             "included_at_iso": "2020-05-03T17:30:09",
-            "last_retested_at_epoch": 1589148241.707987,
-            "last_retested_at_iso": "2020-05-10T22:04:01.707987",
+            "last_retested_at_epoch": 1589236136.430362,
+            "last_retested_at_iso": "2020-05-11T22:28:56.430362",
             "status": "INACTIVE"
         },
         "anybest.space": {
@@ -339,8 +339,8 @@
         "cdn.jquery-uim.download": {
             "included_at_epoch": 1588526921.0,
             "included_at_iso": "2020-05-03T17:28:41",
-            "last_retested_at_epoch": 1589148498.496417,
-            "last_retested_at_iso": "2020-05-10T22:08:18.496417",
+            "last_retested_at_epoch": 1589236187.213836,
+            "last_retested_at_iso": "2020-05-11T22:29:47.213836",
             "status": "INACTIVE"
         },
         "cdn.static-cnt.bid": {
@@ -486,8 +486,8 @@
         "dubester.pw": {
             "included_at_epoch": 1588527420.0,
             "included_at_iso": "2020-05-03T17:37:00",
-            "last_retested_at_epoch": 1589148754.932193,
-            "last_retested_at_iso": "2020-05-10T22:12:34.932193",
+            "last_retested_at_epoch": 1589235961.838493,
+            "last_retested_at_iso": "2020-05-11T22:26:01.838493",
             "status": "INACTIVE"
         },
         "dubester.site": {
@@ -1837,8 +1837,8 @@
         "wsp.marketgid.com": {
             "included_at_epoch": 1588526940.0,
             "included_at_iso": "2020-05-03T17:29:00",
-            "last_retested_at_epoch": 1589148798.763193,
-            "last_retested_at_iso": "2020-05-10T22:13:18.763193",
+            "last_retested_at_epoch": 1589235949.37786,
+            "last_retested_at_iso": "2020-05-11T22:25:49.377860",
             "status": "INACTIVE"
         },
         "wss.nablabee.com": {
@@ -1998,8 +1998,8 @@
         "www.anybest.pw": {
             "included_at_epoch": 1588527004.0,
             "included_at_iso": "2020-05-03T17:30:04",
-            "last_retested_at_epoch": 1589148236.801192,
-            "last_retested_at_iso": "2020-05-10T22:03:56.801192",
+            "last_retested_at_epoch": 1589236136.162639,
+            "last_retested_at_iso": "2020-05-11T22:28:56.162639",
             "status": "INACTIVE"
         },
         "www.anybest.site": {
@@ -2397,8 +2397,8 @@
         "www.dubester.pw": {
             "included_at_epoch": 1588527415.0,
             "included_at_iso": "2020-05-03T17:36:55",
-            "last_retested_at_epoch": 1589148750.160251,
-            "last_retested_at_iso": "2020-05-10T22:12:30.160251",
+            "last_retested_at_epoch": 1589235961.53937,
+            "last_retested_at_iso": "2020-05-11T22:26:01.539370",
             "status": "INACTIVE"
         },
         "www.dubester.site": {
@@ -2621,8 +2621,8 @@
         "www.freshrefresher.com": {
             "included_at_epoch": 1588529453.0,
             "included_at_iso": "2020-05-03T18:10:53",
-            "last_retested_at_epoch": 1588797728.985796,
-            "last_retested_at_iso": "2020-05-06T20:42:08.985796",
+            "last_retested_at_epoch": 1589235917.710961,
+            "last_retested_at_iso": "2020-05-11T22:25:17.710961",
             "status": "INACTIVE"
         },
         "www.g-content.bid": {
