@@ -171,8 +171,8 @@
         "api.miner.beeppool.org": {
             "included_at_epoch": 1583735868.0,
             "included_at_iso": "2020-03-09T06:37:48",
-            "last_retested_at_epoch": 1583735868.0,
-            "last_retested_at_iso": "2020-03-09T06:37:48",
+            "last_retested_at_epoch": 1589291803.272581,
+            "last_retested_at_iso": "2020-05-12T13:56:43.272581",
             "status": "INACTIVE"
         },
         "api.netflare.info": {
@@ -220,8 +220,8 @@
         "autologica.ga": {
             "included_at_epoch": 1588486219.0,
             "included_at_iso": "2020-05-03T06:10:19",
-            "last_retested_at_epoch": 1589201198.486235,
-            "last_retested_at_iso": "2020-05-11T12:46:38.486235",
+            "last_retested_at_epoch": 1589291765.694098,
+            "last_retested_at_iso": "2020-05-12T13:56:05.694098",
             "status": "INACTIVE"
         },
         "aymcsx.ru": {
@@ -332,8 +332,8 @@
         "cdn.cloudcoins.co": {
             "included_at_epoch": 1588458875.0,
             "included_at_iso": "2020-05-02T22:34:35",
-            "last_retested_at_epoch": 1589201269.05238,
-            "last_retested_at_iso": "2020-05-11T12:47:49.052380",
+            "last_retested_at_epoch": 1589291551.842776,
+            "last_retested_at_iso": "2020-05-12T13:52:31.842776",
             "status": "INACTIVE"
         },
         "cdn.jquery-uim.download": {
@@ -661,8 +661,8 @@
         "ganymed.beeppool.org": {
             "included_at_epoch": 1583735894.0,
             "included_at_iso": "2020-03-09T06:38:14",
-            "last_retested_at_epoch": 1583735894.0,
-            "last_retested_at_iso": "2020-03-09T06:38:14",
+            "last_retested_at_epoch": 1589291869.40165,
+            "last_retested_at_iso": "2020-05-12T13:57:49.401650",
             "status": "INACTIVE"
         },
         "gettate.date": {
@@ -1004,8 +1004,8 @@
         "m.anyfiles.ovh": {
             "included_at_epoch": 1588473576.0,
             "included_at_iso": "2020-05-03T02:39:36",
-            "last_retested_at_epoch": 1589196956.668839,
-            "last_retested_at_iso": "2020-05-11T11:35:56.668839",
+            "last_retested_at_epoch": 1589291468.68989,
+            "last_retested_at_iso": "2020-05-12T13:51:08.689890",
             "status": "INACTIVE"
         },
         "malictuiar.com": {
@@ -1242,8 +1242,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589201304.538643,
-            "last_retested_at_iso": "2020-05-11T12:48:24.538643",
+            "last_retested_at_epoch": 1589291641.019429,
+            "last_retested_at_iso": "2020-05-12T13:54:01.019429",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1382,8 +1382,8 @@
         "play.malictuiar.com": {
             "included_at_epoch": 1588444583.0,
             "included_at_iso": "2020-05-02T18:36:23",
-            "last_retested_at_epoch": 1589201181.468096,
-            "last_retested_at_iso": "2020-05-11T12:46:21.468096",
+            "last_retested_at_epoch": 1589292042.017373,
+            "last_retested_at_iso": "2020-05-12T14:00:42.017373",
             "status": "INACTIVE"
         },
         "play.on.animeteatr.ru": {
@@ -2040,8 +2040,8 @@
         "www.autologica.ga": {
             "included_at_epoch": 1588486219.0,
             "included_at_iso": "2020-05-03T06:10:19",
-            "last_retested_at_epoch": 1589201198.485207,
-            "last_retested_at_iso": "2020-05-11T12:46:38.485207",
+            "last_retested_at_epoch": 1589291765.914967,
+            "last_retested_at_iso": "2020-05-12T13:56:05.914967",
             "status": "INACTIVE"
         },
         "www.aymcsx.ru": {
@@ -3097,8 +3097,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589201304.391314,
-            "last_retested_at_iso": "2020-05-11T12:48:24.391314",
+            "last_retested_at_epoch": 1589291641.037711,
+            "last_retested_at_iso": "2020-05-12T13:54:01.037711",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
@@ -3426,8 +3426,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1589201441.946682,
-            "last_retested_at_iso": "2020-05-11T12:50:41.946682",
+            "last_retested_at_epoch": 1589292053.73262,
+            "last_retested_at_iso": "2020-05-12T14:00:53.732620",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
