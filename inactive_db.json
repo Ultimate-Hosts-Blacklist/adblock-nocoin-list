@@ -521,8 +521,8 @@
         "eu.cfcdist.loan": {
             "included_at_epoch": 1588454058.0,
             "included_at_iso": "2020-05-02T21:14:18",
-            "last_retested_at_epoch": 1589287623.838676,
-            "last_retested_at_iso": "2020-05-12T12:47:03.838676",
+            "last_retested_at_epoch": 1589374720.366317,
+            "last_retested_at_iso": "2020-05-13T12:58:40.366317",
             "status": "INACTIVE"
         },
         "eu.cfcnet.top": {
@@ -920,8 +920,8 @@
         "jshosting.racing": {
             "included_at_epoch": 1588449188.0,
             "included_at_iso": "2020-05-02T19:53:08",
-            "last_retested_at_epoch": 1589273987.074973,
-            "last_retested_at_iso": "2020-05-12T08:59:47.074973",
+            "last_retested_at_epoch": 1589374448.54947,
+            "last_retested_at_iso": "2020-05-13T12:54:08.549470",
             "status": "INACTIVE"
         },
         "jshosting.review": {
@@ -1102,8 +1102,8 @@
         "miner-17.team.nimiq.agency": {
             "included_at_epoch": 1588473266.0,
             "included_at_iso": "2020-05-03T02:34:26",
-            "last_retested_at_epoch": 1589287234.3076,
-            "last_retested_at_iso": "2020-05-12T12:40:34.307600",
+            "last_retested_at_epoch": 1589374770.550062,
+            "last_retested_at_iso": "2020-05-13T12:59:30.550062",
             "status": "INACTIVE"
         },
         "miner-18.team.nimiq.agency": {
@@ -1221,8 +1221,8 @@
         "minr.browsermine.com": {
             "included_at_epoch": 1588468033.0,
             "included_at_iso": "2020-05-03T01:07:13",
-            "last_retested_at_epoch": 1589287303.639725,
-            "last_retested_at_iso": "2020-05-12T12:41:43.639725",
+            "last_retested_at_epoch": 1589374756.628938,
+            "last_retested_at_iso": "2020-05-13T12:59:16.628938",
             "status": "INACTIVE"
         },
         "mm.zubovskaya-banya.ru": {
@@ -1361,8 +1361,8 @@
         "play.besstahete.info": {
             "included_at_epoch": 1588458791.0,
             "included_at_iso": "2020-05-02T22:33:11",
-            "last_retested_at_epoch": 1589287110.621831,
-            "last_retested_at_iso": "2020-05-12T12:38:30.621831",
+            "last_retested_at_epoch": 1589374319.404374,
+            "last_retested_at_iso": "2020-05-13T12:51:59.404374",
             "status": "INACTIVE"
         },
         "play.estream.nu": {
@@ -1452,8 +1452,8 @@
         "play.tainiesonline.pw": {
             "included_at_epoch": 1588453569.0,
             "included_at_iso": "2020-05-02T21:06:09",
-            "last_retested_at_epoch": 1589287488.812299,
-            "last_retested_at_iso": "2020-05-12T12:44:48.812299",
+            "last_retested_at_epoch": 1589374297.307882,
+            "last_retested_at_iso": "2020-05-13T12:51:37.307882",
             "status": "INACTIVE"
         },
         "play.vb.wearesaudis.net": {
@@ -2159,8 +2159,8 @@
         "www.bmnr.pw": {
             "included_at_epoch": 1588448724.0,
             "included_at_iso": "2020-05-02T19:45:24",
-            "last_retested_at_epoch": 1589287513.324884,
-            "last_retested_at_iso": "2020-05-12T12:45:13.324884",
+            "last_retested_at_epoch": 1589374257.980211,
+            "last_retested_at_iso": "2020-05-13T12:50:57.980211",
             "status": "INACTIVE"
         },
         "www.bmst.pw": {
@@ -2922,8 +2922,8 @@
         "www.jshosting.racing": {
             "included_at_epoch": 1588449187.0,
             "included_at_iso": "2020-05-02T19:53:07",
-            "last_retested_at_epoch": 1589273987.051391,
-            "last_retested_at_iso": "2020-05-12T08:59:47.051391",
+            "last_retested_at_epoch": 1589374448.779425,
+            "last_retested_at_iso": "2020-05-13T12:54:08.779425",
             "status": "INACTIVE"
         },
         "www.jshosting.review": {
