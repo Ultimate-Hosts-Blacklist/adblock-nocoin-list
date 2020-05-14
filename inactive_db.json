@@ -31,8 +31,8 @@
         "ad.g-content.bid": {
             "included_at_epoch": 1588449129.0,
             "included_at_iso": "2020-05-02T19:52:09",
-            "last_retested_at_epoch": 1589336681.792421,
-            "last_retested_at_iso": "2020-05-13T02:24:41.792421",
+            "last_retested_at_epoch": 1589424950.44897,
+            "last_retested_at_iso": "2020-05-14T02:55:50.448970",
             "status": "INACTIVE"
         },
         "aeros03.tk": {
@@ -269,8 +269,8 @@
         "blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589331846.292299,
-            "last_retested_at_iso": "2020-05-13T01:04:06.292299",
+            "last_retested_at_epoch": 1589424913.857311,
+            "last_retested_at_iso": "2020-05-14T02:55:13.857311",
             "status": "INACTIVE"
         },
         "bmcm.ml": {
@@ -878,8 +878,8 @@
         "jshosting.bid": {
             "included_at_epoch": 1588529765.0,
             "included_at_iso": "2020-05-03T18:16:05",
-            "last_retested_at_epoch": 1589331871.739681,
-            "last_retested_at_iso": "2020-05-13T01:04:31.739681",
+            "last_retested_at_epoch": 1589424656.535531,
+            "last_retested_at_iso": "2020-05-14T02:50:56.535531",
             "status": "INACTIVE"
         },
         "jshosting.date": {
@@ -1081,8 +1081,8 @@
         "miner-14.team.nimiq.agency": {
             "included_at_epoch": 1588529949.0,
             "included_at_iso": "2020-05-03T18:19:09",
-            "last_retested_at_epoch": 1589336470.12983,
-            "last_retested_at_iso": "2020-05-13T02:21:10.129830",
+            "last_retested_at_epoch": 1589425090.599471,
+            "last_retested_at_iso": "2020-05-14T02:58:10.599471",
             "status": "INACTIVE"
         },
         "miner-15.team.nimiq.agency": {
@@ -1368,8 +1368,8 @@
         "play.estream.nu": {
             "included_at_epoch": 1589336814.921329,
             "included_at_iso": "2020-05-13T02:26:54.921329",
-            "last_retested_at_epoch": 1589336814.921329,
-            "last_retested_at_iso": "2020-05-13T02:26:54.921329",
+            "last_retested_at_epoch": 1589424628.548687,
+            "last_retested_at_iso": "2020-05-14T02:50:28.548687",
             "status": "INACTIVE"
         },
         "play.estream.to": {
@@ -1669,8 +1669,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1589331816.953155,
-            "last_retested_at_iso": "2020-05-13T01:03:36.953155",
+            "last_retested_at_epoch": 1589424781.798444,
+            "last_retested_at_iso": "2020-05-14T02:53:01.798444",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1697,8 +1697,8 @@
         "sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589336392.449176,
-            "last_retested_at_iso": "2020-05-13T02:19:52.449176",
+            "last_retested_at_epoch": 1589425001.679033,
+            "last_retested_at_iso": "2020-05-14T02:56:41.679033",
             "status": "INACTIVE"
         },
         "sunnimiq2.cf": {
@@ -2138,8 +2138,8 @@
         "www.blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589331846.293307,
-            "last_retested_at_iso": "2020-05-13T01:04:06.293307",
+            "last_retested_at_epoch": 1589424913.84519,
+            "last_retested_at_iso": "2020-05-14T02:55:13.845190",
             "status": "INACTIVE"
         },
         "www.bmcm.ml": {
@@ -2250,8 +2250,8 @@
         "www.clgserv.pro": {
             "included_at_epoch": 1588526943.0,
             "included_at_iso": "2020-05-03T17:29:03",
-            "last_retested_at_epoch": 1589336747.112845,
-            "last_retested_at_iso": "2020-05-13T02:25:47.112845",
+            "last_retested_at_epoch": 1589424606.544336,
+            "last_retested_at_iso": "2020-05-14T02:50:06.544336",
             "status": "INACTIVE"
         },
         "www.clickwith.bid": {
@@ -2803,8 +2803,8 @@
         "www.hostingcloud.trade": {
             "included_at_epoch": 1588527334.0,
             "included_at_iso": "2020-05-03T17:35:34",
-            "last_retested_at_epoch": 1589336253.620378,
-            "last_retested_at_iso": "2020-05-13T02:17:33.620378",
+            "last_retested_at_epoch": 1589424627.620619,
+            "last_retested_at_iso": "2020-05-14T02:50:27.620619",
             "status": "INACTIVE"
         },
         "www.hostingcloud.win": {
@@ -2880,8 +2880,8 @@
         "www.jshosting.bid": {
             "included_at_epoch": 1588439587.0,
             "included_at_iso": "2020-05-02T17:13:07",
-            "last_retested_at_epoch": 1589331871.784371,
-            "last_retested_at_iso": "2020-05-13T01:04:31.784371",
+            "last_retested_at_epoch": 1589424656.708665,
+            "last_retested_at_iso": "2020-05-14T02:50:56.708665",
             "status": "INACTIVE"
         },
         "www.jshosting.date": {
@@ -3363,8 +3363,8 @@
         "www.sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589336392.44826,
-            "last_retested_at_iso": "2020-05-13T02:19:52.448260",
+            "last_retested_at_epoch": 1589425001.65807,
+            "last_retested_at_iso": "2020-05-14T02:56:41.658070",
             "status": "INACTIVE"
         },
         "www.sunnimiq2.cf": {
