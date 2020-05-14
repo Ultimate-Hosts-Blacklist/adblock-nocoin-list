@@ -220,8 +220,8 @@
         "autologica.ga": {
             "included_at_epoch": 1588486219.0,
             "included_at_iso": "2020-05-03T06:10:19",
-            "last_retested_at_epoch": 1589378626.457896,
-            "last_retested_at_iso": "2020-05-13T14:03:46.457896",
+            "last_retested_at_epoch": 1589467960.161832,
+            "last_retested_at_iso": "2020-05-14T14:52:40.161832",
             "status": "INACTIVE"
         },
         "aymcsx.ru": {
@@ -332,8 +332,8 @@
         "cdn.cloudcoins.co": {
             "included_at_epoch": 1588458875.0,
             "included_at_iso": "2020-05-02T22:34:35",
-            "last_retested_at_epoch": 1589378397.979016,
-            "last_retested_at_iso": "2020-05-13T13:59:57.979016",
+            "last_retested_at_epoch": 1589467805.488429,
+            "last_retested_at_iso": "2020-05-14T14:50:05.488429",
             "status": "INACTIVE"
         },
         "cdn.jquery-uim.download": {
@@ -1004,8 +1004,8 @@
         "m.anyfiles.ovh": {
             "included_at_epoch": 1588473576.0,
             "included_at_iso": "2020-05-03T02:39:36",
-            "last_retested_at_epoch": 1589378195.912551,
-            "last_retested_at_iso": "2020-05-13T13:56:35.912551",
+            "last_retested_at_epoch": 1589468037.943047,
+            "last_retested_at_iso": "2020-05-14T14:53:57.943047",
             "status": "INACTIVE"
         },
         "malictuiar.com": {
@@ -1102,8 +1102,8 @@
         "miner-17.team.nimiq.agency": {
             "included_at_epoch": 1588473266.0,
             "included_at_iso": "2020-05-03T02:34:26",
-            "last_retested_at_epoch": 1589374770.550062,
-            "last_retested_at_iso": "2020-05-13T12:59:30.550062",
+            "last_retested_at_epoch": 1589467984.809758,
+            "last_retested_at_iso": "2020-05-14T14:53:04.809758",
             "status": "INACTIVE"
         },
         "miner-18.team.nimiq.agency": {
@@ -1242,8 +1242,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589378463.082438,
-            "last_retested_at_iso": "2020-05-13T14:01:03.082438",
+            "last_retested_at_epoch": 1589468140.257729,
+            "last_retested_at_iso": "2020-05-14T14:55:40.257729",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1389,8 +1389,8 @@
         "play.malictuiar.com": {
             "included_at_epoch": 1588444583.0,
             "included_at_iso": "2020-05-02T18:36:23",
-            "last_retested_at_epoch": 1589378445.067264,
-            "last_retested_at_iso": "2020-05-13T14:00:45.067264",
+            "last_retested_at_epoch": 1589468049.140861,
+            "last_retested_at_iso": "2020-05-14T14:54:09.140861",
             "status": "INACTIVE"
         },
         "play.on.animeteatr.ru": {
@@ -2054,8 +2054,8 @@
         "www.autologica.ga": {
             "included_at_epoch": 1588486219.0,
             "included_at_iso": "2020-05-03T06:10:19",
-            "last_retested_at_epoch": 1589378626.915914,
-            "last_retested_at_iso": "2020-05-13T14:03:46.915914",
+            "last_retested_at_epoch": 1589467960.136454,
+            "last_retested_at_iso": "2020-05-14T14:52:40.136454",
             "status": "INACTIVE"
         },
         "www.aymcsx.ru": {
@@ -2992,8 +2992,8 @@
         "www.kedtise.com": {
             "included_at_epoch": 1586072327.0,
             "included_at_iso": "2020-04-05T07:38:47",
-            "last_retested_at_epoch": 1589378633.525571,
-            "last_retested_at_iso": "2020-05-13T14:03:53.525571",
+            "last_retested_at_epoch": 1589468159.297372,
+            "last_retested_at_iso": "2020-05-14T14:55:59.297372",
             "status": "INACTIVE"
         },
         "www.kippbeak.cf": {
@@ -3118,8 +3118,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589378463.200832,
-            "last_retested_at_iso": "2020-05-13T14:01:03.200832",
+            "last_retested_at_epoch": 1589468140.199213,
+            "last_retested_at_iso": "2020-05-14T14:55:40.199213",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
