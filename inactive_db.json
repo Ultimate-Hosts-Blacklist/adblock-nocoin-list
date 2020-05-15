@@ -1242,8 +1242,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589468140.257729,
-            "last_retested_at_iso": "2020-05-14T14:55:40.257729",
+            "last_retested_at_epoch": 1589575474.483084,
+            "last_retested_at_iso": "2020-05-15T20:44:34.483084",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1256,8 +1256,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589488505.061629,
-            "last_retested_at_iso": "2020-05-14T20:35:05.061629",
+            "last_retested_at_epoch": 1589575792.538167,
+            "last_retested_at_iso": "2020-05-15T20:49:52.538167",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1531,6 +1531,13 @@
             "included_at_iso": "2020-05-02T21:06:43",
             "last_retested_at_epoch": 1589547249.528611,
             "last_retested_at_iso": "2020-05-15T12:54:09.528611",
+            "status": "INACTIVE"
+        },
+        "proxy-fra-2.inf.nimiq.network": {
+            "included_at_epoch": 1589575481.795329,
+            "included_at_iso": "2020-05-15T20:44:41.795329",
+            "last_retested_at_epoch": 1589575481.795329,
+            "last_retested_at_iso": "2020-05-15T20:44:41.795329",
             "status": "INACTIVE"
         },
         "rintindown.com": {
@@ -3118,8 +3125,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589468140.199213,
-            "last_retested_at_iso": "2020-05-14T14:55:40.199213",
+            "last_retested_at_epoch": 1589575474.330975,
+            "last_retested_at_iso": "2020-05-15T20:44:34.330975",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
@@ -3139,8 +3146,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589488504.949874,
-            "last_retested_at_iso": "2020-05-14T20:35:04.949874",
+            "last_retested_at_epoch": 1589575792.637389,
+            "last_retested_at_iso": "2020-05-15T20:49:52.637389",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
@@ -3447,8 +3454,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1589488748.154084,
-            "last_retested_at_iso": "2020-05-14T20:39:08.154084",
+            "last_retested_at_epoch": 1589575571.380306,
+            "last_retested_at_iso": "2020-05-15T20:46:11.380306",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
