@@ -451,8 +451,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1589472162.421585,
-            "last_retested_at_iso": "2020-05-14T16:02:42.421585",
+            "last_retested_at_epoch": 1589570703.468855,
+            "last_retested_at_iso": "2020-05-15T19:25:03.468855",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -1158,8 +1158,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1589483580.9387,
-            "last_retested_at_iso": "2020-05-14T19:13:00.938700",
+            "last_retested_at_epoch": 1589570454.467766,
+            "last_retested_at_iso": "2020-05-15T19:20:54.467766",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -2390,8 +2390,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1589472162.260789,
-            "last_retested_at_iso": "2020-05-14T16:02:42.260789",
+            "last_retested_at_epoch": 1589570698.531829,
+            "last_retested_at_iso": "2020-05-15T19:24:58.531829",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
