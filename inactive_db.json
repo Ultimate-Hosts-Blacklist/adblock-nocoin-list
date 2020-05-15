@@ -1687,6 +1687,13 @@
             "last_retested_at_iso": "2020-05-15T21:59:19.883163",
             "status": "INACTIVE"
         },
+        "seed-fra-5.inf.nimiq.network": {
+            "included_at_epoch": 1589583943.643283,
+            "included_at_iso": "2020-05-15T23:05:43.643283",
+            "last_retested_at_epoch": 1589583943.643283,
+            "last_retested_at_iso": "2020-05-15T23:05:43.643283",
+            "status": "INACTIVE"
+        },
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
