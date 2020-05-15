@@ -486,8 +486,8 @@
         "dubester.pw": {
             "included_at_epoch": 1588527420.0,
             "included_at_iso": "2020-05-03T17:37:00",
-            "last_retested_at_epoch": 1589412076.213558,
-            "last_retested_at_iso": "2020-05-13T23:21:16.213558",
+            "last_retested_at_epoch": 1589501078.509273,
+            "last_retested_at_iso": "2020-05-15T00:04:38.509273",
             "status": "INACTIVE"
         },
         "dubester.site": {
@@ -1067,8 +1067,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1589412264.387653,
-            "last_retested_at_iso": "2020-05-13T23:24:24.387653",
+            "last_retested_at_epoch": 1589501380.062806,
+            "last_retested_at_iso": "2020-05-15T00:09:40.062806",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -2418,8 +2418,8 @@
         "www.dubester.pw": {
             "included_at_epoch": 1588527415.0,
             "included_at_iso": "2020-05-03T17:36:55",
-            "last_retested_at_epoch": 1589412075.954555,
-            "last_retested_at_iso": "2020-05-13T23:21:15.954555",
+            "last_retested_at_epoch": 1589501078.239711,
+            "last_retested_at_iso": "2020-05-15T00:04:38.239711",
             "status": "INACTIVE"
         },
         "www.dubester.site": {
