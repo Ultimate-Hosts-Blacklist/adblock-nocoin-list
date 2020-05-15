@@ -136,8 +136,8 @@
         "anybest.pw": {
             "included_at_epoch": 1588527009.0,
             "included_at_iso": "2020-05-03T17:30:09",
-            "last_retested_at_epoch": 1589411925.070004,
-            "last_retested_at_iso": "2020-05-13T23:18:45.070004",
+            "last_retested_at_epoch": 1589505556.39836,
+            "last_retested_at_iso": "2020-05-15T01:19:16.398360",
             "status": "INACTIVE"
         },
         "anybest.space": {
@@ -339,8 +339,8 @@
         "cdn.jquery-uim.download": {
             "included_at_epoch": 1588526921.0,
             "included_at_iso": "2020-05-03T17:28:41",
-            "last_retested_at_epoch": 1589412282.446864,
-            "last_retested_at_iso": "2020-05-13T23:24:42.446864",
+            "last_retested_at_epoch": 1589505627.093532,
+            "last_retested_at_iso": "2020-05-15T01:20:27.093532",
             "status": "INACTIVE"
         },
         "cdn.static-cnt.bid": {
@@ -2012,8 +2012,8 @@
         "www.anybest.pw": {
             "included_at_epoch": 1588527004.0,
             "included_at_iso": "2020-05-03T17:30:04",
-            "last_retested_at_epoch": 1589411924.772589,
-            "last_retested_at_iso": "2020-05-13T23:18:44.772589",
+            "last_retested_at_epoch": 1589505551.473336,
+            "last_retested_at_iso": "2020-05-15T01:19:11.473336",
             "status": "INACTIVE"
         },
         "www.anybest.site": {
@@ -2502,8 +2502,8 @@
         "www.ffinwwfpqi.gq": {
             "included_at_epoch": 1588444370.0,
             "included_at_iso": "2020-05-02T18:32:50",
-            "last_retested_at_epoch": 1589415856.762588,
-            "last_retested_at_iso": "2020-05-14T00:24:16.762588",
+            "last_retested_at_epoch": 1589505271.212856,
+            "last_retested_at_iso": "2020-05-15T01:14:31.212856",
             "status": "INACTIVE"
         },
         "www.flare-analytics.com": {
@@ -3356,8 +3356,8 @@
         "www.sparnove.com": {
             "included_at_epoch": 1588509379.0,
             "included_at_iso": "2020-05-03T12:36:19",
-            "last_retested_at_epoch": 1589415678.701413,
-            "last_retested_at_iso": "2020-05-14T00:21:18.701413",
+            "last_retested_at_epoch": 1589505224.241281,
+            "last_retested_at_iso": "2020-05-15T01:13:44.241281",
             "status": "INACTIVE"
         },
         "www.stonecalcom.com": {
@@ -3552,8 +3552,8 @@
         "www.zymerget.date": {
             "included_at_epoch": 1588439716.0,
             "included_at_iso": "2020-05-02T17:15:16",
-            "last_retested_at_epoch": 1589415824.746018,
-            "last_retested_at_iso": "2020-05-14T00:23:44.746018",
+            "last_retested_at_epoch": 1589505674.659557,
+            "last_retested_at_iso": "2020-05-15T01:21:14.659557",
             "status": "INACTIVE"
         },
         "www.zymerget.faith": {
@@ -3629,8 +3629,8 @@
         "zymerget.date": {
             "included_at_epoch": 1588526931.0,
             "included_at_iso": "2020-05-03T17:28:51",
-            "last_retested_at_epoch": 1589415824.636822,
-            "last_retested_at_iso": "2020-05-14T00:23:44.636822",
+            "last_retested_at_epoch": 1589505674.367576,
+            "last_retested_at_iso": "2020-05-15T01:21:14.367576",
             "status": "INACTIVE"
         },
         "zymerget.faith": {
