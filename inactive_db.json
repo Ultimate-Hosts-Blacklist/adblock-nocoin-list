@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1589579948.125738,
-            "last_retested_at_iso": "2020-05-15T21:59:08.125738",
+            "last_retested_at_epoch": 1589669132.500047,
+            "last_retested_at_iso": "2020-05-16T22:45:32.500047",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -1536,8 +1536,8 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1589579658.17221,
-            "last_retested_at_iso": "2020-05-15T21:54:18.172210",
+            "last_retested_at_epoch": 1589668852.19951,
+            "last_retested_at_iso": "2020-05-16T22:40:52.199510",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
@@ -1676,15 +1676,15 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1589579539.67318,
-            "last_retested_at_iso": "2020-05-15T21:52:19.673180",
+            "last_retested_at_epoch": 1589668739.58828,
+            "last_retested_at_iso": "2020-05-16T22:38:59.588280",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1589579959.883163,
-            "last_retested_at_iso": "2020-05-15T21:59:19.883163",
+            "last_retested_at_epoch": 1589668702.395868,
+            "last_retested_at_iso": "2020-05-16T22:38:22.395868",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
@@ -1697,8 +1697,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1589579687.847773,
-            "last_retested_at_iso": "2020-05-15T21:54:47.847773",
+            "last_retested_at_epoch": 1589669008.518482,
+            "last_retested_at_iso": "2020-05-16T22:43:28.518482",
             "status": "INACTIVE"
         },
         "seed1.sushipool.com": {
@@ -2187,8 +2187,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1589579948.415152,
-            "last_retested_at_iso": "2020-05-15T21:59:08.415152",
+            "last_retested_at_epoch": 1589669132.487441,
+            "last_retested_at_iso": "2020-05-16T22:45:32.487441",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
