@@ -241,8 +241,8 @@
         "baywttgdhe.download": {
             "included_at_epoch": 1588448743.0,
             "included_at_iso": "2020-05-02T19:45:43",
-            "last_retested_at_epoch": 1589515143.062438,
-            "last_retested_at_iso": "2020-05-15T03:59:03.062438",
+            "last_retested_at_epoch": 1589601701.037808,
+            "last_retested_at_iso": "2020-05-16T04:01:41.037808",
             "status": "INACTIVE"
         },
         "berserkpl.net.pl": {
@@ -878,8 +878,8 @@
         "jshosting.bid": {
             "included_at_epoch": 1588529765.0,
             "included_at_iso": "2020-05-03T18:16:05",
-            "last_retested_at_epoch": 1589515100.001995,
-            "last_retested_at_iso": "2020-05-15T03:58:20.001995",
+            "last_retested_at_epoch": 1589601648.148144,
+            "last_retested_at_iso": "2020-05-16T04:00:48.148144",
             "status": "INACTIVE"
         },
         "jshosting.date": {
@@ -1081,8 +1081,8 @@
         "miner-14.team.nimiq.agency": {
             "included_at_epoch": 1588529949.0,
             "included_at_iso": "2020-05-03T18:19:09",
-            "last_retested_at_epoch": 1589514683.753422,
-            "last_retested_at_iso": "2020-05-15T03:51:23.753422",
+            "last_retested_at_epoch": 1589601629.914673,
+            "last_retested_at_iso": "2020-05-16T04:00:29.914673",
             "status": "INACTIVE"
         },
         "miner-15.team.nimiq.agency": {
@@ -1711,8 +1711,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1589514773.06273,
-            "last_retested_at_iso": "2020-05-15T03:52:53.062730",
+            "last_retested_at_epoch": 1589601658.929184,
+            "last_retested_at_iso": "2020-05-16T04:00:58.929184",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1739,8 +1739,8 @@
         "sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589514722.148967,
-            "last_retested_at_iso": "2020-05-15T03:52:02.148967",
+            "last_retested_at_epoch": 1589601647.458563,
+            "last_retested_at_iso": "2020-05-16T04:00:47.458563",
             "status": "INACTIVE"
         },
         "sunnimiq2.cf": {
@@ -1837,8 +1837,8 @@
         "whanganui.nimiqpool.com": {
             "included_at_epoch": 1588444274.0,
             "included_at_iso": "2020-05-02T18:31:14",
-            "last_retested_at_epoch": 1589515229.478322,
-            "last_retested_at_iso": "2020-05-15T04:00:29.478322",
+            "last_retested_at_epoch": 1589601701.871372,
+            "last_retested_at_iso": "2020-05-16T04:01:41.871372",
             "status": "INACTIVE"
         },
         "willacrit.com": {
@@ -2124,8 +2124,8 @@
         "www.baywttgdhe.download": {
             "included_at_epoch": 1588448743.0,
             "included_at_iso": "2020-05-02T19:45:43",
-            "last_retested_at_epoch": 1589515143.051304,
-            "last_retested_at_iso": "2020-05-15T03:59:03.051304",
+            "last_retested_at_epoch": 1589601701.185239,
+            "last_retested_at_iso": "2020-05-16T04:01:41.185239",
             "status": "INACTIVE"
         },
         "www.beatingbytes.com": {
@@ -2299,8 +2299,8 @@
         "www.clgserv.pro": {
             "included_at_epoch": 1588526943.0,
             "included_at_iso": "2020-05-03T17:29:03",
-            "last_retested_at_epoch": 1589514676.368592,
-            "last_retested_at_iso": "2020-05-15T03:51:16.368592",
+            "last_retested_at_epoch": 1589601282.300621,
+            "last_retested_at_iso": "2020-05-16T03:54:42.300621",
             "status": "INACTIVE"
         },
         "www.clickwith.bid": {
@@ -2929,8 +2929,8 @@
         "www.jshosting.bid": {
             "included_at_epoch": 1588439587.0,
             "included_at_iso": "2020-05-02T17:13:07",
-            "last_retested_at_epoch": 1589515099.982345,
-            "last_retested_at_iso": "2020-05-15T03:58:19.982345",
+            "last_retested_at_epoch": 1589601648.295535,
+            "last_retested_at_iso": "2020-05-16T04:00:48.295535",
             "status": "INACTIVE"
         },
         "www.jshosting.date": {
@@ -3412,8 +3412,8 @@
         "www.sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589514722.423106,
-            "last_retested_at_iso": "2020-05-15T03:52:02.423106",
+            "last_retested_at_epoch": 1589601647.289505,
+            "last_retested_at_iso": "2020-05-16T04:00:47.289505",
             "status": "INACTIVE"
         },
         "www.sunnimiq2.cf": {
@@ -3594,8 +3594,8 @@
         "www.zymerget.date": {
             "included_at_epoch": 1588439716.0,
             "included_at_iso": "2020-05-02T17:15:16",
-            "last_retested_at_epoch": 1589505674.659557,
-            "last_retested_at_iso": "2020-05-15T01:21:14.659557",
+            "last_retested_at_epoch": 1589601549.713216,
+            "last_retested_at_iso": "2020-05-16T03:59:09.713216",
             "status": "INACTIVE"
         },
         "www.zymerget.faith": {
@@ -3671,8 +3671,8 @@
         "zymerget.date": {
             "included_at_epoch": 1588526931.0,
             "included_at_iso": "2020-05-03T17:28:51",
-            "last_retested_at_epoch": 1589505674.367576,
-            "last_retested_at_iso": "2020-05-15T01:21:14.367576",
+            "last_retested_at_epoch": 1589601549.602875,
+            "last_retested_at_iso": "2020-05-16T03:59:09.602875",
             "status": "INACTIVE"
         },
         "zymerget.faith": {
