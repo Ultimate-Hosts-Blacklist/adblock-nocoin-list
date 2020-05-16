@@ -1767,8 +1767,8 @@
         "toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1589565563.716562,
-            "last_retested_at_iso": "2020-05-15T17:59:23.716562",
+            "last_retested_at_epoch": 1589652599.507007,
+            "last_retested_at_iso": "2020-05-16T18:09:59.507007",
             "status": "INACTIVE"
         },
         "tokomaru.nimiqpool.com": {
@@ -2523,8 +2523,8 @@
         "www.eucsoft.com": {
             "included_at_epoch": 1588763923.183524,
             "included_at_iso": "2020-05-06T11:18:43.183524",
-            "last_retested_at_epoch": 1589565877.394595,
-            "last_retested_at_iso": "2020-05-15T18:04:37.394595",
+            "last_retested_at_epoch": 1589652590.081183,
+            "last_retested_at_iso": "2020-05-16T18:09:50.081183",
             "status": "INACTIVE"
         },
         "www.evengparme.com": {
@@ -3447,8 +3447,8 @@
         "www.toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1589565563.88934,
-            "last_retested_at_iso": "2020-05-15T17:59:23.889340",
+            "last_retested_at_epoch": 1589652599.426302,
+            "last_retested_at_iso": "2020-05-16T18:09:59.426302",
             "status": "INACTIVE"
         },
         "www.tokyodrift.ga": {
