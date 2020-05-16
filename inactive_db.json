@@ -31,8 +31,8 @@
         "ad.g-content.bid": {
             "included_at_epoch": 1588449129.0,
             "included_at_iso": "2020-05-02T19:52:09",
-            "last_retested_at_epoch": 1589515185.10327,
-            "last_retested_at_iso": "2020-05-15T03:59:45.103270",
+            "last_retested_at_epoch": 1589605299.323223,
+            "last_retested_at_iso": "2020-05-16T05:01:39.323223",
             "status": "INACTIVE"
         },
         "aeros03.tk": {
@@ -45,8 +45,8 @@
         "aeros04.tk": {
             "included_at_epoch": 1588527190.0,
             "included_at_iso": "2020-05-03T17:33:10",
-            "last_retested_at_epoch": 1589510232.997275,
-            "last_retested_at_iso": "2020-05-15T02:37:12.997275",
+            "last_retested_at_epoch": 1589605161.8712,
+            "last_retested_at_iso": "2020-05-16T04:59:21.871200",
             "status": "INACTIVE"
         },
         "aeros05.tk": {
@@ -269,8 +269,8 @@
         "blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589515183.977545,
-            "last_retested_at_iso": "2020-05-15T03:59:43.977545",
+            "last_retested_at_epoch": 1589605124.255987,
+            "last_retested_at_iso": "2020-05-16T04:58:44.255987",
             "status": "INACTIVE"
         },
         "bmcm.ml": {
@@ -1368,8 +1368,8 @@
         "play.estream.nu": {
             "included_at_epoch": 1589336814.921329,
             "included_at_iso": "2020-05-13T02:26:54.921329",
-            "last_retested_at_epoch": 1589515128.721841,
-            "last_retested_at_iso": "2020-05-15T03:58:48.721841",
+            "last_retested_at_epoch": 1589605117.715101,
+            "last_retested_at_iso": "2020-05-16T04:58:37.715101",
             "status": "INACTIVE"
         },
         "play.estream.to": {
@@ -1949,8 +1949,8 @@
         "www.aeros04.tk": {
             "included_at_epoch": 1588527190.0,
             "included_at_iso": "2020-05-03T17:33:10",
-            "last_retested_at_epoch": 1589510233.33678,
-            "last_retested_at_iso": "2020-05-15T02:37:13.336780",
+            "last_retested_at_epoch": 1589605161.747223,
+            "last_retested_at_iso": "2020-05-16T04:59:21.747223",
             "status": "INACTIVE"
         },
         "www.aeros05.tk": {
@@ -2180,8 +2180,8 @@
         "www.blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589515183.951221,
-            "last_retested_at_iso": "2020-05-15T03:59:43.951221",
+            "last_retested_at_epoch": 1589605124.254994,
+            "last_retested_at_iso": "2020-05-16T04:58:44.254994",
             "status": "INACTIVE"
         },
         "www.bmcm.ml": {
@@ -2852,8 +2852,8 @@
         "www.hostingcloud.trade": {
             "included_at_epoch": 1588527334.0,
             "included_at_iso": "2020-05-03T17:35:34",
-            "last_retested_at_epoch": 1589515044.62366,
-            "last_retested_at_iso": "2020-05-15T03:57:24.623660",
+            "last_retested_at_epoch": 1589605473.117498,
+            "last_retested_at_iso": "2020-05-16T05:04:33.117498",
             "status": "INACTIVE"
         },
         "www.hostingcloud.win": {
