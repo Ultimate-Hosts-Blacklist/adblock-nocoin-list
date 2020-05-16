@@ -1242,8 +1242,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589575474.483084,
-            "last_retested_at_iso": "2020-05-15T20:44:34.483084",
+            "last_retested_at_epoch": 1589664631.999738,
+            "last_retested_at_iso": "2020-05-16T21:30:31.999738",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1256,8 +1256,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589575792.538167,
-            "last_retested_at_iso": "2020-05-15T20:49:52.538167",
+            "last_retested_at_epoch": 1589665142.024098,
+            "last_retested_at_iso": "2020-05-16T21:39:02.024098",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1543,8 +1543,8 @@
         "proxy-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589575481.795329,
             "included_at_iso": "2020-05-15T20:44:41.795329",
-            "last_retested_at_epoch": 1589575481.795329,
-            "last_retested_at_iso": "2020-05-15T20:44:41.795329",
+            "last_retested_at_epoch": 1589665094.638384,
+            "last_retested_at_iso": "2020-05-16T21:38:14.638384",
             "status": "INACTIVE"
         },
         "rintindown.com": {
@@ -3160,8 +3160,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589575474.330975,
-            "last_retested_at_iso": "2020-05-15T20:44:34.330975",
+            "last_retested_at_epoch": 1589664631.773522,
+            "last_retested_at_iso": "2020-05-16T21:30:31.773522",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
@@ -3181,8 +3181,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589575792.637389,
-            "last_retested_at_iso": "2020-05-15T20:49:52.637389",
+            "last_retested_at_epoch": 1589665142.247556,
+            "last_retested_at_iso": "2020-05-16T21:39:02.247556",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
@@ -3489,8 +3489,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1589575571.380306,
-            "last_retested_at_iso": "2020-05-15T20:46:11.380306",
+            "last_retested_at_epoch": 1589664624.040439,
+            "last_retested_at_iso": "2020-05-16T21:30:24.040439",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
