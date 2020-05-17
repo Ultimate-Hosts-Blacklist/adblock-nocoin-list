@@ -1256,8 +1256,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589665142.024098,
-            "last_retested_at_iso": "2020-05-16T21:39:02.024098",
+            "last_retested_at_epoch": 1589755593.847939,
+            "last_retested_at_iso": "2020-05-17T22:46:33.847939",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1536,15 +1536,15 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1589668852.19951,
-            "last_retested_at_iso": "2020-05-16T22:40:52.199510",
+            "last_retested_at_epoch": 1589755579.560908,
+            "last_retested_at_iso": "2020-05-17T22:46:19.560908",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589575481.795329,
             "included_at_iso": "2020-05-15T20:44:41.795329",
-            "last_retested_at_epoch": 1589665094.638384,
-            "last_retested_at_iso": "2020-05-16T21:38:14.638384",
+            "last_retested_at_epoch": 1589755520.132988,
+            "last_retested_at_iso": "2020-05-17T22:45:20.132988",
             "status": "INACTIVE"
         },
         "rintindown.com": {
@@ -1683,8 +1683,8 @@
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1589668702.395868,
-            "last_retested_at_iso": "2020-05-16T22:38:22.395868",
+            "last_retested_at_epoch": 1589755765.966433,
+            "last_retested_at_iso": "2020-05-17T22:49:25.966433",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
@@ -1697,8 +1697,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1589669008.518482,
-            "last_retested_at_iso": "2020-05-16T22:43:28.518482",
+            "last_retested_at_epoch": 1589755869.807148,
+            "last_retested_at_iso": "2020-05-17T22:51:09.807148",
             "status": "INACTIVE"
         },
         "seed1.sushipool.com": {
@@ -3181,8 +3181,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589665142.247556,
-            "last_retested_at_iso": "2020-05-16T21:39:02.247556",
+            "last_retested_at_epoch": 1589755593.849018,
+            "last_retested_at_iso": "2020-05-17T22:46:33.849018",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
