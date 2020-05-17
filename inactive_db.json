@@ -45,8 +45,8 @@
         "aeros04.tk": {
             "included_at_epoch": 1588527190.0,
             "included_at_iso": "2020-05-03T17:33:10",
-            "last_retested_at_epoch": 1589605161.8712,
-            "last_retested_at_iso": "2020-05-16T04:59:21.871200",
+            "last_retested_at_epoch": 1589693948.157211,
+            "last_retested_at_iso": "2020-05-17T05:39:08.157211",
             "status": "INACTIVE"
         },
         "aeros05.tk": {
@@ -269,8 +269,8 @@
         "blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589605124.255987,
-            "last_retested_at_iso": "2020-05-16T04:58:44.255987",
+            "last_retested_at_epoch": 1589693937.861821,
+            "last_retested_at_iso": "2020-05-17T05:38:57.861821",
             "status": "INACTIVE"
         },
         "bmcm.ml": {
@@ -1368,8 +1368,8 @@
         "play.estream.nu": {
             "included_at_epoch": 1589336814.921329,
             "included_at_iso": "2020-05-13T02:26:54.921329",
-            "last_retested_at_epoch": 1589605117.715101,
-            "last_retested_at_iso": "2020-05-16T04:58:37.715101",
+            "last_retested_at_epoch": 1589694316.16967,
+            "last_retested_at_iso": "2020-05-17T05:45:16.169670",
             "status": "INACTIVE"
         },
         "play.estream.to": {
@@ -1711,8 +1711,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1589601658.929184,
-            "last_retested_at_iso": "2020-05-16T04:00:58.929184",
+            "last_retested_at_epoch": 1589694037.659992,
+            "last_retested_at_iso": "2020-05-17T05:40:37.659992",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1949,8 +1949,8 @@
         "www.aeros04.tk": {
             "included_at_epoch": 1588527190.0,
             "included_at_iso": "2020-05-03T17:33:10",
-            "last_retested_at_epoch": 1589605161.747223,
-            "last_retested_at_iso": "2020-05-16T04:59:21.747223",
+            "last_retested_at_epoch": 1589693948.343561,
+            "last_retested_at_iso": "2020-05-17T05:39:08.343561",
             "status": "INACTIVE"
         },
         "www.aeros05.tk": {
@@ -2180,8 +2180,8 @@
         "www.blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589605124.254994,
-            "last_retested_at_iso": "2020-05-16T04:58:44.254994",
+            "last_retested_at_epoch": 1589693937.676929,
+            "last_retested_at_iso": "2020-05-17T05:38:57.676929",
             "status": "INACTIVE"
         },
         "www.bmcm.ml": {
