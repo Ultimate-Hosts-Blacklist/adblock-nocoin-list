@@ -136,8 +136,8 @@
         "anybest.pw": {
             "included_at_epoch": 1588527009.0,
             "included_at_iso": "2020-05-03T17:30:09",
-            "last_retested_at_epoch": 1589592337.067077,
-            "last_retested_at_iso": "2020-05-16T01:25:37.067077",
+            "last_retested_at_epoch": 1589681347.634123,
+            "last_retested_at_iso": "2020-05-17T02:09:07.634123",
             "status": "INACTIVE"
         },
         "anybest.space": {
@@ -486,8 +486,8 @@
         "dubester.pw": {
             "included_at_epoch": 1588527420.0,
             "included_at_iso": "2020-05-03T17:37:00",
-            "last_retested_at_epoch": 1589592587.477289,
-            "last_retested_at_iso": "2020-05-16T01:29:47.477289",
+            "last_retested_at_epoch": 1589681559.311457,
+            "last_retested_at_iso": "2020-05-17T02:12:39.311457",
             "status": "INACTIVE"
         },
         "dubester.site": {
@@ -2054,8 +2054,8 @@
         "www.anybest.pw": {
             "included_at_epoch": 1588527004.0,
             "included_at_iso": "2020-05-03T17:30:04",
-            "last_retested_at_epoch": 1589592336.722476,
-            "last_retested_at_iso": "2020-05-16T01:25:36.722476",
+            "last_retested_at_epoch": 1589681347.269757,
+            "last_retested_at_iso": "2020-05-17T02:09:07.269757",
             "status": "INACTIVE"
         },
         "www.anybest.site": {
@@ -2460,8 +2460,8 @@
         "www.dubester.pw": {
             "included_at_epoch": 1588527415.0,
             "included_at_iso": "2020-05-03T17:36:55",
-            "last_retested_at_epoch": 1589592587.076862,
-            "last_retested_at_iso": "2020-05-16T01:29:47.076862",
+            "last_retested_at_epoch": 1589681558.652584,
+            "last_retested_at_iso": "2020-05-17T02:12:38.652584",
             "status": "INACTIVE"
         },
         "www.dubester.site": {
@@ -3398,8 +3398,8 @@
         "www.sparnove.com": {
             "included_at_epoch": 1588509379.0,
             "included_at_iso": "2020-05-03T12:36:19",
-            "last_retested_at_epoch": 1589592089.734461,
-            "last_retested_at_iso": "2020-05-16T01:21:29.734461",
+            "last_retested_at_epoch": 1589681397.772333,
+            "last_retested_at_iso": "2020-05-17T02:09:57.772333",
             "status": "INACTIVE"
         },
         "www.stonecalcom.com": {
