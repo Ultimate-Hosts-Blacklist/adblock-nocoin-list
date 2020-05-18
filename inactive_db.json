@@ -1263,8 +1263,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589755593.847939,
-            "last_retested_at_iso": "2020-05-17T22:46:33.847939",
+            "last_retested_at_epoch": 1589843466.196032,
+            "last_retested_at_iso": "2020-05-18T23:11:06.196032",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1543,15 +1543,15 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1589755579.560908,
-            "last_retested_at_iso": "2020-05-17T22:46:19.560908",
+            "last_retested_at_epoch": 1589843775.112363,
+            "last_retested_at_iso": "2020-05-18T23:16:15.112363",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589575481.795329,
             "included_at_iso": "2020-05-15T20:44:41.795329",
-            "last_retested_at_epoch": 1589755520.132988,
-            "last_retested_at_iso": "2020-05-17T22:45:20.132988",
+            "last_retested_at_epoch": 1589843227.770173,
+            "last_retested_at_iso": "2020-05-18T23:07:07.770173",
             "status": "INACTIVE"
         },
         "rintindown.com": {
@@ -1704,8 +1704,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1589755869.807148,
-            "last_retested_at_iso": "2020-05-17T22:51:09.807148",
+            "last_retested_at_epoch": 1589843356.670954,
+            "last_retested_at_iso": "2020-05-18T23:09:16.670954",
             "status": "INACTIVE"
         },
         "seed1.sushipool.com": {
@@ -3188,8 +3188,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1589755593.849018,
-            "last_retested_at_iso": "2020-05-17T22:46:33.849018",
+            "last_retested_at_epoch": 1589843466.150285,
+            "last_retested_at_iso": "2020-05-18T23:11:06.150285",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
