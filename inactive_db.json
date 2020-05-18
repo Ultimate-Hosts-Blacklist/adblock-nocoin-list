@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1589669132.500047,
-            "last_retested_at_iso": "2020-05-16T22:45:32.500047",
+            "last_retested_at_epoch": 1589760091.230469,
+            "last_retested_at_iso": "2020-05-18T00:01:31.230469",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -1676,8 +1676,8 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1589668739.58828,
-            "last_retested_at_iso": "2020-05-16T22:38:59.588280",
+            "last_retested_at_epoch": 1589760146.022848,
+            "last_retested_at_iso": "2020-05-18T00:02:26.022848",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
@@ -1690,8 +1690,8 @@
         "seed-fra-5.inf.nimiq.network": {
             "included_at_epoch": 1589583943.643283,
             "included_at_iso": "2020-05-15T23:05:43.643283",
-            "last_retested_at_epoch": 1589673233.574091,
-            "last_retested_at_iso": "2020-05-16T23:53:53.574091",
+            "last_retested_at_epoch": 1589760300.588428,
+            "last_retested_at_iso": "2020-05-18T00:05:00.588428",
             "status": "INACTIVE"
         },
         "seed-fra-6.inf.nimiq.network": {
@@ -2187,8 +2187,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1589669132.487441,
-            "last_retested_at_iso": "2020-05-16T22:45:32.487441",
+            "last_retested_at_epoch": 1589760091.202671,
+            "last_retested_at_iso": "2020-05-18T00:01:31.202671",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
@@ -3461,8 +3461,8 @@
         "www.tulip18.com": {
             "included_at_epoch": 1588478021.0,
             "included_at_iso": "2020-05-03T03:53:41",
-            "last_retested_at_epoch": 1589592512.703167,
-            "last_retested_at_iso": "2020-05-16T01:28:32.703167",
+            "last_retested_at_epoch": 1589760455.224167,
+            "last_retested_at_iso": "2020-05-18T00:07:35.224167",
             "status": "INACTIVE"
         },
         "www.ugmfvqsu.ru": {
@@ -3489,8 +3489,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1589664624.040439,
-            "last_retested_at_iso": "2020-05-16T21:30:24.040439",
+            "last_retested_at_epoch": 1589760376.992421,
+            "last_retested_at_iso": "2020-05-18T00:06:16.992421",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
