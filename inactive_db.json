@@ -31,8 +31,8 @@
         "ad.g-content.bid": {
             "included_at_epoch": 1588449129.0,
             "included_at_iso": "2020-05-02T19:52:09",
-            "last_retested_at_epoch": 1589698128.613583,
-            "last_retested_at_iso": "2020-05-17T06:48:48.613583",
+            "last_retested_at_epoch": 1589784549.288245,
+            "last_retested_at_iso": "2020-05-18T06:49:09.288245",
             "status": "INACTIVE"
         },
         "aeros03.tk": {
@@ -269,8 +269,8 @@
         "blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589693937.861821,
-            "last_retested_at_iso": "2020-05-17T05:38:57.861821",
+            "last_retested_at_epoch": 1589784452.097968,
+            "last_retested_at_iso": "2020-05-18T06:47:32.097968",
             "status": "INACTIVE"
         },
         "bmcm.ml": {
@@ -1711,8 +1711,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1589694037.659992,
-            "last_retested_at_iso": "2020-05-17T05:40:37.659992",
+            "last_retested_at_epoch": 1589784305.447002,
+            "last_retested_at_iso": "2020-05-18T06:45:05.447002",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1739,8 +1739,8 @@
         "sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589689496.51483,
-            "last_retested_at_iso": "2020-05-17T04:24:56.514830",
+            "last_retested_at_epoch": 1589784432.888715,
+            "last_retested_at_iso": "2020-05-18T06:47:12.888715",
             "status": "INACTIVE"
         },
         "sunnimiq2.cf": {
@@ -2180,8 +2180,8 @@
         "www.blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589693937.676929,
-            "last_retested_at_iso": "2020-05-17T05:38:57.676929",
+            "last_retested_at_epoch": 1589784452.388458,
+            "last_retested_at_iso": "2020-05-18T06:47:32.388458",
             "status": "INACTIVE"
         },
         "www.bmcm.ml": {
@@ -3412,8 +3412,8 @@
         "www.sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589689496.247275,
-            "last_retested_at_iso": "2020-05-17T04:24:56.247275",
+            "last_retested_at_epoch": 1589784433.311011,
+            "last_retested_at_iso": "2020-05-18T06:47:13.311011",
             "status": "INACTIVE"
         },
         "www.sunnimiq2.cf": {
