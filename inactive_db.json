@@ -136,8 +136,8 @@
         "anybest.pw": {
             "included_at_epoch": 1588527009.0,
             "included_at_iso": "2020-05-03T17:30:09",
-            "last_retested_at_epoch": 1589681347.634123,
-            "last_retested_at_iso": "2020-05-17T02:09:07.634123",
+            "last_retested_at_epoch": 1589770448.729476,
+            "last_retested_at_iso": "2020-05-18T02:54:08.729476",
             "status": "INACTIVE"
         },
         "anybest.space": {
@@ -486,8 +486,8 @@
         "dubester.pw": {
             "included_at_epoch": 1588527420.0,
             "included_at_iso": "2020-05-03T17:37:00",
-            "last_retested_at_epoch": 1589681559.311457,
-            "last_retested_at_iso": "2020-05-17T02:12:39.311457",
+            "last_retested_at_epoch": 1589770074.565588,
+            "last_retested_at_iso": "2020-05-18T02:47:54.565588",
             "status": "INACTIVE"
         },
         "dubester.site": {
@@ -1067,8 +1067,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1589677255.636991,
-            "last_retested_at_iso": "2020-05-17T01:00:55.636991",
+            "last_retested_at_epoch": 1589770094.284073,
+            "last_retested_at_iso": "2020-05-18T02:48:14.284073",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -2054,8 +2054,8 @@
         "www.anybest.pw": {
             "included_at_epoch": 1588527004.0,
             "included_at_iso": "2020-05-03T17:30:04",
-            "last_retested_at_epoch": 1589681347.269757,
-            "last_retested_at_iso": "2020-05-17T02:09:07.269757",
+            "last_retested_at_epoch": 1589770448.471505,
+            "last_retested_at_iso": "2020-05-18T02:54:08.471505",
             "status": "INACTIVE"
         },
         "www.anybest.site": {
@@ -2460,8 +2460,8 @@
         "www.dubester.pw": {
             "included_at_epoch": 1588527415.0,
             "included_at_iso": "2020-05-03T17:36:55",
-            "last_retested_at_epoch": 1589681558.652584,
-            "last_retested_at_iso": "2020-05-17T02:12:38.652584",
+            "last_retested_at_epoch": 1589770074.339949,
+            "last_retested_at_iso": "2020-05-18T02:47:54.339949",
             "status": "INACTIVE"
         },
         "www.dubester.site": {
@@ -3398,8 +3398,8 @@
         "www.sparnove.com": {
             "included_at_epoch": 1588509379.0,
             "included_at_iso": "2020-05-03T12:36:19",
-            "last_retested_at_epoch": 1589681397.772333,
-            "last_retested_at_iso": "2020-05-17T02:09:57.772333",
+            "last_retested_at_epoch": 1589770442.586726,
+            "last_retested_at_iso": "2020-05-18T02:54:02.586726",
             "status": "INACTIVE"
         },
         "www.stonecalcom.com": {
