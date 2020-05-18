@@ -406,6 +406,13 @@
             "last_retested_at_iso": "2020-05-18T13:19:16.181824",
             "status": "INACTIVE"
         },
+        "crypto.csgocpu.com": {
+            "included_at_epoch": 1589834426.18615,
+            "included_at_iso": "2020-05-18T20:40:26.186150",
+            "last_retested_at_epoch": 1589834426.18615,
+            "last_retested_at_iso": "2020-05-18T20:40:26.186150",
+            "status": "INACTIVE"
+        },
         "ctlrnwbv.ru": {
             "included_at_epoch": 1588458550.0,
             "included_at_iso": "2020-05-02T22:29:10",
