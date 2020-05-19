@@ -269,8 +269,8 @@
         "blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589784452.097968,
-            "last_retested_at_iso": "2020-05-18T06:47:32.097968",
+            "last_retested_at_epoch": 1589872202.295241,
+            "last_retested_at_iso": "2020-05-19T07:10:02.295241",
             "status": "INACTIVE"
         },
         "bmcm.ml": {
@@ -885,8 +885,8 @@
         "jshosting.bid": {
             "included_at_epoch": 1588529765.0,
             "included_at_iso": "2020-05-03T18:16:05",
-            "last_retested_at_epoch": 1589780006.535428,
-            "last_retested_at_iso": "2020-05-18T05:33:26.535428",
+            "last_retested_at_epoch": 1589872481.302875,
+            "last_retested_at_iso": "2020-05-19T07:14:41.302875",
             "status": "INACTIVE"
         },
         "jshosting.date": {
@@ -1718,8 +1718,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1589784305.447002,
-            "last_retested_at_iso": "2020-05-18T06:45:05.447002",
+            "last_retested_at_epoch": 1589871969.229866,
+            "last_retested_at_iso": "2020-05-19T07:06:09.229866",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1746,8 +1746,8 @@
         "sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589784432.888715,
-            "last_retested_at_iso": "2020-05-18T06:47:12.888715",
+            "last_retested_at_epoch": 1589872278.264701,
+            "last_retested_at_iso": "2020-05-19T07:11:18.264701",
             "status": "INACTIVE"
         },
         "sunnimiq2.cf": {
@@ -2187,8 +2187,8 @@
         "www.blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1589784452.388458,
-            "last_retested_at_iso": "2020-05-18T06:47:32.388458",
+            "last_retested_at_epoch": 1589872202.171872,
+            "last_retested_at_iso": "2020-05-19T07:10:02.171872",
             "status": "INACTIVE"
         },
         "www.bmcm.ml": {
@@ -2936,8 +2936,8 @@
         "www.jshosting.bid": {
             "included_at_epoch": 1588439587.0,
             "included_at_iso": "2020-05-02T17:13:07",
-            "last_retested_at_epoch": 1589780006.42005,
-            "last_retested_at_iso": "2020-05-18T05:33:26.420050",
+            "last_retested_at_epoch": 1589872481.301854,
+            "last_retested_at_iso": "2020-05-19T07:14:41.301854",
             "status": "INACTIVE"
         },
         "www.jshosting.date": {
@@ -3419,8 +3419,8 @@
         "www.sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1589784433.311011,
-            "last_retested_at_iso": "2020-05-18T06:47:13.311011",
+            "last_retested_at_epoch": 1589872278.424952,
+            "last_retested_at_iso": "2020-05-19T07:11:18.424952",
             "status": "INACTIVE"
         },
         "www.sunnimiq2.cf": {
