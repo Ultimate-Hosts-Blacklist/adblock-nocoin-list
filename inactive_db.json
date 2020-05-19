@@ -1165,8 +1165,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1589838767.132274,
-            "last_retested_at_iso": "2020-05-18T21:52:47.132274",
+            "last_retested_at_epoch": 1589929199.661258,
+            "last_retested_at_iso": "2020-05-19T22:59:59.661258",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -1249,8 +1249,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589839094.158684,
-            "last_retested_at_iso": "2020-05-18T21:58:14.158684",
+            "last_retested_at_epoch": 1589928785.749836,
+            "last_retested_at_iso": "2020-05-19T22:53:05.749836",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1795,8 +1795,8 @@
         "toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1589829576.734568,
-            "last_retested_at_iso": "2020-05-18T19:19:36.734568",
+            "last_retested_at_epoch": 1589928852.400433,
+            "last_retested_at_iso": "2020-05-19T22:54:12.400433",
             "status": "INACTIVE"
         },
         "tokomaru.nimiqpool.com": {
@@ -3188,8 +3188,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1589839094.157807,
-            "last_retested_at_iso": "2020-05-18T21:58:14.157807",
+            "last_retested_at_epoch": 1589928785.691792,
+            "last_retested_at_iso": "2020-05-19T22:53:05.691792",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
@@ -3398,8 +3398,8 @@
         "www.service4refresh.info": {
             "included_at_epoch": 1588449233.0,
             "included_at_iso": "2020-05-02T19:53:53",
-            "last_retested_at_epoch": 1589838807.521633,
-            "last_retested_at_iso": "2020-05-18T21:53:27.521633",
+            "last_retested_at_epoch": 1589928745.742003,
+            "last_retested_at_iso": "2020-05-19T22:52:25.742003",
             "status": "INACTIVE"
         },
         "www.skencituer.com": {
@@ -3475,8 +3475,8 @@
         "www.toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1589829576.622076,
-            "last_retested_at_iso": "2020-05-18T19:19:36.622076",
+            "last_retested_at_epoch": 1589928852.399521,
+            "last_retested_at_iso": "2020-05-19T22:54:12.399521",
             "status": "INACTIVE"
         },
         "www.tokyodrift.ga": {
