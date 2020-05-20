@@ -458,8 +458,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1589857913.495022,
-            "last_retested_at_iso": "2020-05-19T03:11:53.495022",
+            "last_retested_at_epoch": 1589944563.259292,
+            "last_retested_at_iso": "2020-05-20T03:16:03.259292",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -493,8 +493,8 @@
         "dubester.pw": {
             "included_at_epoch": 1588527420.0,
             "included_at_iso": "2020-05-03T17:37:00",
-            "last_retested_at_epoch": 1589857623.44947,
-            "last_retested_at_iso": "2020-05-19T03:07:03.449470",
+            "last_retested_at_epoch": 1589944429.958005,
+            "last_retested_at_iso": "2020-05-20T03:13:49.958005",
             "status": "INACTIVE"
         },
         "dubester.site": {
@@ -1074,8 +1074,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1589858126.484966,
-            "last_retested_at_iso": "2020-05-19T03:15:26.484966",
+            "last_retested_at_epoch": 1589944580.682143,
+            "last_retested_at_iso": "2020-05-20T03:16:20.682143",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -2460,8 +2460,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1589857913.111775,
-            "last_retested_at_iso": "2020-05-19T03:11:53.111775",
+            "last_retested_at_epoch": 1589944563.009017,
+            "last_retested_at_iso": "2020-05-20T03:16:03.009017",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
@@ -2488,8 +2488,8 @@
         "www.dubester.pw": {
             "included_at_epoch": 1588527415.0,
             "included_at_iso": "2020-05-03T17:36:55",
-            "last_retested_at_epoch": 1589857623.182233,
-            "last_retested_at_iso": "2020-05-19T03:07:03.182233",
+            "last_retested_at_epoch": 1589944429.562589,
+            "last_retested_at_iso": "2020-05-20T03:13:49.562589",
             "status": "INACTIVE"
         },
         "www.dubester.site": {
