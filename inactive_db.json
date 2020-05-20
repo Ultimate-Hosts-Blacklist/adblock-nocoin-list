@@ -1543,15 +1543,15 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1589843775.112363,
-            "last_retested_at_iso": "2020-05-18T23:16:15.112363",
+            "last_retested_at_epoch": 1589933625.35629,
+            "last_retested_at_iso": "2020-05-20T00:13:45.356290",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589575481.795329,
             "included_at_iso": "2020-05-15T20:44:41.795329",
-            "last_retested_at_epoch": 1589843227.770173,
-            "last_retested_at_iso": "2020-05-18T23:07:07.770173",
+            "last_retested_at_epoch": 1589933491.45726,
+            "last_retested_at_iso": "2020-05-20T00:11:31.457260",
             "status": "INACTIVE"
         },
         "proxy-gbr-2.inf.nimiq.network": {
@@ -1711,8 +1711,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1589843356.670954,
-            "last_retested_at_iso": "2020-05-18T23:09:16.670954",
+            "last_retested_at_epoch": 1589933336.404217,
+            "last_retested_at_iso": "2020-05-20T00:08:56.404217",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -2068,8 +2068,8 @@
         "www.andlache.com": {
             "included_at_epoch": 1588827964.183353,
             "included_at_iso": "2020-05-07T05:06:04.183353",
-            "last_retested_at_epoch": 1589825966.991971,
-            "last_retested_at_iso": "2020-05-18T18:19:26.991971",
+            "last_retested_at_epoch": 1589933481.410557,
+            "last_retested_at_iso": "2020-05-20T00:11:21.410557",
             "status": "INACTIVE"
         },
         "www.anybest.host": {
@@ -2551,8 +2551,8 @@
         "www.eucsoft.com": {
             "included_at_epoch": 1588763923.183524,
             "included_at_iso": "2020-05-06T11:18:43.183524",
-            "last_retested_at_epoch": 1589839132.333761,
-            "last_retested_at_iso": "2020-05-18T21:58:52.333761",
+            "last_retested_at_epoch": 1589933403.167413,
+            "last_retested_at_iso": "2020-05-20T00:10:03.167413",
             "status": "INACTIVE"
         },
         "www.evengparme.com": {
