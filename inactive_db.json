@@ -241,8 +241,8 @@
         "baywttgdhe.download": {
             "included_at_epoch": 1588448743.0,
             "included_at_iso": "2020-05-02T19:45:43",
-            "last_retested_at_epoch": 1589954251.686095,
-            "last_retested_at_iso": "2020-05-20T05:57:31.686095",
+            "last_retested_at_epoch": 1590042401.733655,
+            "last_retested_at_iso": "2020-05-21T06:26:41.733655",
             "status": "INACTIVE"
         },
         "berserkpl.net.pl": {
@@ -1095,8 +1095,8 @@
         "miner-14.team.nimiq.agency": {
             "included_at_epoch": 1588529949.0,
             "included_at_iso": "2020-05-03T18:19:09",
-            "last_retested_at_epoch": 1589954184.441214,
-            "last_retested_at_iso": "2020-05-20T05:56:24.441214",
+            "last_retested_at_epoch": 1590042201.288284,
+            "last_retested_at_iso": "2020-05-21T06:23:21.288284",
             "status": "INACTIVE"
         },
         "miner-15.team.nimiq.agency": {
@@ -1424,8 +1424,8 @@
         "play.pc.belicimo.pw": {
             "included_at_epoch": 1588444664.0,
             "included_at_iso": "2020-05-02T18:37:44",
-            "last_retested_at_epoch": 1589949710.650181,
-            "last_retested_at_iso": "2020-05-20T04:41:50.650181",
+            "last_retested_at_epoch": 1590042079.007886,
+            "last_retested_at_iso": "2020-05-21T06:21:19.007886",
             "status": "INACTIVE"
         },
         "play.play.estream.nu": {
@@ -1900,8 +1900,8 @@
         "wmtech.website": {
             "included_at_epoch": 1588449106.0,
             "included_at_iso": "2020-05-02T19:51:46",
-            "last_retested_at_epoch": 1589954599.834345,
-            "last_retested_at_iso": "2020-05-20T06:03:19.834345",
+            "last_retested_at_epoch": 1590041922.980282,
+            "last_retested_at_iso": "2020-05-21T06:18:42.980282",
             "status": "INACTIVE"
         },
         "worker.salon.com": {
@@ -2159,8 +2159,8 @@
         "www.baywttgdhe.download": {
             "included_at_epoch": 1588448743.0,
             "included_at_iso": "2020-05-02T19:45:43",
-            "last_retested_at_epoch": 1589954251.996581,
-            "last_retested_at_iso": "2020-05-20T05:57:31.996581",
+            "last_retested_at_epoch": 1590042401.719024,
+            "last_retested_at_iso": "2020-05-21T06:26:41.719024",
             "status": "INACTIVE"
         },
         "www.beatingbytes.com": {
@@ -3496,8 +3496,8 @@
         "www.tulip18.com": {
             "included_at_epoch": 1588478021.0,
             "included_at_iso": "2020-05-03T03:53:41",
-            "last_retested_at_epoch": 1589954379.967317,
-            "last_retested_at_iso": "2020-05-20T05:59:39.967317",
+            "last_retested_at_epoch": 1590042079.388957,
+            "last_retested_at_iso": "2020-05-21T06:21:19.388957",
             "status": "INACTIVE"
         },
         "www.ugmfvqsu.ru": {
@@ -3573,8 +3573,8 @@
         "www.wmtech.website": {
             "included_at_epoch": 1588449101.0,
             "included_at_iso": "2020-05-02T19:51:41",
-            "last_retested_at_epoch": 1589954599.501942,
-            "last_retested_at_iso": "2020-05-20T06:03:19.501942",
+            "last_retested_at_epoch": 1590041918.025562,
+            "last_retested_at_iso": "2020-05-21T06:18:38.025562",
             "status": "INACTIVE"
         },
         "www.wp-monero-miner.de": {
@@ -3629,8 +3629,8 @@
         "www.zymerget.date": {
             "included_at_epoch": 1588439716.0,
             "included_at_iso": "2020-05-02T17:15:16",
-            "last_retested_at_epoch": 1589954600.67447,
-            "last_retested_at_iso": "2020-05-20T06:03:20.674470",
+            "last_retested_at_epoch": 1590042446.612141,
+            "last_retested_at_iso": "2020-05-21T06:27:26.612141",
             "status": "INACTIVE"
         },
         "www.zymerget.faith": {
@@ -3706,8 +3706,8 @@
         "zymerget.date": {
             "included_at_epoch": 1588526931.0,
             "included_at_iso": "2020-05-03T17:28:51",
-            "last_retested_at_epoch": 1589954600.661374,
-            "last_retested_at_iso": "2020-05-20T06:03:20.661374",
+            "last_retested_at_epoch": 1590042446.722862,
+            "last_retested_at_iso": "2020-05-21T06:27:26.722862",
             "status": "INACTIVE"
         },
         "zymerget.faith": {
