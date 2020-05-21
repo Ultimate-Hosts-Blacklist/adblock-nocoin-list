@@ -458,8 +458,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1589944563.259292,
-            "last_retested_at_iso": "2020-05-20T03:16:03.259292",
+            "last_retested_at_epoch": 1590032742.262625,
+            "last_retested_at_iso": "2020-05-21T03:45:42.262625",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -1081,8 +1081,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1589944580.682143,
-            "last_retested_at_iso": "2020-05-20T03:16:20.682143",
+            "last_retested_at_epoch": 1590032500.563573,
+            "last_retested_at_iso": "2020-05-21T03:41:40.563573",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -1697,15 +1697,15 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1589938613.514943,
-            "last_retested_at_iso": "2020-05-20T01:36:53.514943",
+            "last_retested_at_epoch": 1590032517.556328,
+            "last_retested_at_iso": "2020-05-21T03:41:57.556328",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1589938833.124084,
-            "last_retested_at_iso": "2020-05-20T01:40:33.124084",
+            "last_retested_at_epoch": 1590032492.95561,
+            "last_retested_at_iso": "2020-05-21T03:41:32.955610",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
@@ -2467,8 +2467,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1589944563.009017,
-            "last_retested_at_iso": "2020-05-20T03:16:03.009017",
+            "last_retested_at_epoch": 1590032737.319745,
+            "last_retested_at_iso": "2020-05-21T03:45:37.319745",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
