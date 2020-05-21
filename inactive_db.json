@@ -409,8 +409,8 @@
         "crypto.csgocpu.com": {
             "included_at_epoch": 1589834426.18615,
             "included_at_iso": "2020-05-18T20:40:26.186150",
-            "last_retested_at_epoch": 1590012678.265095,
-            "last_retested_at_iso": "2020-05-20T22:11:18.265095",
+            "last_retested_at_epoch": 1590104814.893439,
+            "last_retested_at_iso": "2020-05-21T23:46:54.893439",
             "status": "INACTIVE"
         },
         "ctlrnwbv.ru": {
@@ -1172,8 +1172,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1590017999.093586,
-            "last_retested_at_iso": "2020-05-20T23:39:59.093586",
+            "last_retested_at_epoch": 1590104613.901051,
+            "last_retested_at_iso": "2020-05-21T23:43:33.901051",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -1375,8 +1375,8 @@
         "play.besstahete.info": {
             "included_at_epoch": 1588458791.0,
             "included_at_iso": "2020-05-02T22:33:11",
-            "last_retested_at_epoch": 1590013055.438727,
-            "last_retested_at_iso": "2020-05-20T22:17:35.438727",
+            "last_retested_at_epoch": 1590104960.64115,
+            "last_retested_at_iso": "2020-05-21T23:49:20.641150",
             "status": "INACTIVE"
         },
         "play.estream.nu": {
@@ -1802,8 +1802,8 @@
         "toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1590017604.177076,
-            "last_retested_at_iso": "2020-05-20T23:33:24.177076",
+            "last_retested_at_epoch": 1590104713.013659,
+            "last_retested_at_iso": "2020-05-21T23:45:13.013659",
             "status": "INACTIVE"
         },
         "tokomaru.nimiqpool.com": {
@@ -2229,15 +2229,15 @@
         "www.bmcm.pw": {
             "included_at_epoch": 1588458811.0,
             "included_at_iso": "2020-05-02T22:33:31",
-            "last_retested_at_epoch": 1590017439.87372,
-            "last_retested_at_iso": "2020-05-20T23:30:39.873720",
+            "last_retested_at_epoch": 1590104712.456857,
+            "last_retested_at_iso": "2020-05-21T23:45:12.456857",
             "status": "INACTIVE"
         },
         "www.bmnr.pw": {
             "included_at_epoch": 1588448724.0,
             "included_at_iso": "2020-05-02T19:45:24",
-            "last_retested_at_epoch": 1590017826.038755,
-            "last_retested_at_iso": "2020-05-20T23:37:06.038755",
+            "last_retested_at_epoch": 1590104787.088584,
+            "last_retested_at_iso": "2020-05-21T23:46:27.088584",
             "status": "INACTIVE"
         },
         "www.bmst.pw": {
@@ -2264,8 +2264,8 @@
         "www.bsyauqwerd.party": {
             "included_at_epoch": 1588449070.0,
             "included_at_iso": "2020-05-02T19:51:10",
-            "last_retested_at_epoch": 1590013063.239774,
-            "last_retested_at_iso": "2020-05-20T22:17:43.239774",
+            "last_retested_at_epoch": 1590104903.690284,
+            "last_retested_at_iso": "2020-05-21T23:48:23.690284",
             "status": "INACTIVE"
         },
         "www.butcalve.com": {
@@ -3083,8 +3083,8 @@
         "www.ledinund.com": {
             "included_at_epoch": 1585840541.0,
             "included_at_iso": "2020-04-02T15:15:41",
-            "last_retested_at_epoch": 1590017912.419769,
-            "last_retested_at_iso": "2020-05-20T23:38:32.419769",
+            "last_retested_at_epoch": 1590104737.580762,
+            "last_retested_at_iso": "2020-05-21T23:45:37.580762",
             "status": "INACTIVE"
         },
         "www.losital.ru": {
@@ -3405,8 +3405,8 @@
         "www.service4refresh.info": {
             "included_at_epoch": 1588449233.0,
             "included_at_iso": "2020-05-02T19:53:53",
-            "last_retested_at_epoch": 1590017922.419322,
-            "last_retested_at_iso": "2020-05-20T23:38:42.419322",
+            "last_retested_at_epoch": 1590104971.723393,
+            "last_retested_at_iso": "2020-05-21T23:49:31.723393",
             "status": "INACTIVE"
         },
         "www.skencituer.com": {
@@ -3482,8 +3482,8 @@
         "www.toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1590017604.176122,
-            "last_retested_at_iso": "2020-05-20T23:33:24.176122",
+            "last_retested_at_epoch": 1590104712.979031,
+            "last_retested_at_iso": "2020-05-21T23:45:12.979031",
             "status": "INACTIVE"
         },
         "www.tokyodrift.ga": {
