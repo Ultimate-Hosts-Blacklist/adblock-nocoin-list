@@ -1256,8 +1256,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1590022414.726585,
-            "last_retested_at_iso": "2020-05-21T00:53:34.726585",
+            "last_retested_at_epoch": 1590109725.487909,
+            "last_retested_at_iso": "2020-05-22T01:08:45.487909",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1550,15 +1550,15 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1590022267.694615,
-            "last_retested_at_iso": "2020-05-21T00:51:07.694615",
+            "last_retested_at_epoch": 1590109776.068049,
+            "last_retested_at_iso": "2020-05-22T01:09:36.068049",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589575481.795329,
             "included_at_iso": "2020-05-15T20:44:41.795329",
-            "last_retested_at_epoch": 1590022611.556887,
-            "last_retested_at_iso": "2020-05-21T00:56:51.556887",
+            "last_retested_at_epoch": 1590109631.092922,
+            "last_retested_at_iso": "2020-05-22T01:07:11.092922",
             "status": "INACTIVE"
         },
         "proxy-gbr-2.inf.nimiq.network": {
@@ -1718,8 +1718,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1590022522.020536,
-            "last_retested_at_iso": "2020-05-21T00:55:22.020536",
+            "last_retested_at_epoch": 1590109927.81169,
+            "last_retested_at_iso": "2020-05-22T01:12:07.811690",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -2075,8 +2075,8 @@
         "www.andlache.com": {
             "included_at_epoch": 1588827964.183353,
             "included_at_iso": "2020-05-07T05:06:04.183353",
-            "last_retested_at_epoch": 1590022826.407488,
-            "last_retested_at_iso": "2020-05-21T01:00:26.407488",
+            "last_retested_at_epoch": 1590109908.574957,
+            "last_retested_at_iso": "2020-05-22T01:11:48.574957",
             "status": "INACTIVE"
         },
         "www.anybest.host": {
@@ -2558,8 +2558,8 @@
         "www.eucsoft.com": {
             "included_at_epoch": 1588763923.183524,
             "included_at_iso": "2020-05-06T11:18:43.183524",
-            "last_retested_at_epoch": 1590022725.545228,
-            "last_retested_at_iso": "2020-05-21T00:58:45.545228",
+            "last_retested_at_epoch": 1590109849.936051,
+            "last_retested_at_iso": "2020-05-22T01:10:49.936051",
             "status": "INACTIVE"
         },
         "www.evengparme.com": {
@@ -3195,8 +3195,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1590022414.671822,
-            "last_retested_at_iso": "2020-05-21T00:53:34.671822",
+            "last_retested_at_epoch": 1590109725.34682,
+            "last_retested_at_iso": "2020-05-22T01:08:45.346820",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
