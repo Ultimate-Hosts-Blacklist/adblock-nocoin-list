@@ -1032,8 +1032,8 @@
         "mhiobjnirs.gq": {
             "included_at_epoch": 1588463271.0,
             "included_at_iso": "2020-05-02T23:47:51",
-            "last_retested_at_epoch": 1590094688.53462,
-            "last_retested_at_iso": "2020-05-21T20:58:08.534620",
+            "last_retested_at_epoch": 1590185134.614821,
+            "last_retested_at_iso": "2020-05-22T22:05:34.614821",
             "status": "INACTIVE"
         },
         "mighbest.host": {
@@ -1319,8 +1319,8 @@
         "ogrid.org": {
             "included_at_epoch": 1588463471.0,
             "included_at_iso": "2020-05-02T23:51:11",
-            "last_retested_at_epoch": 1590095028.673919,
-            "last_retested_at_iso": "2020-05-21T21:03:48.673919",
+            "last_retested_at_epoch": 1590185637.356905,
+            "last_retested_at_iso": "2020-05-22T22:13:57.356905",
             "status": "INACTIVE"
         },
         "okeyletsgo.ml": {
@@ -1753,8 +1753,8 @@
         "shannon.nimiqpool.com": {
             "included_at_epoch": 1588453735.0,
             "included_at_iso": "2020-05-02T21:08:55",
-            "last_retested_at_epoch": 1590095240.986187,
-            "last_retested_at_iso": "2020-05-21T21:07:20.986187",
+            "last_retested_at_epoch": 1590185635.917317,
+            "last_retested_at_iso": "2020-05-22T22:13:55.917317",
             "status": "INACTIVE"
         },
         "skencituer.com": {
@@ -3118,8 +3118,8 @@
         "www.mhiobjnirs.gq": {
             "included_at_epoch": 1588463271.0,
             "included_at_iso": "2020-05-02T23:47:51",
-            "last_retested_at_epoch": 1590094688.533539,
-            "last_retested_at_iso": "2020-05-21T20:58:08.533539",
+            "last_retested_at_epoch": 1590185133.858012,
+            "last_retested_at_iso": "2020-05-22T22:05:33.858012",
             "status": "INACTIVE"
         },
         "www.mi-de-ner-nis3.info": {
@@ -3286,8 +3286,8 @@
         "www.ogrid.org": {
             "included_at_epoch": 1588463471.0,
             "included_at_iso": "2020-05-02T23:51:11",
-            "last_retested_at_epoch": 1590095028.657013,
-            "last_retested_at_iso": "2020-05-21T21:03:48.657013",
+            "last_retested_at_epoch": 1590185637.280626,
+            "last_retested_at_iso": "2020-05-22T22:13:57.280626",
             "status": "INACTIVE"
         },
         "www.okeyletsgo.ml": {
