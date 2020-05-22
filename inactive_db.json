@@ -458,8 +458,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1590032742.262625,
-            "last_retested_at_iso": "2020-05-21T03:45:42.262625",
+            "last_retested_at_epoch": 1590119941.674923,
+            "last_retested_at_iso": "2020-05-22T03:59:01.674923",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -1081,8 +1081,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1590032500.563573,
-            "last_retested_at_iso": "2020-05-21T03:41:40.563573",
+            "last_retested_at_epoch": 1590119982.870592,
+            "last_retested_at_iso": "2020-05-22T03:59:42.870592",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -1697,15 +1697,15 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1590032517.556328,
-            "last_retested_at_iso": "2020-05-21T03:41:57.556328",
+            "last_retested_at_epoch": 1590119930.115247,
+            "last_retested_at_iso": "2020-05-22T03:58:50.115247",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1590032492.95561,
-            "last_retested_at_iso": "2020-05-21T03:41:32.955610",
+            "last_retested_at_epoch": 1590120095.037837,
+            "last_retested_at_iso": "2020-05-22T04:01:35.037837",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
@@ -2467,8 +2467,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1590032737.319745,
-            "last_retested_at_iso": "2020-05-21T03:45:37.319745",
+            "last_retested_at_epoch": 1590119936.762,
+            "last_retested_at_iso": "2020-05-22T03:58:56.762000",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
@@ -3524,8 +3524,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1590028034.264575,
-            "last_retested_at_iso": "2020-05-21T02:27:14.264575",
+            "last_retested_at_epoch": 1590119931.105561,
+            "last_retested_at_iso": "2020-05-22T03:58:51.105561",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
@@ -3547,6 +3547,13 @@
             "included_at_iso": "2020-03-16T18:36:14",
             "last_retested_at_epoch": 1584383774.0,
             "last_retested_at_iso": "2020-03-16T18:36:14",
+            "status": "INACTIVE"
+        },
+        "www.webxmr.com": {
+            "included_at_epoch": 1590120293.912816,
+            "included_at_iso": "2020-05-22T04:04:53.912816",
+            "last_retested_at_epoch": 1590120293.912816,
+            "last_retested_at_iso": "2020-05-22T04:04:53.912816",
             "status": "INACTIVE"
         },
         "www.whysoserius.club": {
