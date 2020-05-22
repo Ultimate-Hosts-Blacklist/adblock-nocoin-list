@@ -136,8 +136,8 @@
         "anybest.pw": {
             "included_at_epoch": 1588527009.0,
             "included_at_iso": "2020-05-03T17:30:09",
-            "last_retested_at_epoch": 1590046906.723179,
-            "last_retested_at_iso": "2020-05-21T07:41:46.723179",
+            "last_retested_at_epoch": 1590134051.974119,
+            "last_retested_at_iso": "2020-05-22T07:54:11.974119",
             "status": "INACTIVE"
         },
         "anybest.space": {
@@ -269,8 +269,8 @@
         "blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1590046685.960328,
-            "last_retested_at_iso": "2020-05-21T07:38:05.960328",
+            "last_retested_at_epoch": 1590134203.823362,
+            "last_retested_at_iso": "2020-05-22T07:56:43.823362",
             "status": "INACTIVE"
         },
         "bmcm.ml": {
@@ -1746,8 +1746,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1590046915.865758,
-            "last_retested_at_iso": "2020-05-21T07:41:55.865758",
+            "last_retested_at_epoch": 1590134321.301638,
+            "last_retested_at_iso": "2020-05-22T07:58:41.301638",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1774,8 +1774,8 @@
         "sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1590046660.702546,
-            "last_retested_at_iso": "2020-05-21T07:37:40.702546",
+            "last_retested_at_epoch": 1590134306.943578,
+            "last_retested_at_iso": "2020-05-22T07:58:26.943578",
             "status": "INACTIVE"
         },
         "sunnimiq2.cf": {
@@ -1872,8 +1872,8 @@
         "whanganui.nimiqpool.com": {
             "included_at_epoch": 1588444274.0,
             "included_at_iso": "2020-05-02T18:31:14",
-            "last_retested_at_epoch": 1590047076.962558,
-            "last_retested_at_iso": "2020-05-21T07:44:36.962558",
+            "last_retested_at_epoch": 1590134043.407648,
+            "last_retested_at_iso": "2020-05-22T07:54:03.407648",
             "status": "INACTIVE"
         },
         "willacrit.com": {
@@ -2089,8 +2089,8 @@
         "www.anybest.pw": {
             "included_at_epoch": 1588527004.0,
             "included_at_iso": "2020-05-03T17:30:04",
-            "last_retested_at_epoch": 1590046906.458649,
-            "last_retested_at_iso": "2020-05-21T07:41:46.458649",
+            "last_retested_at_epoch": 1590134051.651653,
+            "last_retested_at_iso": "2020-05-22T07:54:11.651653",
             "status": "INACTIVE"
         },
         "www.anybest.site": {
@@ -2215,8 +2215,8 @@
         "www.blockchained.party": {
             "included_at_epoch": 1588440050.0,
             "included_at_iso": "2020-05-02T17:20:50",
-            "last_retested_at_epoch": 1590046686.193867,
-            "last_retested_at_iso": "2020-05-21T07:38:06.193867",
+            "last_retested_at_epoch": 1590134203.572504,
+            "last_retested_at_iso": "2020-05-22T07:56:43.572504",
             "status": "INACTIVE"
         },
         "www.bmcm.ml": {
@@ -2579,8 +2579,8 @@
         "www.ffinwwfpqi.gq": {
             "included_at_epoch": 1588444370.0,
             "included_at_iso": "2020-05-02T18:32:50",
-            "last_retested_at_epoch": 1590046969.282412,
-            "last_retested_at_iso": "2020-05-21T07:42:49.282412",
+            "last_retested_at_epoch": 1590133867.694456,
+            "last_retested_at_iso": "2020-05-22T07:51:07.694456",
             "status": "INACTIVE"
         },
         "www.flare-analytics.com": {
@@ -3447,8 +3447,8 @@
         "www.sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1590046661.459187,
-            "last_retested_at_iso": "2020-05-21T07:37:41.459187",
+            "last_retested_at_epoch": 1590134302.55883,
+            "last_retested_at_iso": "2020-05-22T07:58:22.558830",
             "status": "INACTIVE"
         },
         "www.sunnimiq2.cf": {
