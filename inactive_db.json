@@ -388,8 +388,8 @@
         "coin-services.info": {
             "included_at_epoch": 1588448790.0,
             "included_at_iso": "2020-05-02T19:46:30",
-            "last_retested_at_epoch": 1590158945.105088,
-            "last_retested_at_iso": "2020-05-22T14:49:05.105088",
+            "last_retested_at_epoch": 1590253524.268227,
+            "last_retested_at_iso": "2020-05-23T17:05:24.268227",
             "status": "INACTIVE"
         },
         "coinpirate.cf": {
@@ -2390,8 +2390,8 @@
         "www.coin-services.info": {
             "included_at_epoch": 1588448790.0,
             "included_at_iso": "2020-05-02T19:46:30",
-            "last_retested_at_epoch": 1590158945.077213,
-            "last_retested_at_iso": "2020-05-22T14:49:05.077213",
+            "last_retested_at_epoch": 1590253524.292749,
+            "last_retested_at_iso": "2020-05-23T17:05:24.292749",
             "status": "INACTIVE"
         },
         "www.coinblind.com": {
