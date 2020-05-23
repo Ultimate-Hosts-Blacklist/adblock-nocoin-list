@@ -136,8 +136,8 @@
         "anybest.pw": {
             "included_at_epoch": 1588527009.0,
             "included_at_iso": "2020-05-03T17:30:09",
-            "last_retested_at_epoch": 1590134051.974119,
-            "last_retested_at_iso": "2020-05-22T07:54:11.974119",
+            "last_retested_at_epoch": 1590223930.986279,
+            "last_retested_at_iso": "2020-05-23T08:52:10.986279",
             "status": "INACTIVE"
         },
         "anybest.space": {
@@ -1753,8 +1753,8 @@
         "server.jsecoin.com": {
             "included_at_epoch": 1588444235.0,
             "included_at_iso": "2020-05-02T18:30:35",
-            "last_retested_at_epoch": 1590134321.301638,
-            "last_retested_at_iso": "2020-05-22T07:58:41.301638",
+            "last_retested_at_epoch": 1590224155.177914,
+            "last_retested_at_iso": "2020-05-23T08:55:55.177914",
             "status": "INACTIVE"
         },
         "shannon.nimiqpool.com": {
@@ -1781,8 +1781,8 @@
         "sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1590134306.943578,
-            "last_retested_at_iso": "2020-05-22T07:58:26.943578",
+            "last_retested_at_epoch": 1590224151.085722,
+            "last_retested_at_iso": "2020-05-23T08:55:51.085722",
             "status": "INACTIVE"
         },
         "sunnimiq2.cf": {
@@ -2096,8 +2096,8 @@
         "www.anybest.pw": {
             "included_at_epoch": 1588527004.0,
             "included_at_iso": "2020-05-03T17:30:04",
-            "last_retested_at_epoch": 1590134051.651653,
-            "last_retested_at_iso": "2020-05-22T07:54:11.651653",
+            "last_retested_at_epoch": 1590223930.709415,
+            "last_retested_at_iso": "2020-05-23T08:52:10.709415",
             "status": "INACTIVE"
         },
         "www.anybest.site": {
@@ -3454,8 +3454,8 @@
         "www.sunnimiq.cf": {
             "included_at_epoch": 1588454038.0,
             "included_at_iso": "2020-05-02T21:13:58",
-            "last_retested_at_epoch": 1590134302.55883,
-            "last_retested_at_iso": "2020-05-22T07:58:22.558830",
+            "last_retested_at_epoch": 1590224151.187983,
+            "last_retested_at_iso": "2020-05-23T08:55:51.187983",
             "status": "INACTIVE"
         },
         "www.sunnimiq2.cf": {
