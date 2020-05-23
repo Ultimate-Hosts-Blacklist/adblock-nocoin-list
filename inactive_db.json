@@ -1557,8 +1557,8 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1590109776.068049,
-            "last_retested_at_iso": "2020-05-22T01:09:36.068049",
+            "last_retested_at_epoch": 1590199902.799543,
+            "last_retested_at_iso": "2020-05-23T02:11:42.799543",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
@@ -2082,8 +2082,8 @@
         "www.andlache.com": {
             "included_at_epoch": 1588827964.183353,
             "included_at_iso": "2020-05-07T05:06:04.183353",
-            "last_retested_at_epoch": 1590109908.574957,
-            "last_retested_at_iso": "2020-05-22T01:11:48.574957",
+            "last_retested_at_epoch": 1590199977.704322,
+            "last_retested_at_iso": "2020-05-23T02:12:57.704322",
             "status": "INACTIVE"
         },
         "www.anybest.host": {
