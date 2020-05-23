@@ -913,8 +913,8 @@
         "jshosting.faith": {
             "included_at_epoch": 1588453559.0,
             "included_at_iso": "2020-05-02T21:05:59",
-            "last_retested_at_epoch": 1590182582.314051,
-            "last_retested_at_iso": "2020-05-22T21:23:02.314051",
+            "last_retested_at_epoch": 1590274595.693314,
+            "last_retested_at_iso": "2020-05-23T22:56:35.693314",
             "status": "INACTIVE"
         },
         "jshosting.loan": {
@@ -934,8 +934,8 @@
         "jshosting.racing": {
             "included_at_epoch": 1588449188.0,
             "included_at_iso": "2020-05-02T19:53:08",
-            "last_retested_at_epoch": 1590179882.600843,
-            "last_retested_at_iso": "2020-05-22T20:38:02.600843",
+            "last_retested_at_epoch": 1590274597.159851,
+            "last_retested_at_iso": "2020-05-23T22:56:37.159851",
             "status": "INACTIVE"
         },
         "jshosting.review": {
@@ -1326,8 +1326,8 @@
         "ogrid.org": {
             "included_at_epoch": 1588463471.0,
             "included_at_iso": "2020-05-02T23:51:11",
-            "last_retested_at_epoch": 1590185637.356905,
-            "last_retested_at_iso": "2020-05-22T22:13:57.356905",
+            "last_retested_at_epoch": 1590274807.758067,
+            "last_retested_at_iso": "2020-05-23T23:00:07.758067",
             "status": "INACTIVE"
         },
         "okeyletsgo.ml": {
@@ -1732,8 +1732,8 @@
         "seed-gbr-3.inf.nimiq.network": {
             "included_at_epoch": 1589914493.346435,
             "included_at_iso": "2020-05-19T18:54:53.346435",
-            "last_retested_at_epoch": 1590182626.733978,
-            "last_retested_at_iso": "2020-05-22T21:23:46.733978",
+            "last_retested_at_epoch": 1590275182.459456,
+            "last_retested_at_iso": "2020-05-23T23:06:22.459456",
             "status": "INACTIVE"
         },
         "seed-gbr-4.inf.nimiq.network": {
@@ -1760,8 +1760,8 @@
         "shannon.nimiqpool.com": {
             "included_at_epoch": 1588453735.0,
             "included_at_iso": "2020-05-02T21:08:55",
-            "last_retested_at_epoch": 1590185635.917317,
-            "last_retested_at_iso": "2020-05-22T22:13:55.917317",
+            "last_retested_at_epoch": 1590275171.556775,
+            "last_retested_at_iso": "2020-05-23T23:06:11.556775",
             "status": "INACTIVE"
         },
         "skencituer.com": {
@@ -2992,8 +2992,8 @@
         "www.jshosting.faith": {
             "included_at_epoch": 1588453559.0,
             "included_at_iso": "2020-05-02T21:05:59",
-            "last_retested_at_epoch": 1590182582.470102,
-            "last_retested_at_iso": "2020-05-22T21:23:02.470102",
+            "last_retested_at_epoch": 1590274595.694459,
+            "last_retested_at_iso": "2020-05-23T22:56:35.694459",
             "status": "INACTIVE"
         },
         "www.jshosting.loan": {
@@ -3013,8 +3013,8 @@
         "www.jshosting.racing": {
             "included_at_epoch": 1588449187.0,
             "included_at_iso": "2020-05-02T19:53:07",
-            "last_retested_at_epoch": 1590179881.120481,
-            "last_retested_at_iso": "2020-05-22T20:38:01.120481",
+            "last_retested_at_epoch": 1590274597.085337,
+            "last_retested_at_iso": "2020-05-23T22:56:37.085337",
             "status": "INACTIVE"
         },
         "www.jshosting.review": {
@@ -3293,8 +3293,8 @@
         "www.ogrid.org": {
             "included_at_epoch": 1588463471.0,
             "included_at_iso": "2020-05-02T23:51:11",
-            "last_retested_at_epoch": 1590185637.280626,
-            "last_retested_at_iso": "2020-05-22T22:13:57.280626",
+            "last_retested_at_epoch": 1590274807.758994,
+            "last_retested_at_iso": "2020-05-23T23:00:07.758994",
             "status": "INACTIVE"
         },
         "www.okeyletsgo.ml": {
@@ -3370,8 +3370,8 @@
         "www.renhertfo.com": {
             "included_at_epoch": 1588449091.0,
             "included_at_iso": "2020-05-02T19:51:31",
-            "last_retested_at_epoch": 1590182646.817005,
-            "last_retested_at_iso": "2020-05-22T21:24:06.817005",
+            "last_retested_at_epoch": 1590274645.952629,
+            "last_retested_at_iso": "2020-05-23T22:57:25.952629",
             "status": "INACTIVE"
         },
         "www.rintindown.com": {
