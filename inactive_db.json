@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590115249.765878,
-            "last_retested_at_iso": "2020-05-22T02:40:49.765878",
+            "last_retested_at_epoch": 1590206646.620528,
+            "last_retested_at_iso": "2020-05-23T04:04:06.620528",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -1277,8 +1277,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1590115522.979248,
-            "last_retested_at_iso": "2020-05-22T02:45:22.979248",
+            "last_retested_at_epoch": 1590206766.786878,
+            "last_retested_at_iso": "2020-05-23T04:06:06.786878",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1704,8 +1704,8 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1590119930.115247,
-            "last_retested_at_iso": "2020-05-22T03:58:50.115247",
+            "last_retested_at_epoch": 1590206597.915752,
+            "last_retested_at_iso": "2020-05-23T04:03:17.915752",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
@@ -1725,8 +1725,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1590109927.81169,
-            "last_retested_at_iso": "2020-05-22T01:12:07.811690",
+            "last_retested_at_epoch": 1590206891.351873,
+            "last_retested_at_iso": "2020-05-23T04:08:11.351873",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -2229,8 +2229,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590115249.834295,
-            "last_retested_at_iso": "2020-05-22T02:40:49.834295",
+            "last_retested_at_epoch": 1590206646.69532,
+            "last_retested_at_iso": "2020-05-23T04:04:06.695320",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
@@ -3223,8 +3223,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1590115523.171423,
-            "last_retested_at_iso": "2020-05-22T02:45:23.171423",
+            "last_retested_at_epoch": 1590206767.004174,
+            "last_retested_at_iso": "2020-05-23T04:06:07.004174",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
@@ -3531,8 +3531,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1590119931.105561,
-            "last_retested_at_iso": "2020-05-22T03:58:51.105561",
+            "last_retested_at_epoch": 1590206792.607385,
+            "last_retested_at_iso": "2020-05-23T04:06:32.607385",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
@@ -3559,8 +3559,8 @@
         "www.webxmr.com": {
             "included_at_epoch": 1590120293.912816,
             "included_at_iso": "2020-05-22T04:04:53.912816",
-            "last_retested_at_epoch": 1590120293.912816,
-            "last_retested_at_iso": "2020-05-22T04:04:53.912816",
+            "last_retested_at_epoch": 1590206987.313468,
+            "last_retested_at_iso": "2020-05-23T04:09:47.313468",
             "status": "INACTIVE"
         },
         "www.whysoserius.club": {
