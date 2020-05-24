@@ -409,8 +409,8 @@
         "crypto.csgocpu.com": {
             "included_at_epoch": 1589834426.18615,
             "included_at_iso": "2020-05-18T20:40:26.186150",
-            "last_retested_at_epoch": 1590203027.276147,
-            "last_retested_at_iso": "2020-05-23T03:03:47.276147",
+            "last_retested_at_epoch": 1590293056.303961,
+            "last_retested_at_iso": "2020-05-24T04:04:16.303961",
             "status": "INACTIVE"
         },
         "ctlrnwbv.ru": {
@@ -1557,8 +1557,8 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1590199902.799543,
-            "last_retested_at_iso": "2020-05-23T02:11:42.799543",
+            "last_retested_at_epoch": 1590292792.859994,
+            "last_retested_at_iso": "2020-05-24T03:59:52.859994",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
@@ -1704,8 +1704,8 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1590206597.915752,
-            "last_retested_at_iso": "2020-05-23T04:03:17.915752",
+            "last_retested_at_epoch": 1590293208.944872,
+            "last_retested_at_iso": "2020-05-24T04:06:48.944872",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
@@ -3531,8 +3531,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1590206792.607385,
-            "last_retested_at_iso": "2020-05-23T04:06:32.607385",
+            "last_retested_at_epoch": 1590293254.482947,
+            "last_retested_at_iso": "2020-05-24T04:07:34.482947",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
