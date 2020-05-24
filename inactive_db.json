@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590206646.620528,
-            "last_retested_at_iso": "2020-05-23T04:04:06.620528",
+            "last_retested_at_epoch": 1590297528.690475,
+            "last_retested_at_iso": "2020-05-24T05:18:48.690475",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -1088,8 +1088,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1590210233.096139,
-            "last_retested_at_iso": "2020-05-23T05:03:53.096139",
+            "last_retested_at_epoch": 1590297551.49036,
+            "last_retested_at_iso": "2020-05-24T05:19:11.490360",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -1277,8 +1277,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1590206766.786878,
-            "last_retested_at_iso": "2020-05-23T04:06:06.786878",
+            "last_retested_at_epoch": 1590297356.807069,
+            "last_retested_at_iso": "2020-05-24T05:15:56.807069",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1711,22 +1711,22 @@
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1590210197.748294,
-            "last_retested_at_iso": "2020-05-23T05:03:17.748294",
+            "last_retested_at_epoch": 1590297209.819972,
+            "last_retested_at_iso": "2020-05-24T05:13:29.819972",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
             "included_at_epoch": 1589583943.643283,
             "included_at_iso": "2020-05-15T23:05:43.643283",
-            "last_retested_at_epoch": 1590210256.153987,
-            "last_retested_at_iso": "2020-05-23T05:04:16.153987",
+            "last_retested_at_epoch": 1590297420.579947,
+            "last_retested_at_iso": "2020-05-24T05:17:00.579947",
             "status": "INACTIVE"
         },
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1590206891.351873,
-            "last_retested_at_iso": "2020-05-23T04:08:11.351873",
+            "last_retested_at_epoch": 1590297308.390315,
+            "last_retested_at_iso": "2020-05-24T05:15:08.390315",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -2229,8 +2229,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590206646.69532,
-            "last_retested_at_iso": "2020-05-23T04:04:06.695320",
+            "last_retested_at_epoch": 1590297528.903097,
+            "last_retested_at_iso": "2020-05-24T05:18:48.903097",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
@@ -2726,8 +2726,8 @@
         "www.freshrefresher.com": {
             "included_at_epoch": 1588529453.0,
             "included_at_iso": "2020-05-03T18:10:53",
-            "last_retested_at_epoch": 1590203132.217397,
-            "last_retested_at_iso": "2020-05-23T03:05:32.217397",
+            "last_retested_at_epoch": 1590297469.382736,
+            "last_retested_at_iso": "2020-05-24T05:17:49.382736",
             "status": "INACTIVE"
         },
         "www.g-content.bid": {
@@ -3223,8 +3223,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1590206767.004174,
-            "last_retested_at_iso": "2020-05-23T04:06:07.004174",
+            "last_retested_at_epoch": 1590297356.762227,
+            "last_retested_at_iso": "2020-05-24T05:15:56.762227",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
