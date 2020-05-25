@@ -598,8 +598,8 @@
         "foxton.nimiqpool.com": {
             "included_at_epoch": 1588458434.0,
             "included_at_iso": "2020-05-02T22:27:14",
-            "last_retested_at_epoch": 1590266333.13531,
-            "last_retested_at_iso": "2020-05-23T20:38:53.135310",
+            "last_retested_at_epoch": 1590368584.176725,
+            "last_retested_at_iso": "2020-05-25T01:03:04.176725",
             "status": "INACTIVE"
         },
         "freecontent.download": {
@@ -1039,8 +1039,8 @@
         "mhiobjnirs.gq": {
             "included_at_epoch": 1588463271.0,
             "included_at_iso": "2020-05-02T23:47:51",
-            "last_retested_at_epoch": 1590278554.224099,
-            "last_retested_at_iso": "2020-05-24T00:02:34.224099",
+            "last_retested_at_epoch": 1590368435.543881,
+            "last_retested_at_iso": "2020-05-25T01:00:35.543881",
             "status": "INACTIVE"
         },
         "mighbest.host": {
@@ -1400,6 +1400,13 @@
             "last_retested_at_iso": "2020-03-09T06:35:31",
             "status": "INACTIVE"
         },
+        "play.estream.xyz": {
+            "included_at_epoch": 1590368837.916686,
+            "included_at_iso": "2020-05-25T01:07:17.916686",
+            "last_retested_at_epoch": 1590368837.916686,
+            "last_retested_at_iso": "2020-05-25T01:07:17.916686",
+            "status": "INACTIVE"
+        },
         "play.flowplayer.space": {
             "included_at_epoch": 1588453860.0,
             "included_at_iso": "2020-05-02T21:11:00",
@@ -1447,6 +1454,13 @@
             "included_at_iso": "2020-03-09T06:35:56",
             "last_retested_at_epoch": 1583735756.0,
             "last_retested_at_iso": "2020-03-09T06:35:56",
+            "status": "INACTIVE"
+        },
+        "play.play.estream.xyz": {
+            "included_at_epoch": 1590368816.478776,
+            "included_at_iso": "2020-05-25T01:06:56.478776",
+            "last_retested_at_epoch": 1590368816.478776,
+            "last_retested_at_iso": "2020-05-25T01:06:56.478776",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.stream": {
@@ -1760,8 +1774,8 @@
         "shannon.nimiqpool.com": {
             "included_at_epoch": 1588453735.0,
             "included_at_iso": "2020-05-02T21:08:55",
-            "last_retested_at_epoch": 1590275171.556775,
-            "last_retested_at_iso": "2020-05-23T23:06:11.556775",
+            "last_retested_at_epoch": 1590368885.862251,
+            "last_retested_at_iso": "2020-05-25T01:08:05.862251",
             "status": "INACTIVE"
         },
         "skencituer.com": {
@@ -1963,8 +1977,8 @@
         "www.2giga.download": {
             "included_at_epoch": 1588270431.0,
             "included_at_iso": "2020-04-30T18:13:51",
-            "last_retested_at_epoch": 1588270431.0,
-            "last_retested_at_iso": "2020-04-30T18:13:51",
+            "last_retested_at_epoch": 1590368583.459259,
+            "last_retested_at_iso": "2020-05-25T01:03:03.459259",
             "status": "INACTIVE"
         },
         "www.8jd2lfsq.me": {
@@ -2306,8 +2320,8 @@
         "www.cdn-analytics.pl": {
             "included_at_epoch": 1588449139.0,
             "included_at_iso": "2020-05-02T19:52:19",
-            "last_retested_at_epoch": 1590270894.824835,
-            "last_retested_at_iso": "2020-05-23T21:54:54.824835",
+            "last_retested_at_epoch": 1590368672.099155,
+            "last_retested_at_iso": "2020-05-25T01:04:32.099155",
             "status": "INACTIVE"
         },
         "www.cdn-code.host": {
@@ -3125,8 +3139,8 @@
         "www.mhiobjnirs.gq": {
             "included_at_epoch": 1588463271.0,
             "included_at_iso": "2020-05-02T23:47:51",
-            "last_retested_at_epoch": 1590278554.212388,
-            "last_retested_at_iso": "2020-05-24T00:02:34.212388",
+            "last_retested_at_epoch": 1590368435.523114,
+            "last_retested_at_iso": "2020-05-25T01:00:35.523114",
             "status": "INACTIVE"
         },
         "www.mi-de-ner-nis3.info": {
