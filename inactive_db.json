@@ -430,8 +430,8 @@
         "d.cpufan.club": {
             "included_at_epoch": 1588527457.0,
             "included_at_iso": "2020-05-03T17:37:37",
-            "last_retested_at_epoch": 1590302159.335013,
-            "last_retested_at_iso": "2020-05-24T06:35:59.335013",
+            "last_retested_at_epoch": 1590392067.643144,
+            "last_retested_at_iso": "2020-05-25T07:34:27.643144",
             "status": "INACTIVE"
         },
         "d8acddffe978b5dfcae6.date": {
@@ -458,8 +458,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1590301796.647491,
-            "last_retested_at_iso": "2020-05-24T06:29:56.647491",
+            "last_retested_at_epoch": 1590391777.235839,
+            "last_retested_at_iso": "2020-05-25T07:29:37.235839",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -1277,8 +1277,8 @@
         "mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1590297356.807069,
-            "last_retested_at_iso": "2020-05-24T05:15:56.807069",
+            "last_retested_at_epoch": 1590392157.938054,
+            "last_retested_at_iso": "2020-05-25T07:35:57.938054",
             "status": "INACTIVE"
         },
         "mysite.irkdsu.ru": {
@@ -1725,15 +1725,15 @@
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1590297209.819972,
-            "last_retested_at_iso": "2020-05-24T05:13:29.819972",
+            "last_retested_at_epoch": 1590392341.386711,
+            "last_retested_at_iso": "2020-05-25T07:39:01.386711",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
             "included_at_epoch": 1589583943.643283,
             "included_at_iso": "2020-05-15T23:05:43.643283",
-            "last_retested_at_epoch": 1590297420.579947,
-            "last_retested_at_iso": "2020-05-24T05:17:00.579947",
+            "last_retested_at_epoch": 1590392028.550968,
+            "last_retested_at_iso": "2020-05-25T07:33:48.550968",
             "status": "INACTIVE"
         },
         "seed-fra-6.inf.nimiq.network": {
@@ -1802,8 +1802,8 @@
         "sunnimiq2.cf": {
             "included_at_epoch": 1588527210.0,
             "included_at_iso": "2020-05-03T17:33:30",
-            "last_retested_at_epoch": 1590301667.53913,
-            "last_retested_at_iso": "2020-05-24T06:27:47.539130",
+            "last_retested_at_epoch": 1590392273.214103,
+            "last_retested_at_iso": "2020-05-25T07:37:53.214103",
             "status": "INACTIVE"
         },
         "synconnector.com": {
@@ -2425,8 +2425,8 @@
         "www.coinhiveproxy.com": {
             "included_at_epoch": 1588444281.0,
             "included_at_iso": "2020-05-02T18:31:21",
-            "last_retested_at_epoch": 1590301902.929187,
-            "last_retested_at_iso": "2020-05-24T06:31:42.929187",
+            "last_retested_at_epoch": 1590392260.965021,
+            "last_retested_at_iso": "2020-05-25T07:37:40.965021",
             "status": "INACTIVE"
         },
         "www.coinrail.io": {
@@ -2488,8 +2488,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1590301796.448807,
-            "last_retested_at_iso": "2020-05-24T06:29:56.448807",
+            "last_retested_at_epoch": 1590391772.300037,
+            "last_retested_at_iso": "2020-05-25T07:29:32.300037",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
@@ -3237,8 +3237,8 @@
         "www.mutuza.win": {
             "included_at_epoch": 1588473545.0,
             "included_at_iso": "2020-05-03T02:39:05",
-            "last_retested_at_epoch": 1590297356.762227,
-            "last_retested_at_iso": "2020-05-24T05:15:56.762227",
+            "last_retested_at_epoch": 1590392155.891161,
+            "last_retested_at_iso": "2020-05-25T07:35:55.891161",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
@@ -3475,8 +3475,8 @@
         "www.sunnimiq2.cf": {
             "included_at_epoch": 1588527210.0,
             "included_at_iso": "2020-05-03T17:33:30",
-            "last_retested_at_epoch": 1590301667.538136,
-            "last_retested_at_iso": "2020-05-24T06:27:47.538136",
+            "last_retested_at_epoch": 1590392273.186046,
+            "last_retested_at_iso": "2020-05-25T07:37:53.186046",
             "status": "INACTIVE"
         },
         "www.synconnector.com": {
@@ -3573,8 +3573,8 @@
         "www.webxmr.com": {
             "included_at_epoch": 1590120293.912816,
             "included_at_iso": "2020-05-22T04:04:53.912816",
-            "last_retested_at_epoch": 1590302079.161526,
-            "last_retested_at_iso": "2020-05-24T06:34:39.161526",
+            "last_retested_at_epoch": 1590391948.889537,
+            "last_retested_at_iso": "2020-05-25T07:32:28.889537",
             "status": "INACTIVE"
         },
         "www.whysoserius.club": {
