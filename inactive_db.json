@@ -409,8 +409,8 @@
         "crypto.csgocpu.com": {
             "included_at_epoch": 1589834426.18615,
             "included_at_iso": "2020-05-18T20:40:26.186150",
-            "last_retested_at_epoch": 1590293056.303961,
-            "last_retested_at_iso": "2020-05-24T04:04:16.303961",
+            "last_retested_at_epoch": 1590383005.905573,
+            "last_retested_at_iso": "2020-05-25T05:03:25.905573",
             "status": "INACTIVE"
         },
         "ctlrnwbv.ru": {
@@ -1718,8 +1718,8 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1590293208.944872,
-            "last_retested_at_iso": "2020-05-24T04:06:48.944872",
+            "last_retested_at_epoch": 1590383253.971933,
+            "last_retested_at_iso": "2020-05-25T05:07:33.971933",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
@@ -2096,8 +2096,8 @@
         "www.andlache.com": {
             "included_at_epoch": 1588827964.183353,
             "included_at_iso": "2020-05-07T05:06:04.183353",
-            "last_retested_at_epoch": 1590287893.197188,
-            "last_retested_at_iso": "2020-05-24T02:38:13.197188",
+            "last_retested_at_epoch": 1590382900.145508,
+            "last_retested_at_iso": "2020-05-25T05:01:40.145508",
             "status": "INACTIVE"
         },
         "www.anybest.host": {
