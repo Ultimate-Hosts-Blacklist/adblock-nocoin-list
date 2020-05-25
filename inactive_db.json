@@ -913,8 +913,8 @@
         "jshosting.faith": {
             "included_at_epoch": 1588453559.0,
             "included_at_iso": "2020-05-02T21:05:59",
-            "last_retested_at_epoch": 1590274595.693314,
-            "last_retested_at_iso": "2020-05-23T22:56:35.693314",
+            "last_retested_at_epoch": 1590378385.101519,
+            "last_retested_at_iso": "2020-05-25T03:46:25.101519",
             "status": "INACTIVE"
         },
         "jshosting.loan": {
@@ -1179,8 +1179,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1590282927.629873,
-            "last_retested_at_iso": "2020-05-24T01:15:27.629873",
+            "last_retested_at_epoch": 1590378529.106906,
+            "last_retested_at_iso": "2020-05-25T03:48:49.106906",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -2250,8 +2250,8 @@
         "www.bmcm.pw": {
             "included_at_epoch": 1588458811.0,
             "included_at_iso": "2020-05-02T22:33:31",
-            "last_retested_at_epoch": 1590288053.400666,
-            "last_retested_at_iso": "2020-05-24T02:40:53.400666",
+            "last_retested_at_epoch": 1590378185.069305,
+            "last_retested_at_iso": "2020-05-25T03:43:05.069305",
             "status": "INACTIVE"
         },
         "www.bmnr.pw": {
@@ -2579,8 +2579,8 @@
         "www.eucsoft.com": {
             "included_at_epoch": 1588763923.183524,
             "included_at_iso": "2020-05-06T11:18:43.183524",
-            "last_retested_at_epoch": 1590283060.743738,
-            "last_retested_at_iso": "2020-05-24T01:17:40.743738",
+            "last_retested_at_epoch": 1590378482.441038,
+            "last_retested_at_iso": "2020-05-25T03:48:02.441038",
             "status": "INACTIVE"
         },
         "www.evengparme.com": {
@@ -3006,8 +3006,8 @@
         "www.jshosting.faith": {
             "included_at_epoch": 1588453559.0,
             "included_at_iso": "2020-05-02T21:05:59",
-            "last_retested_at_epoch": 1590274595.694459,
-            "last_retested_at_iso": "2020-05-23T22:56:35.694459",
+            "last_retested_at_epoch": 1590378385.271416,
+            "last_retested_at_iso": "2020-05-25T03:46:25.271416",
             "status": "INACTIVE"
         },
         "www.jshosting.loan": {
@@ -3104,8 +3104,8 @@
         "www.ledinund.com": {
             "included_at_epoch": 1585840541.0,
             "included_at_iso": "2020-04-02T15:15:41",
-            "last_retested_at_epoch": 1590282971.940038,
-            "last_retested_at_iso": "2020-05-24T01:16:11.940038",
+            "last_retested_at_epoch": 1590378073.163158,
+            "last_retested_at_iso": "2020-05-25T03:41:13.163158",
             "status": "INACTIVE"
         },
         "www.losital.ru": {
