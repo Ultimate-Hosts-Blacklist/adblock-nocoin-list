@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590297528.690475,
-            "last_retested_at_iso": "2020-05-24T05:18:48.690475",
+            "last_retested_at_epoch": 1590387408.443447,
+            "last_retested_at_iso": "2020-05-25T06:16:48.443447",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -1088,8 +1088,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1590297551.49036,
-            "last_retested_at_iso": "2020-05-24T05:19:11.490360",
+            "last_retested_at_epoch": 1590387733.73619,
+            "last_retested_at_iso": "2020-05-25T06:22:13.736190",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -1564,15 +1564,15 @@
         "proofly.win": {
             "included_at_epoch": 1588453603.0,
             "included_at_iso": "2020-05-02T21:06:43",
-            "last_retested_at_epoch": 1590282915.832222,
-            "last_retested_at_iso": "2020-05-24T01:15:15.832222",
+            "last_retested_at_epoch": 1590387265.233507,
+            "last_retested_at_iso": "2020-05-25T06:14:25.233507",
             "status": "INACTIVE"
         },
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1590292792.859994,
-            "last_retested_at_iso": "2020-05-24T03:59:52.859994",
+            "last_retested_at_epoch": 1590387785.406004,
+            "last_retested_at_iso": "2020-05-25T06:23:05.406004",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
@@ -1739,8 +1739,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1590297308.390315,
-            "last_retested_at_iso": "2020-05-24T05:15:08.390315",
+            "last_retested_at_epoch": 1590387325.00619,
+            "last_retested_at_iso": "2020-05-25T06:15:25.006190",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -2243,8 +2243,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590297528.903097,
-            "last_retested_at_iso": "2020-05-24T05:18:48.903097",
+            "last_retested_at_epoch": 1590387408.480385,
+            "last_retested_at_iso": "2020-05-25T06:16:48.480385",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
@@ -2740,8 +2740,8 @@
         "www.freshrefresher.com": {
             "included_at_epoch": 1588529453.0,
             "included_at_iso": "2020-05-03T18:10:53",
-            "last_retested_at_epoch": 1590297469.382736,
-            "last_retested_at_iso": "2020-05-24T05:17:49.382736",
+            "last_retested_at_epoch": 1590387522.545223,
+            "last_retested_at_iso": "2020-05-25T06:18:42.545223",
             "status": "INACTIVE"
         },
         "www.g-content.bid": {
@@ -3377,8 +3377,8 @@
         "www.proofly.win": {
             "included_at_epoch": 1588453603.0,
             "included_at_iso": "2020-05-02T21:06:43",
-            "last_retested_at_epoch": 1590282915.711395,
-            "last_retested_at_iso": "2020-05-24T01:15:15.711395",
+            "last_retested_at_epoch": 1590387265.282059,
+            "last_retested_at_iso": "2020-05-25T06:14:25.282059",
             "status": "INACTIVE"
         },
         "www.renhertfo.com": {
@@ -3545,8 +3545,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1590293254.482947,
-            "last_retested_at_iso": "2020-05-24T04:07:34.482947",
+            "last_retested_at_epoch": 1590387698.850742,
+            "last_retested_at_iso": "2020-05-25T06:21:38.850742",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
