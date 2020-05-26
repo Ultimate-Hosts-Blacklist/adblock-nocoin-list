@@ -682,8 +682,8 @@
         "gettate.date": {
             "included_at_epoch": 1588529557.0,
             "included_at_iso": "2020-05-03T18:12:37",
-            "last_retested_at_epoch": 1590373670.064045,
-            "last_retested_at_iso": "2020-05-25T02:27:50.064045",
+            "last_retested_at_epoch": 1590460968.775484,
+            "last_retested_at_iso": "2020-05-26T02:42:48.775484",
             "status": "INACTIVE"
         },
         "gettate.faith": {
@@ -787,8 +787,8 @@
         "hostingcloud.date": {
             "included_at_epoch": 1588454099.0,
             "included_at_iso": "2020-05-02T21:14:59",
-            "last_retested_at_epoch": 1590373873.133396,
-            "last_retested_at_iso": "2020-05-25T02:31:13.133396",
+            "last_retested_at_epoch": 1590460877.884393,
+            "last_retested_at_iso": "2020-05-26T02:41:17.884393",
             "status": "INACTIVE"
         },
         "hostingcloud.download": {
@@ -1263,8 +1263,8 @@
         "money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1590373728.720305,
-            "last_retested_at_iso": "2020-05-25T02:28:48.720305",
+            "last_retested_at_epoch": 1590460988.48583,
+            "last_retested_at_iso": "2020-05-26T02:43:08.485830",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -1382,8 +1382,8 @@
         "play.besstahete.info": {
             "included_at_epoch": 1588458791.0,
             "included_at_iso": "2020-05-02T22:33:11",
-            "last_retested_at_epoch": 1590373827.440561,
-            "last_retested_at_iso": "2020-05-25T02:30:27.440561",
+            "last_retested_at_epoch": 1590461195.708859,
+            "last_retested_at_iso": "2020-05-26T02:46:35.708859",
             "status": "INACTIVE"
         },
         "play.estream.nu": {
@@ -1403,8 +1403,8 @@
         "play.estream.xyz": {
             "included_at_epoch": 1590368837.916686,
             "included_at_iso": "2020-05-25T01:07:17.916686",
-            "last_retested_at_epoch": 1590368837.916686,
-            "last_retested_at_iso": "2020-05-25T01:07:17.916686",
+            "last_retested_at_epoch": 1590461236.405101,
+            "last_retested_at_iso": "2020-05-26T02:47:16.405101",
             "status": "INACTIVE"
         },
         "play.flowplayer.space": {
@@ -1585,8 +1585,8 @@
         "proxy-gbr-2.inf.nimiq.network": {
             "included_at_epoch": 1589924174.584128,
             "included_at_iso": "2020-05-19T21:36:14.584128",
-            "last_retested_at_epoch": 1590373866.837839,
-            "last_retested_at_iso": "2020-05-25T02:31:06.837839",
+            "last_retested_at_epoch": 1590460753.556709,
+            "last_retested_at_iso": "2020-05-26T02:39:13.556709",
             "status": "INACTIVE"
         },
         "rintindown.com": {
@@ -1655,8 +1655,8 @@
         "s2.myregeneaf.com": {
             "included_at_epoch": 1588463301.0,
             "included_at_iso": "2020-05-02T23:48:21",
-            "last_retested_at_epoch": 1590373459.027085,
-            "last_retested_at_iso": "2020-05-25T02:24:19.027085",
+            "last_retested_at_epoch": 1590460909.463446,
+            "last_retested_at_iso": "2020-05-26T02:41:49.463446",
             "status": "INACTIVE"
         },
         "s2.soodatmish.com": {
@@ -1823,8 +1823,8 @@
         "toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1590373705.530406,
-            "last_retested_at_iso": "2020-05-25T02:28:25.530406",
+            "last_retested_at_epoch": 1590460774.429075,
+            "last_retested_at_iso": "2020-05-26T02:39:34.429075",
             "status": "INACTIVE"
         },
         "tokomaru.nimiqpool.com": {
@@ -2257,8 +2257,8 @@
         "www.bmnr.pw": {
             "included_at_epoch": 1588448724.0,
             "included_at_iso": "2020-05-02T19:45:24",
-            "last_retested_at_epoch": 1590373885.777428,
-            "last_retested_at_iso": "2020-05-25T02:31:25.777428",
+            "last_retested_at_epoch": 1590460871.74766,
+            "last_retested_at_iso": "2020-05-26T02:41:11.747660",
             "status": "INACTIVE"
         },
         "www.bmst.pw": {
@@ -2285,8 +2285,8 @@
         "www.bsyauqwerd.party": {
             "included_at_epoch": 1588449070.0,
             "included_at_iso": "2020-05-02T19:51:10",
-            "last_retested_at_epoch": 1590373720.344276,
-            "last_retested_at_iso": "2020-05-25T02:28:40.344276",
+            "last_retested_at_epoch": 1590461345.285799,
+            "last_retested_at_iso": "2020-05-26T02:49:05.285799",
             "status": "INACTIVE"
         },
         "www.butcalve.com": {
@@ -2754,8 +2754,8 @@
         "www.gettate.date": {
             "included_at_epoch": 1588529557.0,
             "included_at_iso": "2020-05-03T18:12:37",
-            "last_retested_at_epoch": 1590373670.666995,
-            "last_retested_at_iso": "2020-05-25T02:27:50.666995",
+            "last_retested_at_epoch": 1590460968.734079,
+            "last_retested_at_iso": "2020-05-26T02:42:48.734079",
             "status": "INACTIVE"
         },
         "www.gettate.faith": {
@@ -2859,8 +2859,8 @@
         "www.hostingcloud.date": {
             "included_at_epoch": 1588454099.0,
             "included_at_iso": "2020-05-02T21:14:59",
-            "last_retested_at_epoch": 1590373873.104758,
-            "last_retested_at_iso": "2020-05-25T02:31:13.104758",
+            "last_retested_at_epoch": 1590460877.792319,
+            "last_retested_at_iso": "2020-05-26T02:41:17.792319",
             "status": "INACTIVE"
         },
         "www.hostingcloud.download": {
@@ -3216,8 +3216,8 @@
         "www.money-maker-default.info": {
             "included_at_epoch": 1588454078.0,
             "included_at_iso": "2020-05-02T21:14:38",
-            "last_retested_at_epoch": 1590373728.655891,
-            "last_retested_at_iso": "2020-05-25T02:28:48.655891",
+            "last_retested_at_epoch": 1590460988.396891,
+            "last_retested_at_iso": "2020-05-26T02:43:08.396891",
             "status": "INACTIVE"
         },
         "www.money-maker-script.info": {
@@ -3503,8 +3503,8 @@
         "www.toftofcal.com": {
             "included_at_epoch": 1588448931.0,
             "included_at_iso": "2020-05-02T19:48:51",
-            "last_retested_at_epoch": 1590373705.644078,
-            "last_retested_at_iso": "2020-05-25T02:28:25.644078",
+            "last_retested_at_epoch": 1590460774.428149,
+            "last_retested_at_iso": "2020-05-26T02:39:34.428149",
             "status": "INACTIVE"
         },
         "www.tokyodrift.ga": {
