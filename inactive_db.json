@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590387408.443447,
-            "last_retested_at_iso": "2020-05-25T06:16:48.443447",
+            "last_retested_at_epoch": 1590476006.972256,
+            "last_retested_at_iso": "2020-05-26T06:53:26.972256",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -409,8 +409,8 @@
         "crypto.csgocpu.com": {
             "included_at_epoch": 1589834426.18615,
             "included_at_iso": "2020-05-18T20:40:26.186150",
-            "last_retested_at_epoch": 1590383005.905573,
-            "last_retested_at_iso": "2020-05-25T05:03:25.905573",
+            "last_retested_at_epoch": 1590475730.970985,
+            "last_retested_at_iso": "2020-05-26T06:48:50.970985",
             "status": "INACTIVE"
         },
         "ctlrnwbv.ru": {
@@ -1088,8 +1088,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1590387733.73619,
-            "last_retested_at_iso": "2020-05-25T06:22:13.736190",
+            "last_retested_at_epoch": 1590475656.991612,
+            "last_retested_at_iso": "2020-05-26T06:47:36.991612",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -1571,8 +1571,8 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1590387785.406004,
-            "last_retested_at_iso": "2020-05-25T06:23:05.406004",
+            "last_retested_at_epoch": 1590475722.811464,
+            "last_retested_at_iso": "2020-05-26T06:48:42.811464",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
@@ -1739,8 +1739,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1590387325.00619,
-            "last_retested_at_iso": "2020-05-25T06:15:25.006190",
+            "last_retested_at_epoch": 1590475551.325249,
+            "last_retested_at_iso": "2020-05-26T06:45:51.325249",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -2243,8 +2243,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590387408.480385,
-            "last_retested_at_iso": "2020-05-25T06:16:48.480385",
+            "last_retested_at_epoch": 1590476007.273331,
+            "last_retested_at_iso": "2020-05-26T06:53:27.273331",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
@@ -2740,8 +2740,8 @@
         "www.freshrefresher.com": {
             "included_at_epoch": 1588529453.0,
             "included_at_iso": "2020-05-03T18:10:53",
-            "last_retested_at_epoch": 1590387522.545223,
-            "last_retested_at_iso": "2020-05-25T06:18:42.545223",
+            "last_retested_at_epoch": 1590475527.335279,
+            "last_retested_at_iso": "2020-05-26T06:45:27.335279",
             "status": "INACTIVE"
         },
         "www.g-content.bid": {
@@ -3545,8 +3545,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1590387698.850742,
-            "last_retested_at_iso": "2020-05-25T06:21:38.850742",
+            "last_retested_at_epoch": 1590475497.000858,
+            "last_retested_at_iso": "2020-05-26T06:44:57.000858",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
