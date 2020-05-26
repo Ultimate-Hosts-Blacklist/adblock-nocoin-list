@@ -66,8 +66,8 @@
         "aeros07.tk": {
             "included_at_epoch": 1588453841.0,
             "included_at_iso": "2020-05-02T21:10:41",
-            "last_retested_at_epoch": 1590411575.640115,
-            "last_retested_at_iso": "2020-05-25T12:59:35.640115",
+            "last_retested_at_epoch": 1590500343.048396,
+            "last_retested_at_iso": "2020-05-26T13:39:03.048396",
             "status": "INACTIVE"
         },
         "aeros09.tk": {
@@ -577,8 +577,8 @@
         "flightzy.date": {
             "included_at_epoch": 1588453890.0,
             "included_at_iso": "2020-05-02T21:11:30",
-            "last_retested_at_epoch": 1590411490.04554,
-            "last_retested_at_iso": "2020-05-25T12:58:10.045540",
+            "last_retested_at_epoch": 1590500305.379228,
+            "last_retested_at_iso": "2020-05-26T13:38:25.379228",
             "status": "INACTIVE"
         },
         "flightzy.win": {
@@ -829,8 +829,8 @@
         "hostingcloud.trade": {
             "included_at_epoch": 1588453692.0,
             "included_at_iso": "2020-05-02T21:08:12",
-            "last_retested_at_epoch": 1590411238.321019,
-            "last_retested_at_iso": "2020-05-25T12:53:58.321019",
+            "last_retested_at_epoch": 1590499863.695415,
+            "last_retested_at_iso": "2020-05-26T13:31:03.695415",
             "status": "INACTIVE"
         },
         "hostingcloud.win": {
@@ -892,8 +892,8 @@
         "jshosting.bid": {
             "included_at_epoch": 1588529765.0,
             "included_at_iso": "2020-05-03T18:16:05",
-            "last_retested_at_epoch": 1590411460.666073,
-            "last_retested_at_iso": "2020-05-25T12:57:40.666073",
+            "last_retested_at_epoch": 1590500210.612197,
+            "last_retested_at_iso": "2020-05-26T13:36:50.612197",
             "status": "INACTIVE"
         },
         "jshosting.date": {
@@ -990,8 +990,8 @@
         "kdmkauchahynhrs.ru": {
             "included_at_epoch": 1588449176.0,
             "included_at_iso": "2020-05-02T19:52:56",
-            "last_retested_at_epoch": 1590406560.357982,
-            "last_retested_at_iso": "2020-05-25T11:36:00.357982",
+            "last_retested_at_epoch": 1590500424.198881,
+            "last_retested_at_iso": "2020-05-26T13:40:24.198881",
             "status": "INACTIVE"
         },
         "kippbeak.cf": {
@@ -1095,8 +1095,8 @@
         "miner-13.team.nimiq.agency": {
             "included_at_epoch": 1588448791.0,
             "included_at_iso": "2020-05-02T19:46:31",
-            "last_retested_at_epoch": 1590411393.61438,
-            "last_retested_at_iso": "2020-05-25T12:56:33.614380",
+            "last_retested_at_epoch": 1590500218.401683,
+            "last_retested_at_iso": "2020-05-26T13:36:58.401683",
             "status": "INACTIVE"
         },
         "miner-14.team.nimiq.agency": {
@@ -1361,8 +1361,8 @@
         "pasoherb.gq": {
             "included_at_epoch": 1588449216.0,
             "included_at_iso": "2020-05-02T19:53:36",
-            "last_retested_at_epoch": 1590411424.022009,
-            "last_retested_at_iso": "2020-05-25T12:57:04.022009",
+            "last_retested_at_epoch": 1590499861.174753,
+            "last_retested_at_iso": "2020-05-26T13:31:01.174753",
             "status": "INACTIVE"
         },
         "pdheuryopd.loan": {
@@ -1445,8 +1445,8 @@
         "play.play.estream.nu": {
             "included_at_epoch": 1589340780.597134,
             "included_at_iso": "2020-05-13T03:33:00.597134",
-            "last_retested_at_epoch": 1590411237.01371,
-            "last_retested_at_iso": "2020-05-25T12:53:57.013710",
+            "last_retested_at_epoch": 1590500021.924844,
+            "last_retested_at_iso": "2020-05-26T13:33:41.924844",
             "status": "INACTIVE"
         },
         "play.play.estream.to": {
@@ -1641,8 +1641,8 @@
         "s2.appelamule.com": {
             "included_at_epoch": 1588527369.0,
             "included_at_iso": "2020-05-03T17:36:09",
-            "last_retested_at_epoch": 1590411453.716439,
-            "last_retested_at_iso": "2020-05-25T12:57:33.716439",
+            "last_retested_at_epoch": 1590500155.880083,
+            "last_retested_at_iso": "2020-05-26T13:35:55.880083",
             "status": "INACTIVE"
         },
         "s2.flowplayer.space": {
@@ -1893,8 +1893,8 @@
         "whanganui.nimiqpool.com": {
             "included_at_epoch": 1588444274.0,
             "included_at_iso": "2020-05-02T18:31:14",
-            "last_retested_at_epoch": 1590411104.728601,
-            "last_retested_at_iso": "2020-05-25T12:51:44.728601",
+            "last_retested_at_epoch": 1590499886.244087,
+            "last_retested_at_iso": "2020-05-26T13:31:26.244087",
             "status": "INACTIVE"
         },
         "willacrit.com": {
@@ -1942,15 +1942,15 @@
         "ws.pzoifaum.info": {
             "included_at_epoch": 1588527042.0,
             "included_at_iso": "2020-05-03T17:30:42",
-            "last_retested_at_epoch": 1590406886.264336,
-            "last_retested_at_iso": "2020-05-25T11:41:26.264336",
+            "last_retested_at_epoch": 1590500175.43574,
+            "last_retested_at_iso": "2020-05-26T13:36:15.435740",
             "status": "INACTIVE"
         },
         "wsp.marketgid.com": {
             "included_at_epoch": 1588526940.0,
             "included_at_iso": "2020-05-03T17:29:00",
-            "last_retested_at_epoch": 1590406487.449273,
-            "last_retested_at_iso": "2020-05-25T11:34:47.449273",
+            "last_retested_at_epoch": 1590500042.455379,
+            "last_retested_at_iso": "2020-05-26T13:34:02.455379",
             "status": "INACTIVE"
         },
         "wss.nablabee.com": {
@@ -2026,8 +2026,8 @@
         "www.aeros07.tk": {
             "included_at_epoch": 1588453841.0,
             "included_at_iso": "2020-05-02T21:10:41",
-            "last_retested_at_epoch": 1590411575.639212,
-            "last_retested_at_iso": "2020-05-25T12:59:35.639212",
+            "last_retested_at_epoch": 1590500343.508425,
+            "last_retested_at_iso": "2020-05-26T13:39:03.508425",
             "status": "INACTIVE"
         },
         "www.aeros09.tk": {
@@ -2089,8 +2089,8 @@
         "www.altavista.ovh": {
             "included_at_epoch": 1588444213.0,
             "included_at_iso": "2020-05-02T18:30:13",
-            "last_retested_at_epoch": 1590411479.614645,
-            "last_retested_at_iso": "2020-05-25T12:57:59.614645",
+            "last_retested_at_epoch": 1590500156.859798,
+            "last_retested_at_iso": "2020-05-26T13:35:56.859798",
             "status": "INACTIVE"
         },
         "www.andlache.com": {
@@ -2446,8 +2446,8 @@
         "www.cryptoloot.pro": {
             "included_at_epoch": 1588449253.0,
             "included_at_iso": "2020-05-02T19:54:13",
-            "last_retested_at_epoch": 1590406974.694476,
-            "last_retested_at_iso": "2020-05-25T11:42:54.694476",
+            "last_retested_at_epoch": 1590500345.967927,
+            "last_retested_at_iso": "2020-05-26T13:39:05.967927",
             "status": "INACTIVE"
         },
         "www.cryptonoter.com": {
@@ -2593,8 +2593,8 @@
         "www.exdynsrv.com": {
             "included_at_epoch": 1588444471.0,
             "included_at_iso": "2020-05-02T18:34:31",
-            "last_retested_at_epoch": 1590411174.499985,
-            "last_retested_at_iso": "2020-05-25T12:52:54.499985",
+            "last_retested_at_epoch": 1590500235.013331,
+            "last_retested_at_iso": "2020-05-26T13:37:15.013331",
             "status": "INACTIVE"
         },
         "www.ffinwwfpqi.gq": {
@@ -2649,8 +2649,8 @@
         "www.flightzy.date": {
             "included_at_epoch": 1588453890.0,
             "included_at_iso": "2020-05-02T21:11:30",
-            "last_retested_at_epoch": 1590411490.046531,
-            "last_retested_at_iso": "2020-05-25T12:58:10.046531",
+            "last_retested_at_epoch": 1590500305.34425,
+            "last_retested_at_iso": "2020-05-26T13:38:25.344250",
             "status": "INACTIVE"
         },
         "www.flightzy.win": {
@@ -2908,8 +2908,8 @@
         "www.hostingcloud.trade": {
             "included_at_epoch": 1588527334.0,
             "included_at_iso": "2020-05-03T17:35:34",
-            "last_retested_at_epoch": 1590411238.321928,
-            "last_retested_at_iso": "2020-05-25T12:53:58.321928",
+            "last_retested_at_epoch": 1590499863.867884,
+            "last_retested_at_iso": "2020-05-26T13:31:03.867884",
             "status": "INACTIVE"
         },
         "www.hostingcloud.win": {
@@ -2985,8 +2985,8 @@
         "www.jshosting.bid": {
             "included_at_epoch": 1588439587.0,
             "included_at_iso": "2020-05-02T17:13:07",
-            "last_retested_at_epoch": 1590411460.562446,
-            "last_retested_at_iso": "2020-05-25T12:57:40.562446",
+            "last_retested_at_epoch": 1590500210.714277,
+            "last_retested_at_iso": "2020-05-26T13:36:50.714277",
             "status": "INACTIVE"
         },
         "www.jshosting.date": {
@@ -3083,8 +3083,8 @@
         "www.kdmkauchahynhrs.ru": {
             "included_at_epoch": 1588449176.0,
             "included_at_iso": "2020-05-02T19:52:56",
-            "last_retested_at_epoch": 1590406561.410238,
-            "last_retested_at_iso": "2020-05-25T11:36:01.410238",
+            "last_retested_at_epoch": 1590500424.590012,
+            "last_retested_at_iso": "2020-05-26T13:40:24.590012",
             "status": "INACTIVE"
         },
         "www.kedtise.com": {
@@ -3328,8 +3328,8 @@
         "www.pasoherb.gq": {
             "included_at_epoch": 1588449216.0,
             "included_at_iso": "2020-05-02T19:53:36",
-            "last_retested_at_epoch": 1590411424.021165,
-            "last_retested_at_iso": "2020-05-25T12:57:04.021165",
+            "last_retested_at_epoch": 1590499861.059456,
+            "last_retested_at_iso": "2020-05-26T13:31:01.059456",
             "status": "INACTIVE"
         },
         "www.pdheuryopd.loan": {
@@ -3580,8 +3580,8 @@
         "www.whysoserius.club": {
             "included_at_epoch": 1588444544.0,
             "included_at_iso": "2020-05-02T18:35:44",
-            "last_retested_at_epoch": 1590411618.375293,
-            "last_retested_at_iso": "2020-05-25T13:00:18.375293",
+            "last_retested_at_epoch": 1590499942.004579,
+            "last_retested_at_iso": "2020-05-26T13:32:22.004579",
             "status": "INACTIVE"
         },
         "www.willacrit.com": {
