@@ -276,8 +276,8 @@
         "bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590476006.972256,
-            "last_retested_at_iso": "2020-05-26T06:53:26.972256",
+            "last_retested_at_epoch": 1590569627.783459,
+            "last_retested_at_iso": "2020-05-27T08:53:47.783459",
             "status": "INACTIVE"
         },
         "bowithow.com": {
@@ -430,8 +430,8 @@
         "d.cpufan.club": {
             "included_at_epoch": 1588527457.0,
             "included_at_iso": "2020-05-03T17:37:37",
-            "last_retested_at_epoch": 1590480141.725832,
-            "last_retested_at_iso": "2020-05-26T08:02:21.725832",
+            "last_retested_at_epoch": 1590569393.788297,
+            "last_retested_at_iso": "2020-05-27T08:49:53.788297",
             "status": "INACTIVE"
         },
         "d8acddffe978b5dfcae6.date": {
@@ -458,8 +458,8 @@
         "dexim.space": {
             "included_at_epoch": 1588454119.0,
             "included_at_iso": "2020-05-02T21:15:19",
-            "last_retested_at_epoch": 1590480425.339895,
-            "last_retested_at_iso": "2020-05-26T08:07:05.339895",
+            "last_retested_at_epoch": 1590569571.567192,
+            "last_retested_at_iso": "2020-05-27T08:52:51.567192",
             "status": "INACTIVE"
         },
         "didnkinrab.com": {
@@ -1179,8 +1179,8 @@
         "miner-7.team.nimiq.agency": {
             "included_at_epoch": 1588468208.0,
             "included_at_iso": "2020-05-03T01:10:08",
-            "last_retested_at_epoch": 1590480455.892943,
-            "last_retested_at_iso": "2020-05-26T08:07:35.892943",
+            "last_retested_at_epoch": 1590569420.999924,
+            "last_retested_at_iso": "2020-05-27T08:50:20.999924",
             "status": "INACTIVE"
         },
         "miner-8.team.nimiq.agency": {
@@ -1564,8 +1564,8 @@
         "proofly.win": {
             "included_at_epoch": 1588453603.0,
             "included_at_iso": "2020-05-02T21:06:43",
-            "last_retested_at_epoch": 1590480310.994761,
-            "last_retested_at_iso": "2020-05-26T08:05:10.994761",
+            "last_retested_at_epoch": 1590569519.785438,
+            "last_retested_at_iso": "2020-05-27T08:51:59.785438",
             "status": "INACTIVE"
         },
         "proxy-fra-1.inf.nimiq.network": {
@@ -1725,8 +1725,8 @@
         "seed-fra-4.inf.nimiq.network": {
             "included_at_epoch": 1589579959.883163,
             "included_at_iso": "2020-05-15T21:59:19.883163",
-            "last_retested_at_epoch": 1590480219.630943,
-            "last_retested_at_iso": "2020-05-26T08:03:39.630943",
+            "last_retested_at_epoch": 1590569943.003545,
+            "last_retested_at_iso": "2020-05-27T08:59:03.003545",
             "status": "INACTIVE"
         },
         "seed-fra-5.inf.nimiq.network": {
@@ -1739,8 +1739,8 @@
         "seed-fra-6.inf.nimiq.network": {
             "included_at_epoch": 1589579687.847773,
             "included_at_iso": "2020-05-15T21:54:47.847773",
-            "last_retested_at_epoch": 1590475551.325249,
-            "last_retested_at_iso": "2020-05-26T06:45:51.325249",
+            "last_retested_at_epoch": 1590569541.303346,
+            "last_retested_at_iso": "2020-05-27T08:52:21.303346",
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
@@ -1802,8 +1802,8 @@
         "sunnimiq2.cf": {
             "included_at_epoch": 1588527210.0,
             "included_at_iso": "2020-05-03T17:33:30",
-            "last_retested_at_epoch": 1590480641.557198,
-            "last_retested_at_iso": "2020-05-26T08:10:41.557198",
+            "last_retested_at_epoch": 1590569534.10755,
+            "last_retested_at_iso": "2020-05-27T08:52:14.107550",
             "status": "INACTIVE"
         },
         "synconnector.com": {
@@ -2243,8 +2243,8 @@
         "www.bmcm.ml": {
             "included_at_epoch": 1588508964.0,
             "included_at_iso": "2020-05-03T12:29:24",
-            "last_retested_at_epoch": 1590476007.273331,
-            "last_retested_at_iso": "2020-05-26T06:53:27.273331",
+            "last_retested_at_epoch": 1590569627.581204,
+            "last_retested_at_iso": "2020-05-27T08:53:47.581204",
             "status": "INACTIVE"
         },
         "www.bmcm.pw": {
@@ -2425,8 +2425,8 @@
         "www.coinhiveproxy.com": {
             "included_at_epoch": 1588444281.0,
             "included_at_iso": "2020-05-02T18:31:21",
-            "last_retested_at_epoch": 1590480610.49861,
-            "last_retested_at_iso": "2020-05-26T08:10:10.498610",
+            "last_retested_at_epoch": 1590569428.672374,
+            "last_retested_at_iso": "2020-05-27T08:50:28.672374",
             "status": "INACTIVE"
         },
         "www.coinrail.io": {
@@ -2488,8 +2488,8 @@
         "www.dexim.space": {
             "included_at_epoch": 1588454114.0,
             "included_at_iso": "2020-05-02T21:15:14",
-            "last_retested_at_epoch": 1590480420.422438,
-            "last_retested_at_iso": "2020-05-26T08:07:00.422438",
+            "last_retested_at_epoch": 1590569566.638553,
+            "last_retested_at_iso": "2020-05-27T08:52:46.638553",
             "status": "INACTIVE"
         },
         "www.didnkinrab.com": {
@@ -3377,8 +3377,8 @@
         "www.proofly.win": {
             "included_at_epoch": 1588453603.0,
             "included_at_iso": "2020-05-02T21:06:43",
-            "last_retested_at_epoch": 1590480310.891516,
-            "last_retested_at_iso": "2020-05-26T08:05:10.891516",
+            "last_retested_at_epoch": 1590569519.690445,
+            "last_retested_at_iso": "2020-05-27T08:51:59.690445",
             "status": "INACTIVE"
         },
         "www.renhertfo.com": {
@@ -3475,8 +3475,8 @@
         "www.sunnimiq2.cf": {
             "included_at_epoch": 1588527210.0,
             "included_at_iso": "2020-05-03T17:33:30",
-            "last_retested_at_epoch": 1590480641.105632,
-            "last_retested_at_iso": "2020-05-26T08:10:41.105632",
+            "last_retested_at_epoch": 1590569534.170713,
+            "last_retested_at_iso": "2020-05-27T08:52:14.170713",
             "status": "INACTIVE"
         },
         "www.synconnector.com": {
