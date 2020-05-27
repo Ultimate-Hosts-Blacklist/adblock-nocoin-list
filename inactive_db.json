@@ -409,8 +409,8 @@
         "crypto.csgocpu.com": {
             "included_at_epoch": 1589834426.18615,
             "included_at_iso": "2020-05-18T20:40:26.186150",
-            "last_retested_at_epoch": 1590475730.970985,
-            "last_retested_at_iso": "2020-05-26T06:48:50.970985",
+            "last_retested_at_epoch": 1590564847.339616,
+            "last_retested_at_iso": "2020-05-27T07:34:07.339616",
             "status": "INACTIVE"
         },
         "ctlrnwbv.ru": {
@@ -1088,8 +1088,8 @@
         "miner-12.team.nimiq.agency": {
             "included_at_epoch": 1588493379.0,
             "included_at_iso": "2020-05-03T08:09:39",
-            "last_retested_at_epoch": 1590475656.991612,
-            "last_retested_at_iso": "2020-05-26T06:47:36.991612",
+            "last_retested_at_epoch": 1590565258.06572,
+            "last_retested_at_iso": "2020-05-27T07:40:58.065720",
             "status": "INACTIVE"
         },
         "miner-13.team.nimiq.agency": {
@@ -1571,8 +1571,8 @@
         "proxy-fra-1.inf.nimiq.network": {
             "included_at_epoch": 1589579658.17221,
             "included_at_iso": "2020-05-15T21:54:18.172210",
-            "last_retested_at_epoch": 1590475722.811464,
-            "last_retested_at_iso": "2020-05-26T06:48:42.811464",
+            "last_retested_at_epoch": 1590565030.260205,
+            "last_retested_at_iso": "2020-05-27T07:37:10.260205",
             "status": "INACTIVE"
         },
         "proxy-fra-2.inf.nimiq.network": {
@@ -2740,8 +2740,8 @@
         "www.freshrefresher.com": {
             "included_at_epoch": 1588529453.0,
             "included_at_iso": "2020-05-03T18:10:53",
-            "last_retested_at_epoch": 1590475527.335279,
-            "last_retested_at_iso": "2020-05-26T06:45:27.335279",
+            "last_retested_at_epoch": 1590565362.353703,
+            "last_retested_at_iso": "2020-05-27T07:42:42.353703",
             "status": "INACTIVE"
         },
         "www.g-content.bid": {
@@ -3104,8 +3104,8 @@
         "www.ledinund.com": {
             "included_at_epoch": 1585840541.0,
             "included_at_iso": "2020-04-02T15:15:41",
-            "last_retested_at_epoch": 1590470708.095483,
-            "last_retested_at_iso": "2020-05-26T05:25:08.095483",
+            "last_retested_at_epoch": 1590565303.336095,
+            "last_retested_at_iso": "2020-05-27T07:41:43.336095",
             "status": "INACTIVE"
         },
         "www.losital.ru": {
@@ -3545,8 +3545,8 @@
         "www.verresof.com": {
             "included_at_epoch": 1586079881.0,
             "included_at_iso": "2020-04-05T09:44:41",
-            "last_retested_at_epoch": 1590475497.000858,
-            "last_retested_at_iso": "2020-05-26T06:44:57.000858",
+            "last_retested_at_epoch": 1590565264.843648,
+            "last_retested_at_iso": "2020-05-27T07:41:04.843648",
             "status": "INACTIVE"
         },
         "www.wasm24.ru": {
