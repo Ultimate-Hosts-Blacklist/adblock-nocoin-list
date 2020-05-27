@@ -1718,8 +1718,8 @@
         "seed-fra-2.inf.nimiq.network": {
             "included_at_epoch": 1589579539.67318,
             "included_at_iso": "2020-05-15T21:52:19.673180",
-            "last_retested_at_epoch": 1590470965.448399,
-            "last_retested_at_iso": "2020-05-26T05:29:25.448399",
+            "last_retested_at_epoch": 1590560585.91582,
+            "last_retested_at_iso": "2020-05-27T06:23:05.915820",
             "status": "INACTIVE"
         },
         "seed-fra-4.inf.nimiq.network": {
@@ -2096,8 +2096,8 @@
         "www.andlache.com": {
             "included_at_epoch": 1588827964.183353,
             "included_at_iso": "2020-05-07T05:06:04.183353",
-            "last_retested_at_epoch": 1590470804.105597,
-            "last_retested_at_iso": "2020-05-26T05:26:44.105597",
+            "last_retested_at_epoch": 1590560370.089193,
+            "last_retested_at_iso": "2020-05-27T06:19:30.089193",
             "status": "INACTIVE"
         },
         "www.anybest.host": {
