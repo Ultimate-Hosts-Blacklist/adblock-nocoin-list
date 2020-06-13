@@ -24,8 +24,8 @@
         "None": {
             "included_at_epoch": 1587524453.0,
             "included_at_iso": "2020-04-22T03:00:53",
-            "last_retested_at_epoch": 1591921518.801569,
-            "last_retested_at_iso": "2020-06-12T00:25:18.801569",
+            "last_retested_at_epoch": 1592062063.849769,
+            "last_retested_at_iso": "2020-06-13T15:27:43.849769",
             "status": "INVALID"
         },
         "ad.g-content.bid": {
@@ -451,8 +451,8 @@
         "dev.cryptobara.com": {
             "included_at_epoch": 1588270241.0,
             "included_at_iso": "2020-04-30T18:10:41",
-            "last_retested_at_epoch": 1588270241.0,
-            "last_retested_at_iso": "2020-04-30T18:10:41",
+            "last_retested_at_epoch": 1592061309.057019,
+            "last_retested_at_iso": "2020-06-13T15:15:09.057019",
             "status": "INACTIVE"
         },
         "dexim.space": {
@@ -472,8 +472,8 @@
         "digger.cryptobara.com": {
             "included_at_epoch": 1588270744.0,
             "included_at_iso": "2020-04-30T18:19:04",
-            "last_retested_at_epoch": 1588270744.0,
-            "last_retested_at_iso": "2020-04-30T18:19:04",
+            "last_retested_at_epoch": 1592061794.510097,
+            "last_retested_at_iso": "2020-06-13T15:23:14.510097",
             "status": "INACTIVE"
         },
         "djfhwosjck.bid": {
