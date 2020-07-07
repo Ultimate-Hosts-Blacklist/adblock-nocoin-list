@@ -320,8 +320,8 @@
         "state": "future"
     },
     "dzizsih.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "encoding.ovh": {
@@ -812,7 +812,7 @@
     "service4refresh.info": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "silimbompom.com": {
         "epoch": 1619568000.0,
