@@ -447,7 +447,7 @@
     "goldoffer.online": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "graftpool.ovh": {
         "epoch": 1612396800.0,
