@@ -24,8 +24,8 @@
         "None": {
             "included_at_epoch": 1587524453.0,
             "included_at_iso": "2020-04-22T03:00:53",
-            "last_retested_at_epoch": 1595261906.786583,
-            "last_retested_at_iso": "2020-07-20T16:18:26.786583",
+            "last_retested_at_epoch": 1595349614.601302,
+            "last_retested_at_iso": "2020-07-21T16:40:14.601302",
             "status": "INVALID"
         },
         "ad.g-content.bid": {
@@ -1466,8 +1466,8 @@
         "pasoherb.gq": {
             "included_at_epoch": 1588449216.0,
             "included_at_iso": "2020-05-02T19:53:36",
-            "last_retested_at_epoch": 1595261585.849424,
-            "last_retested_at_iso": "2020-07-20T16:13:05.849424",
+            "last_retested_at_epoch": 1595349400.2791,
+            "last_retested_at_iso": "2020-07-21T16:36:40.279100",
             "status": "INACTIVE"
         },
         "pdheuryopd.loan": {
@@ -1746,8 +1746,8 @@
         "s2.appelamule.com": {
             "included_at_epoch": 1588527369.0,
             "included_at_iso": "2020-05-03T17:36:09",
-            "last_retested_at_epoch": 1595261616.953554,
-            "last_retested_at_iso": "2020-07-20T16:13:36.953554",
+            "last_retested_at_epoch": 1595349205.09479,
+            "last_retested_at_iso": "2020-07-21T16:33:25.094790",
             "status": "INACTIVE"
         },
         "s2.flowplayer.space": {
@@ -2082,8 +2082,8 @@
         "ws.pzoifaum.info": {
             "included_at_epoch": 1588527042.0,
             "included_at_iso": "2020-05-03T17:30:42",
-            "last_retested_at_epoch": 1595256385.863032,
-            "last_retested_at_iso": "2020-07-20T14:46:25.863032",
+            "last_retested_at_epoch": 1595349204.116925,
+            "last_retested_at_iso": "2020-07-21T16:33:24.116925",
             "status": "INACTIVE"
         },
         "wsp.marketgid.com": {
@@ -2432,8 +2432,8 @@
         "www.butcalve.com": {
             "included_at_epoch": 1586068977.0,
             "included_at_iso": "2020-04-05T06:42:57",
-            "last_retested_at_epoch": 1595256453.555822,
-            "last_retested_at_iso": "2020-07-20T14:47:33.555822",
+            "last_retested_at_epoch": 1595349236.085985,
+            "last_retested_at_iso": "2020-07-21T16:33:56.085985",
             "status": "INACTIVE"
         },
         "www.candid.zone": {
@@ -2726,8 +2726,8 @@
         "www.eucsoft.com": {
             "included_at_epoch": 1588763923.183524,
             "included_at_iso": "2020-05-06T11:18:43.183524",
-            "last_retested_at_epoch": 1595261696.258836,
-            "last_retested_at_iso": "2020-07-20T16:14:56.258836",
+            "last_retested_at_epoch": 1595349004.55015,
+            "last_retested_at_iso": "2020-07-21T16:30:04.550150",
             "status": "INACTIVE"
         },
         "www.evengparme.com": {
@@ -2950,8 +2950,8 @@
         "www.goldoffer.online": {
             "included_at_epoch": 1588449011.0,
             "included_at_iso": "2020-05-02T19:50:11",
-            "last_retested_at_epoch": 1595261658.969924,
-            "last_retested_at_iso": "2020-07-20T16:14:18.969924",
+            "last_retested_at_epoch": 1595349015.575754,
+            "last_retested_at_iso": "2020-07-21T16:30:15.575754",
             "status": "INACTIVE"
         },
         "www.graftpool.ovh": {
@@ -3517,8 +3517,8 @@
         "www.pasoherb.gq": {
             "included_at_epoch": 1588449216.0,
             "included_at_iso": "2020-05-02T19:53:36",
-            "last_retested_at_epoch": 1595261585.755301,
-            "last_retested_at_iso": "2020-07-20T16:13:05.755301",
+            "last_retested_at_epoch": 1595349400.245017,
+            "last_retested_at_iso": "2020-07-21T16:36:40.245017",
             "status": "INACTIVE"
         },
         "www.pdheuryopd.loan": {
