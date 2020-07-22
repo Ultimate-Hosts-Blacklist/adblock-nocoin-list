@@ -10,7 +10,7 @@
     "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
     "name": "adblock-nocoin-list",
     "previous_stats": {
-        "builds": 4,
+        "builds": 1,
         "clean_list": 582,
         "counter": {
             "down": 0,
@@ -26,6 +26,6 @@
         "whitelisted.list": 582
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-    "start_datetime": "2020-07-21T11:26:19.042690",
-    "start_epoch": 1595330779.04269
+    "start_datetime": "2020-07-22T11:27:10.152220",
+    "start_epoch": 1595417230.15222
 }
