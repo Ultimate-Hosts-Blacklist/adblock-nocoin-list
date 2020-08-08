@@ -1,19 +1,5 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 583,
-        "whitelisted.list": 583
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "Block lists to prevent JavaScript miners",
     "end_datetime": "2020-03-03T19:15:41.040771",
@@ -25,7 +11,7 @@
     "name": "adblock-nocoin-list",
     "previous_stats": {
         "builds": 2,
-        "clean_list": 583,
+        "clean_list": 587,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -36,8 +22,8 @@
             "valid": 0
         },
         "domains.list": 688,
-        "volatile.list": 583,
-        "whitelisted.list": 583
+        "volatile.list": 587,
+        "whitelisted.list": 587
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
     "start_datetime": "2020-08-08T20:55:14.610563",
