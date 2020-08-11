@@ -24,8 +24,8 @@
         "None": {
             "included_at_epoch": 1587524453.0,
             "included_at_iso": "2020-04-22T03:00:53",
-            "last_retested_at_epoch": 1596927008.870545,
-            "last_retested_at_iso": "2020-08-08T22:50:08.870545",
+            "last_retested_at_epoch": 1597106519.882623,
+            "last_retested_at_iso": "2020-08-11T00:41:59.882623",
             "status": "INVALID"
         },
         "ad.g-content.bid": {
@@ -775,6 +775,13 @@
             "included_at_iso": "2020-06-29T21:15:31.341312",
             "last_retested_at_epoch": 1597093495.571299,
             "last_retested_at_iso": "2020-08-10T21:04:55.571299",
+            "status": "INACTIVE"
+        },
+        "goldoffer.online": {
+            "included_at_epoch": 1597106380.505018,
+            "included_at_iso": "2020-08-11T00:39:40.505018",
+            "last_retested_at_epoch": 1597106380.505018,
+            "last_retested_at_iso": "2020-08-11T00:39:40.505018",
             "status": "INACTIVE"
         },
         "gustaver.ddns.net": {
