@@ -24,8 +24,8 @@
         "None": {
             "included_at_epoch": 1587524453.0,
             "included_at_iso": "2020-04-22T03:00:53",
-            "last_retested_at_epoch": 1598655755.684651,
-            "last_retested_at_iso": "2020-08-28T23:02:35.684651",
+            "last_retested_at_epoch": 1598827538.072234,
+            "last_retested_at_iso": "2020-08-30T22:45:38.072234",
             "status": "INVALID"
         },
         "ad.g-content.bid": {
@@ -87,8 +87,8 @@
         "aeros10.tk": {
             "included_at_epoch": 1588473274.0,
             "included_at_iso": "2020-05-03T02:34:34",
-            "last_retested_at_epoch": 1598649144.69856,
-            "last_retested_at_iso": "2020-08-28T21:12:24.698560",
+            "last_retested_at_epoch": 1598827261.936438,
+            "last_retested_at_iso": "2020-08-30T22:41:01.936438",
             "status": "INACTIVE"
         },
         "aeros11.tk": {
@@ -108,8 +108,8 @@
         "afflow.18-plus.net": {
             "included_at_epoch": 1588444563.0,
             "included_at_iso": "2020-05-02T18:36:03",
-            "last_retested_at_epoch": 1598649160.141649,
-            "last_retested_at_iso": "2020-08-28T21:12:40.141649",
+            "last_retested_at_epoch": 1598827418.375188,
+            "last_retested_at_iso": "2020-08-30T22:43:38.375188",
             "status": "INACTIVE"
         },
         "alflying.bid": {
@@ -619,8 +619,8 @@
         "flightzy.win": {
             "included_at_epoch": 1588454049.0,
             "included_at_iso": "2020-05-02T21:14:09",
-            "last_retested_at_epoch": 1598655560.594248,
-            "last_retested_at_iso": "2020-08-28T22:59:20.594248",
+            "last_retested_at_epoch": 1598826982.274567,
+            "last_retested_at_iso": "2020-08-30T22:36:22.274567",
             "status": "INACTIVE"
         },
         "flowplayer.space": {
@@ -864,8 +864,8 @@
         "hostingcloud.date": {
             "included_at_epoch": 1588454099.0,
             "included_at_iso": "2020-05-02T21:14:59",
-            "last_retested_at_epoch": 1598648909.425816,
-            "last_retested_at_iso": "2020-08-28T21:08:29.425816",
+            "last_retested_at_epoch": 1598827078.965385,
+            "last_retested_at_iso": "2020-08-30T22:37:58.965385",
             "status": "INACTIVE"
         },
         "hostingcloud.download": {
@@ -1032,8 +1032,8 @@
         "jshosting.racing": {
             "included_at_epoch": 1588449188.0,
             "included_at_iso": "2020-05-02T19:53:08",
-            "last_retested_at_epoch": 1598649633.187283,
-            "last_retested_at_iso": "2020-08-28T21:20:33.187283",
+            "last_retested_at_epoch": 1598827294.454494,
+            "last_retested_at_iso": "2020-08-30T22:41:34.454494",
             "status": "INACTIVE"
         },
         "jshosting.review": {
@@ -2222,8 +2222,8 @@
         "www.aeros10.tk": {
             "included_at_epoch": 1588473274.0,
             "included_at_iso": "2020-05-03T02:34:34",
-            "last_retested_at_epoch": 1598649144.998008,
-            "last_retested_at_iso": "2020-08-28T21:12:24.998008",
+            "last_retested_at_epoch": 1598827262.17292,
+            "last_retested_at_iso": "2020-08-30T22:41:02.172920",
             "status": "INACTIVE"
         },
         "www.aeros11.tk": {
@@ -2327,8 +2327,8 @@
         "www.authedmine.com": {
             "included_at_epoch": 1588444135.0,
             "included_at_iso": "2020-05-02T18:28:55",
-            "last_retested_at_epoch": 1598648921.513089,
-            "last_retested_at_iso": "2020-08-28T21:08:41.513089",
+            "last_retested_at_epoch": 1598827234.409555,
+            "last_retested_at_iso": "2020-08-30T22:40:34.409555",
             "status": "INACTIVE"
         },
         "www.autologica.ga": {
@@ -2789,8 +2789,8 @@
         "www.exdynsrv.com": {
             "included_at_epoch": 1588444471.0,
             "included_at_iso": "2020-05-02T18:34:31",
-            "last_retested_at_epoch": 1598649213.041204,
-            "last_retested_at_iso": "2020-08-28T21:13:33.041204",
+            "last_retested_at_epoch": 1598826870.808465,
+            "last_retested_at_iso": "2020-08-30T22:34:30.808465",
             "status": "INACTIVE"
         },
         "www.ffinwwfpqi.gq": {
@@ -2852,8 +2852,8 @@
         "www.flightzy.win": {
             "included_at_epoch": 1588454049.0,
             "included_at_iso": "2020-05-02T21:14:09",
-            "last_retested_at_epoch": 1598655560.535903,
-            "last_retested_at_iso": "2020-08-28T22:59:20.535903",
+            "last_retested_at_epoch": 1598826982.22523,
+            "last_retested_at_iso": "2020-08-30T22:36:22.225230",
             "status": "INACTIVE"
         },
         "www.flowplayer.space": {
@@ -3083,8 +3083,8 @@
         "www.hostingcloud.date": {
             "included_at_epoch": 1588454099.0,
             "included_at_iso": "2020-05-02T21:14:59",
-            "last_retested_at_epoch": 1598648909.371407,
-            "last_retested_at_iso": "2020-08-28T21:08:29.371407",
+            "last_retested_at_epoch": 1598827078.918073,
+            "last_retested_at_iso": "2020-08-30T22:37:58.918073",
             "status": "INACTIVE"
         },
         "www.hostingcloud.download": {
@@ -3265,8 +3265,8 @@
         "www.jshosting.racing": {
             "included_at_epoch": 1588449187.0,
             "included_at_iso": "2020-05-02T19:53:07",
-            "last_retested_at_epoch": 1598649633.124333,
-            "last_retested_at_iso": "2020-08-28T21:20:33.124333",
+            "last_retested_at_epoch": 1598827294.431942,
+            "last_retested_at_iso": "2020-08-30T22:41:34.431942",
             "status": "INACTIVE"
         },
         "www.jshosting.review": {
