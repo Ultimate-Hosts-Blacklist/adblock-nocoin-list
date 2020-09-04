@@ -367,12 +367,12 @@
     "flightsy.bid": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "flightsy.win": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "flightzy.bid": {
         "epoch": 1602288000.0,
