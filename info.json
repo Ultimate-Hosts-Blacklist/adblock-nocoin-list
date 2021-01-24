@@ -1,10 +1,10 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "description": "Block lists to prevent JavaScript miners",
-    "end_datetime": "2020-03-03T19:15:41.040771",
-    "end_epoch": 1583156314.335979,
+    "end_datetime": "2021-01-24T12:05:36.709533",
+    "end_epoch": 1611489936.709533,
     "issue_link": "https://github.com/hoshsadiq/adblock-nocoin-list/issues/new/choose",
     "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
     "name": "adblock-nocoin-list",
