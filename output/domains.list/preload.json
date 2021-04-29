@@ -1,10 +1,10 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "dacf6199a58e45cb7b1d30afea5f53dfff02eb42d246a0c1838f2914",
+    "hash": "332792a58ac7b1685cb30955bef5e6d4d2fbab46a2e7f970168b276c",
     "line_number": 690,
     "output_dir": "/home/runner/work/adblock-nocoin-list/adblock-nocoin-list/output/domains.list",
-    "previous_hash": "dacf6199a58e45cb7b1d30afea5f53dfff02eb42d246a0c1838f2914",
+    "previous_hash": "332792a58ac7b1685cb30955bef5e6d4d2fbab46a2e7f970168b276c",
     "session_id": "75f9a4391a85ee8b1b408476",
     "source": "domains.list",
     "subject": "domains.list",
