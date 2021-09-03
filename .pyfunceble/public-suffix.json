@@ -4851,7 +4851,6 @@
         "mcdir.me",
         "mcpe.me",
         "myds.me",
-        "nctu.me",
         "net.me",
         "nohost.me",
         "noip.me",
@@ -7513,7 +7512,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",
