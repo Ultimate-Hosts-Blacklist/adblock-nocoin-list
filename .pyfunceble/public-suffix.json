@@ -184,16 +184,20 @@
         "wnext.app"
     ],
     "ar": [
+        "bet.ar",
         "blogspot.com.ar",
         "com.ar",
+        "coop.ar",
         "edu.ar",
         "gob.ar",
         "gov.ar",
         "int.ar",
         "mil.ar",
         "musica.ar",
+        "mutual.ar",
         "net.ar",
         "org.ar",
+        "senasa.ar",
         "tur.ar"
     ],
     "arpa": [
@@ -748,6 +752,7 @@
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
+        "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
         "twmail.cc"
@@ -7579,6 +7584,7 @@
         "c.se",
         "com.se",
         "conf.se",
+        "d.se",
         "e.se",
         "f.se",
         "fh.se",
@@ -7870,7 +7876,6 @@
     "tm": [
         "co.tm",
         "com.tm",
-        "d.se",
         "edu.tm",
         "gov.tm",
         "mil.tm",
