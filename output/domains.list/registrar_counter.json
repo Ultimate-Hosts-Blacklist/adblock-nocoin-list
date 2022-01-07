@@ -2,11 +2,13 @@
     "counter": {
         "Dynadot LLC": 1,
         "Gransy, s.r.o.": 1,
-        "total": 2
+        "NameCheap, Inc.": 3,
+        "total": 5
     },
     "percentage": {
-        "Dynadot LLC": 50.0,
-        "Gransy, s.r.o.": 50.0,
+        "Dynadot LLC": 20.0,
+        "Gransy, s.r.o.": 20.0,
+        "NameCheap, Inc.": 60.0,
         "total": 100.0
     }
 }
