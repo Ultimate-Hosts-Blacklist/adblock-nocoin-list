@@ -2246,8 +2246,7 @@
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
-        "webthings.io",
-        "wedeploy.io"
+        "webthings.io"
     ],
     "iq": [
         "com.iq",
@@ -6924,11 +6923,11 @@
         "org.nr"
     ],
     "nu": [
-        "bci.dnstrace.pro",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu"
+        "shacknet.nu",
+        "wedeploy.io"
     ],
     "nz": [
         "ac.nz",
@@ -7495,6 +7494,7 @@
         "avocat.pro",
         "bar.pro",
         "barsy.pro",
+        "bci.dnstrace.pro",
         "cloudns.pro",
         "cpa.pro",
         "eng.pro",
