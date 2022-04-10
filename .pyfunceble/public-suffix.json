@@ -278,7 +278,8 @@
         "vic.edu.au",
         "vic.gov.au",
         "wa.au",
-        "wa.edu.au"
+        "wa.edu.au",
+        "wa.gov.au"
     ],
     "aw": [
         "com.aw"
@@ -384,7 +385,6 @@
         "u.bg",
         "v.bg",
         "w.bg",
-        "wa.gov.au",
         "x.bg",
         "y.bg",
         "z.bg"
@@ -7699,8 +7699,7 @@
         "gov.rw",
         "mil.rw",
         "net.rw",
-        "org.rw",
-        "sch.ss"
+        "org.rw"
     ],
     "sa": [
         "com.sa",
