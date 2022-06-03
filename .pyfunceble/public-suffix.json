@@ -4497,6 +4497,7 @@
         "uwajima.ehime.jp",
         "velvet.jp",
         "verse.jp",
+        "versus.jp",
         "vivian.jp",
         "wada.nagano.jp",
         "wajiki.tokushima.jp",
@@ -4971,9 +4972,6 @@
         "net.ma",
         "org.ma",
         "press.ma"
-    ],
-    "management": [
-        "router.management"
     ],
     "marketing": [
         "from.marketing",
@@ -6963,6 +6961,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "router.management",
         "shacknet.nu"
     ],
     "nz": [
@@ -7181,7 +7180,6 @@
         "uk.eu.org",
         "us.eu.org",
         "us.org",
-        "versus.jp",
         "webhop.org",
         "webredirect.org",
         "wmcloud.org",
