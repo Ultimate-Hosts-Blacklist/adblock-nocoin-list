@@ -832,7 +832,6 @@
         "it1.jenv-aruba.cloud",
         "jele.cloud",
         "jotelulu.cloud",
-        "k8s.fr-par.scw.cloud",
         "k8s.nl-ams.scw.cloud",
         "k8s.pl-waw.scw.cloud",
         "k8s.scw.cloud",
@@ -1251,6 +1250,7 @@
         "issmarterthanyou.com",
         "jcloud-ver-jpc.ik-server.com",
         "jcloud.ik-server.com",
+        "jdevcloud.com",
         "jed.wafaicloud.com",
         "jpn.com",
         "js.wpenginepowered.com",
@@ -5864,7 +5864,6 @@
         "is-a-geek.net",
         "isa-geek.net",
         "j.scaleforce.net",
-        "jdevcloud.com",
         "jelastic.saveincloud.net",
         "jelastic.tsukaeru.net",
         "jls-sto1.elastx.net",
@@ -8666,6 +8665,7 @@
     ],
     "wf": [
         "biz.wf",
+        "k8s.fr-par.scw.cloud",
         "sch.wf"
     ],
     "win": [
