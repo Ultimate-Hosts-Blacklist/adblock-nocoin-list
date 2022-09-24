@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-dev.cryptobara.com,AVAILABILITY,domains.list,2022-09-23 03:40:41.173605
-digger.cryptobara.com,AVAILABILITY,domains.list,2022-09-23 03:40:41.891090
-ganymed.beeppool.org,AVAILABILITY,domains.list,2022-09-23 03:41:08.361959
-miner.beeppool.org,AVAILABILITY,domains.list,2022-09-23 03:43:30.687564
-miner-13.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:51:31.290994
-miner-11.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:51:31.780177
-miner-14.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:51:32.283115
 miner-18.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:53:26.372355
 miner-16.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:53:26.984459
 miner-15.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:53:27.514948
@@ -426,3 +419,10 @@ miner-7.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:59:18.920045
 miner-8.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:59:19.412826
 miner-12.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:59:19.919938
 miner-10.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-23 03:59:20.438880
+dev.cryptobara.com,AVAILABILITY,domains.list,2022-09-24 03:55:29.930922
+digger.cryptobara.com,AVAILABILITY,domains.list,2022-09-24 03:55:30.343052
+ganymed.beeppool.org,AVAILABILITY,domains.list,2022-09-24 03:55:30.733507
+miner.beeppool.org,AVAILABILITY,domains.list,2022-09-24 03:55:31.146320
+miner-13.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-24 03:55:32.272040
+miner-11.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-24 03:55:33.368297
+miner-14.team.nimiq.agency,AVAILABILITY,domains.list,2022-09-24 03:55:34.246154
