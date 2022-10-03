@@ -1,10 +1,12 @@
 {
     "counter": {
-        "Isimtescil Bilisim A.S.": 1,
-        "total": 1
+        "NameCheap, Inc.": 2,
+        "OVH SAS": 1,
+        "total": 3
     },
     "percentage": {
-        "Isimtescil Bilisim A.S.": 100.0,
+        "NameCheap, Inc.": 66.66666666666667,
+        "OVH SAS": 33.333333333333336,
         "total": 100.0
     }
 }
