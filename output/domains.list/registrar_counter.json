@@ -1,10 +1,20 @@
 {
     "counter": {
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "total": 4
+        "1API GmbH": 6,
+        "Isimtescil Bilisim A.S.": 2,
+        "NameCheap, Inc.": 8,
+        "Namecheap": 2,
+        "OVH": 2,
+        "OVH SAS": 2,
+        "total": 22
     },
     "percentage": {
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 100.0,
-        "total": 100.0
+        "1API GmbH": 27.272727272727273,
+        "Isimtescil Bilisim A.S.": 9.090909090909092,
+        "NameCheap, Inc.": 36.36363636363637,
+        "Namecheap": 9.090909090909092,
+        "OVH": 9.090909090909092,
+        "OVH SAS": 9.090909090909092,
+        "total": 100.00000000000001
     }
 }
