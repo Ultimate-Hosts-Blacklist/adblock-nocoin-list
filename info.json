@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "Block lists to prevent JavaScript miners",
-    "end_datetime": "2024-06-19T05:16:03.844122",
-    "end_epoch": 1718774163.844122,
+    "end_datetime": "2024-06-20T05:31:12.439133",
+    "end_epoch": 1718861472.439133,
     "issue_link": "https://github.com/hoshsadiq/adblock-nocoin-list/issues/new/choose",
     "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
     "name": "adblock-nocoin-list",
