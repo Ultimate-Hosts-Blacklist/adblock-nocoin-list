@@ -1605,7 +1605,6 @@
         "is-a-rockstar.com",
         "is-a-socialist.com",
         "is-a-student.com",
-        "is-a-teacher.com",
         "is-a-techie.com",
         "is-a-therapist.com",
         "is-an-accountant.com",
@@ -8043,7 +8042,6 @@
         "database.run",
         "development.run",
         "express.val.run",
-        "hs.run",
         "migration.run",
         "onporter.run",
         "ravendb.run",
@@ -8178,6 +8176,7 @@
         "barsyonline.shop",
         "base.shop",
         "hoplix.shop",
+        "is-a-teacher.com",
         "shopware.shop"
     ],
     "si": [
@@ -9168,7 +9167,6 @@
     ],
     "zone": [
         "cloud66.zone",
-        "hs.zone",
         "lima.zone",
         "stackit.zone",
         "triton.zone"
