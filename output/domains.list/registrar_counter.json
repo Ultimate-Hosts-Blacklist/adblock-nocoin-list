@@ -3,22 +3,22 @@
         "1API GmbH": 6,
         "Dynadot LLC": 2,
         "Isimtescil Bilisim A.S.": 2,
-        "NameCheap, Inc.": 8,
+        "NameCheap, Inc.": 4,
         "Namecheap": 2,
         "OVH": 2,
         "OVH SAS": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "total": 28
+        "total": 24
     },
     "percentage": {
-        "1API GmbH": 21.428571428571427,
-        "Dynadot LLC": 7.142857142857143,
-        "Isimtescil Bilisim A.S.": 7.142857142857143,
-        "NameCheap, Inc.": 28.571428571428573,
-        "Namecheap": 7.142857142857143,
-        "OVH": 7.142857142857143,
-        "OVH SAS": 7.142857142857143,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 14.285714285714286,
+        "1API GmbH": 25.0,
+        "Dynadot LLC": 8.333333333333334,
+        "Isimtescil Bilisim A.S.": 8.333333333333334,
+        "NameCheap, Inc.": 16.666666666666668,
+        "Namecheap": 8.333333333333334,
+        "OVH": 8.333333333333334,
+        "OVH SAS": 8.333333333333334,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
         "total": 100.0
     }
 }
