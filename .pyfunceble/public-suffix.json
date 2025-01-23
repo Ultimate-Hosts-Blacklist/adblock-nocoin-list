@@ -392,7 +392,6 @@
         "studio.us-west-1.sagemaker.aws",
         "studio.us-west-2.sagemaker.aws",
         "transfer-webapp.ap-northeast-1.on.aws",
-        "transfer-webapp.ap-southeast-1.on.aws",
         "transfer-webapp.ap-southeast-2.on.aws",
         "transfer-webapp.eu-central-1.on.aws",
         "transfer-webapp.eu-north-1.on.aws",
@@ -4503,6 +4502,7 @@
         "minobu.yamanashi.jp",
         "minoh.osaka.jp",
         "minokamo.gifu.jp",
+        "minowa.nagano.jp",
         "mints.ne.jp",
         "misaki.okayama.jp",
         "misaki.osaka.jp",
@@ -5270,6 +5270,7 @@
         "toyotsu.fukuoka.jp",
         "toyoura.hokkaido.jp",
         "tozawa.yamagata.jp",
+        "transfer-webapp.ap-southeast-1.on.aws",
         "tsu.mie.jp",
         "tsubame.niigata.jp",
         "tsubata.ishikawa.jp",
@@ -5877,12 +5878,18 @@
         "org.mk"
     ],
     "ml": [
+        "ac.ml",
+        "art.ml",
+        "asso.ml",
         "com.ml",
         "edu.ml",
         "gouv.ml",
         "gov.ml",
+        "info.ml",
+        "inst.ml",
         "net.ml",
         "org.ml",
+        "pr.ml",
         "presse.ml"
     ],
     "mm": [
@@ -7256,7 +7263,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "minowa.nagano.jp",
         "shacknet.nu"
     ],
     "nz": [
