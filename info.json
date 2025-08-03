@@ -2,19 +2,19 @@
     "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "Block lists to prevent JavaScript miners",
-    "end_datetime": "2025-08-02T12:02:55.789247",
-    "end_epoch": 1754136175.789247,
+    "end_datetime": "2025-08-03T11:57:21.446128",
+    "end_epoch": 1754222241.446128,
     "issue_link": "https://github.com/hoshsadiq/adblock-nocoin-list/issues/new/choose",
     "link": "https://github.com/hoshsadiq/adblock-nocoin-list/",
     "name": "adblock-nocoin-list",
-    "previous_end_datetime": "2025-08-01T12:07:05.270333",
-    "previous_end_epoch": 1754050025.270333,
-    "previous_start_datetime": "2025-08-01T11:57:55.116722",
-    "previous_start_epoch": 1754049475.116722,
+    "previous_end_datetime": "2025-08-02T12:02:55.789247",
+    "previous_end_epoch": 1754136175.789247,
+    "previous_start_datetime": "2025-08-02T11:51:57.906198",
+    "previous_start_epoch": 1754135517.906198,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-    "start_datetime": "2025-08-02T11:51:57.906198",
-    "start_epoch": 1754135517.906198
+    "start_datetime": "2025-08-03T11:49:15.297221",
+    "start_epoch": 1754221755.297221
 }
