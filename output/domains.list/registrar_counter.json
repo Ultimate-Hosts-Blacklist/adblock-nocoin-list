@@ -1,16 +1,40 @@
 {
     "counter": {
+        "1API GmbH": 2,
         "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 2,
+        "Cloudflare, Inc.": 4,
+        "DOMAINER-RU": 2,
+        "Dynadot Inc": 2,
+        "HOSTINGER operations, UAB": 2,
+        "Key-Systems LLC": 2,
         "Name.com, Inc": 2,
+        "NameCheap, Inc.": 8,
+        "NameSilo, LLC": 2,
+        "OVH": 2,
         "REG-GRANSY": 2,
-        "total": 8,
+        "REG-INTERNET-CZ": 2,
+        "Realtime Register B.V.": 2,
+        "humbly, LLC": 2,
+        "total": 40,
         "united-domains AG": 2
     },
     "percentage": {
-        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 25.0,
-        "Name.com, Inc": 25.0,
-        "REG-GRANSY": 25.0,
+        "1API GmbH": 5.0,
+        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 5.0,
+        "Cloudflare, Inc.": 10.0,
+        "DOMAINER-RU": 5.0,
+        "Dynadot Inc": 5.0,
+        "HOSTINGER operations, UAB": 5.0,
+        "Key-Systems LLC": 5.0,
+        "Name.com, Inc": 5.0,
+        "NameCheap, Inc.": 20.0,
+        "NameSilo, LLC": 5.0,
+        "OVH": 5.0,
+        "REG-GRANSY": 5.0,
+        "REG-INTERNET-CZ": 5.0,
+        "Realtime Register B.V.": 5.0,
+        "humbly, LLC": 5.0,
         "total": 100.0,
-        "united-domains AG": 25.0
+        "united-domains AG": 5.0
     }
 }
