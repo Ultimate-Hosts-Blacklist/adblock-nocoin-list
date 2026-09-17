@@ -4,6 +4,7 @@
         "Cloudflare, Inc.": 4,
         "DOMAINER-RU": 2,
         "Dynadot Inc": 2,
+        "GoDaddy.com, LLC": 2,
         "Key-Systems LLC": 2,
         "Name.com, Inc": 2,
         "NameCheap, Inc.": 8,
@@ -13,14 +14,14 @@
         "REG-INTERNET-CZ": 2,
         "Realtime Register B.V.": 2,
         "humbly, LLC": 2,
-        "total": 36,
-        "united-domains AG": 2
+        "total": 36
     },
     "percentage": {
         "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 5.555555555555555,
         "Cloudflare, Inc.": 11.11111111111111,
         "DOMAINER-RU": 5.555555555555555,
         "Dynadot Inc": 5.555555555555555,
+        "GoDaddy.com, LLC": 5.555555555555555,
         "Key-Systems LLC": 5.555555555555555,
         "Name.com, Inc": 5.555555555555555,
         "NameCheap, Inc.": 22.22222222222222,
@@ -30,7 +31,6 @@
         "REG-INTERNET-CZ": 5.555555555555555,
         "Realtime Register B.V.": 5.555555555555555,
         "humbly, LLC": 5.555555555555555,
-        "total": 100.00000000000001,
-        "united-domains AG": 5.555555555555555
+        "total": 100.00000000000001
     }
 }
