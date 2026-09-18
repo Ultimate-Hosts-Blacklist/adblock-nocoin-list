@@ -1,6 +1,5 @@
 {
     "counter": {
-        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 2,
         "Cloudflare, Inc.": 4,
         "DOMAINER-RU": 2,
         "Dynadot Inc": 2,
@@ -14,23 +13,22 @@
         "REG-INTERNET-CZ": 2,
         "Realtime Register B.V.": 2,
         "humbly, LLC": 2,
-        "total": 36
+        "total": 34
     },
     "percentage": {
-        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 5.555555555555555,
-        "Cloudflare, Inc.": 11.11111111111111,
-        "DOMAINER-RU": 5.555555555555555,
-        "Dynadot Inc": 5.555555555555555,
-        "GoDaddy.com, LLC": 5.555555555555555,
-        "Key-Systems LLC": 5.555555555555555,
-        "Name.com, Inc": 5.555555555555555,
-        "NameCheap, Inc.": 22.22222222222222,
-        "NameSilo, LLC": 5.555555555555555,
-        "OVH": 5.555555555555555,
-        "REG-GRANSY": 5.555555555555555,
-        "REG-INTERNET-CZ": 5.555555555555555,
-        "Realtime Register B.V.": 5.555555555555555,
-        "humbly, LLC": 5.555555555555555,
-        "total": 100.00000000000001
+        "Cloudflare, Inc.": 11.764705882352942,
+        "DOMAINER-RU": 5.882352941176471,
+        "Dynadot Inc": 5.882352941176471,
+        "GoDaddy.com, LLC": 5.882352941176471,
+        "Key-Systems LLC": 5.882352941176471,
+        "Name.com, Inc": 5.882352941176471,
+        "NameCheap, Inc.": 23.529411764705884,
+        "NameSilo, LLC": 5.882352941176471,
+        "OVH": 5.882352941176471,
+        "REG-GRANSY": 5.882352941176471,
+        "REG-INTERNET-CZ": 5.882352941176471,
+        "Realtime Register B.V.": 5.882352941176471,
+        "humbly, LLC": 5.882352941176471,
+        "total": 99.99999999999997
     }
 }
