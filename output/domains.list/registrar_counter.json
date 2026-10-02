@@ -2,7 +2,6 @@
     "counter": {
         "Cloudflare, Inc.": 4,
         "DOMAINER-RU": 2,
-        "Dynadot Inc": 2,
         "GoDaddy.com, LLC": 2,
         "Key-Systems LLC": 2,
         "Name.com, Inc": 2,
@@ -13,22 +12,21 @@
         "REG-INTERNET-CZ": 2,
         "Realtime Register B.V.": 2,
         "humbly, LLC": 2,
-        "total": 34
+        "total": 32
     },
     "percentage": {
-        "Cloudflare, Inc.": 11.764705882352942,
-        "DOMAINER-RU": 5.882352941176471,
-        "Dynadot Inc": 5.882352941176471,
-        "GoDaddy.com, LLC": 5.882352941176471,
-        "Key-Systems LLC": 5.882352941176471,
-        "Name.com, Inc": 5.882352941176471,
-        "NameCheap, Inc.": 23.529411764705884,
-        "NameSilo, LLC": 5.882352941176471,
-        "OVH": 5.882352941176471,
-        "REG-GRANSY": 5.882352941176471,
-        "REG-INTERNET-CZ": 5.882352941176471,
-        "Realtime Register B.V.": 5.882352941176471,
-        "humbly, LLC": 5.882352941176471,
-        "total": 99.99999999999997
+        "Cloudflare, Inc.": 12.5,
+        "DOMAINER-RU": 6.25,
+        "GoDaddy.com, LLC": 6.25,
+        "Key-Systems LLC": 6.25,
+        "Name.com, Inc": 6.25,
+        "NameCheap, Inc.": 25.0,
+        "NameSilo, LLC": 6.25,
+        "OVH": 6.25,
+        "REG-GRANSY": 6.25,
+        "REG-INTERNET-CZ": 6.25,
+        "Realtime Register B.V.": 6.25,
+        "humbly, LLC": 6.25,
+        "total": 100.0
     }
 }
